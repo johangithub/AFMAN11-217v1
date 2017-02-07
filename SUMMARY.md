@@ -1,16 +1,14 @@
-# Summary
-
 * [Table of Contents](README.md)
 
 ----
 
 * BASIC INSTRUMENT FLYING
 
-* [1.1. Instrument Categories](./chp1.md#1_1)
+* [1.1. Instrument Categories](chp1.md#1_1)
 
-* [1.2. Control and Performance Concept](./chp1.md#1_2)
+* [1.2. Control and Performance Concept](chp1.md#1_2)
 
-* [1.3. Display of Flight Instrumentation](./chp1.md#1_3)
+* [1.3. Display of Flight Instrumentation](chp1.md#1_3)
 
 ----
 
