@@ -1,6 +1,8 @@
-Chapter 5 NAVIGATION TECHNIQUES AND PROCEDURES
+# Chapter 5 NAVIGATION TECHNIQUES AND PROCEDURES
 
-5.1. Application. Instrument procedures are flown using a combination of techniques (arc to radial, radial to arc, course intercepts, etc.). Individual aircraft flight manuals should provide proper procedures for using the navigation equipment installed.
+#### 5.1.{#5_1} Application.
+
+Instrument procedures are flown using a combination of techniques (arc to radial, radial to arc, course intercepts, etc.). Individual aircraft flight manuals should provide proper procedures for using the navigation equipment installed.
 
 5.1.1. Where procedures depict a ground track, the pilot is expected to correct for known wind conditions. In general, the only time wind correction should not be applied is during radar vectors. The following general procedures apply to all aircraft.
 
@@ -22,7 +24,7 @@ Chapter 5 NAVIGATION TECHNIQUES AND PROCEDURES
 
 5.1.2.1.1.2.1. WARNING: It is imperative that crews are cognizant of what station identification is being displayed. For example, if the station identification being displayed is from the DME portion of a VOR/DME station, then only the DME alphanumeric display may be used. The VOR azimuth station must still be identified aurally.
 
-5.1.2.1.1.2.2. WARNING: Voice communication is possible on VOR, ILS, and ADF frequencies. The only positive method of identifying a station is by its Morse code identifier (either aurally or alphanumeric display) or (for VORs) the recorded automatic voice identification, indicated by the word-VOR‖ following the station name. Identifying a NAVAID by listening to other voice transmissions broadcast on a Flight Service Station or other facility is not a reliable method of station identification and shall not be used.
+5.1.2.1.1.2.2. WARNING: Voice communication is possible on VOR, ILS, and ADF frequencies. The only positive method of identifying a station is by its Morse code identifier (either aurally or alphanumeric display) or (for VORs) the recorded automatic voice identification, indicated by the word "VOR" following the station name. Identifying a NAVAID by listening to other voice transmissions broadcast on a Flight Service Station or other facility is not a reliable method of station identification and shall not be used.
 
 5.1.2.1.2. VOR. The station identification may be a repeated three-letter Morse code group, or a three-letter Morse code group alternating with a recorded voice identifier.
 
@@ -40,15 +42,19 @@ Chapter 5 NAVIGATION TECHNIQUES AND PROCEDURES
 
 5.1.6. Check. The pilot will check the appropriate instrument indicators for proper operation.
 
-5.2. Homing to a Station (Figure 5 1). Homing occurs when the pilot places the head of the bearing pointer under the upper lubber line (or Top Index) and makes periodic heading changes to keep it there. Failure to apply wind drift corrections results in a curved flight path to the station.
+#### 5.2.{#5_2} Homing to a Station (Figure 5 1).
+
+Homing occurs when the pilot places the head of the bearing pointer under the upper lubber line (or Top Index) and makes periodic heading changes to keep it there. Failure to apply wind drift corrections results in a curved flight path to the station.
 
 ##### Figure 5.1. Curved Flight Path as a Result of Homing with a Crosswind.
 
-5.3. Proceeding Direct to a Station. Turn the aircraft in the shorter direction to place the head of the bearing pointer under the top index or upper lubber line. Center the CDI with a TO indication (N/A RMI only) and apply wind drift corrections to maintain the selected course to the station.
+#### 5.3.{#5_3} Proceeding Direct to a Station.
 
-5.3.1. If either the compass card or the bearing pointer is inoperative, a course indicator or HSI may be used to determine the bearing to the station by rotating the course set knob until the CDI centers and -TO‖ is read in the -TO-FROM‖ indicator. The magnetic bearing from the aircraft to the station then appears in the course selector window. Pilots will attempt to verify bearing information by any other means available before considering it reliable.
+Turn the aircraft in the shorter direction to place the head of the bearing pointer under the top index or upper lubber line. Center the CDI with a TO indication (N/A RMI only) and apply wind drift corrections to maintain the selected course to the station.
 
-5.4. Course Intercepts.
+5.3.1. If either the compass card or the bearing pointer is inoperative, a course indicator or HSI may be used to determine the bearing to the station by rotating the course set knob until the CDI centers and "TO" is read in the "TO-FROM" indicator. The magnetic bearing from the aircraft to the station then appears in the course selector window. Pilots will attempt to verify bearing information by any other means available before considering it reliable.
+
+#### 5.4.{#5_4} Course Intercepts.
 
 5.4.1. Successful Course Interception. Course interceptions are performed in many phases of instrument navigation. To ensure successful course interception, an intercept heading must be used that results in an angle or rate of intercept sufficient to complete a particular intercept problem.
 
@@ -172,7 +178,7 @@ Chapter 5 NAVIGATION TECHNIQUES AND PROCEDURES
 
 ##### Figure 5.8. Maintaining Course.
 
-5.5. Station Passage.
+#### 5.5.{#5_5} Station Passage.
 
 5.5.1. VOR and VOR/DME. Station passage occurs when the TO-FROM indicator makes the first positive change to FROM. For RMI/BDHI only, station passage is determined when the bearing pointer passes 90 degrees to the inbound course.
 
@@ -182,7 +188,9 @@ Chapter 5 NAVIGATION TECHNIQUES AND PROCEDURES
 
 5.5.3.1. NOTE: When established in an NDB holding pattern, subsequent station passage occurs at the first definite move by the bearing pointer through the 45° index on the RMI.
 
-5.6. Groundspeed Check. Groundspeed checks are done to aid in calculating ETAs to fixes, which are useful for position reports, fuel computations and other mission timing problems.
+#### 5.6.{#5_6} Groundspeed Check.
+
+Groundspeed checks are done to aid in calculating ETAs to fixes, which are useful for position reports, fuel computations and other mission timing problems.
 
 5.6.1. Conditions. A groundspeed check can be made while maintaining a course to or from a TACAN/VORTAC station. As a guide, however, groundspeed checks should be performed only when the aircraft slant range distance is more than the aircraft altitude divided by 1,000. For example, if the aircraft is at FL 200, groundspeed checks should be performed when beyond 20 nautical miles. Checks made below 5,000 feet are accurate at any distance.
 
@@ -192,7 +200,9 @@ Chapter 5 NAVIGATION TECHNIQUES AND PROCEDURES
 
 ##### Figure 5.9. Arc Interception From a Radial.
 
-5.7. Arc/Radial Intercepts. TACAN and VOR/DME arcs are used during many phases of flight. Arcs are normally intercepted from radials (either inbound or outbound) and vice-versa, making the turn from one to the other, in general, 90° of heading change . Use accurate lead points and account for variations in aircraft turn radius due to winds to prevent excessive under or overshoots.
+#### 5.7.{#5_7} Arc/Radial Intercepts.
+
+TACAN and VOR/DME arcs are used during many phases of flight. Arcs are normally intercepted from radials (either inbound or outbound) and vice-versa, making the turn from one to the other, in general, 90° of heading change . Use accurate lead points and account for variations in aircraft turn radius due to winds to prevent excessive under or overshoots.
 
 5.7.1. Arc Interception from a Radial (Figure 5.9). Tune and identify the NAVAID used for the intercept and determine the direction of turn. Using aircraft calculations found in AFMAN 11-217V3, determine the lead point necessary to intercept the arc. When the lead point is reached, turn to place the bearing pointer on the 90° index.
 
@@ -208,7 +218,9 @@ Chapter 5 NAVIGATION TECHNIQUES AND PROCEDURES
 
 ##### Figure 5.11. Radial Interception From an Arc.
 
-5.8. Proceeding Direct to a VOR/DME or TACAN Fix. Proceeding directly to a radial/DME fix without RNAV equipment is not a normal form of navigation in the NAS. It can, however, be a useful technique for backing up RNAV equipment or navigating in a loss of communication situation. Bearing and range information from a VOR/DME or TACAN facility is sufficient for navigating direct to any fix within reception range.
+#### 5.8.{#5_8} Proceeding Direct to a VOR/DME or TACAN Fix.
+
+Proceeding directly to a radial/DME fix without RNAV equipment is not a normal form of navigation in the NAS. It can, however, be a useful technique for backing up RNAV equipment or navigating in a loss of communication situation. Bearing and range information from a VOR/DME or TACAN facility is sufficient for navigating direct to any fix within reception range.
 
 5.8.1. In order to legally conform to NAS area navigation procedures and the national route program (NRP) as outlined in FLIP GP chapter 4 and FAA AC 90-91, USAF pilots and air traffic controllers should not file, give, or accept a clearance (as applicable) that requires an aircraft to navigate direct to a radial/DME fix (perform a fix-to-fix) except under the following circumstances:
 
@@ -220,13 +232,13 @@ Chapter 5 NAVIGATION TECHNIQUES AND PROCEDURES
 
 5.8.1.4. Operational necessity dictates (i.e. filing and flying an air refueling track) or conforms to military enroute operations.
 
-5.8.2. When operating in the NAS and given a clearance to proceed to a radial/DME fix, unless the aircraft capability or operations meet one of the parameters defined above, pilots should reply with -unable‖ and state the appropriate suffix code defined in FLIP GP chapter 4. Under these circumstances, ATC should provide navigation guidance to the radial/DME fix either via radar vectors or an alternate routing.
+5.8.2. When operating in the NAS and given a clearance to proceed to a radial/DME fix, unless the aircraft capability or operations meet one of the parameters defined above, pilots should reply with "unable" and state the appropriate suffix code defined in FLIP GP chapter 4. Under these circumstances, ATC should provide navigation guidance to the radial/DME fix either via radar vectors or an alternate routing.
 
 5.8.3. The following are some techniques to accomplish a fix-to-fix (Figure 5.12.):
 
-5.8.3.1. Tune the TACAN or VOR/DME equipment (VOR and DME stations must be collocated). Then visualize the navigational situation on the HSI or RMI compass card. The NAVAID will be represented by the center of the compass card. The outer ring of the compass card will represent the greater of either the aircraft‘s current DME or the DME of the fix.
+5.8.3.1. Tune the TACAN or VOR/DME equipment (VOR and DME stations must be collocated). Then visualize the navigational situation on the HSI or RMI compass card. The NAVAID will be represented by the center of the compass card. The outer ring of the compass card will represent the greater of either the aircraft's current DME or the DME of the fix.
 
-5.8.3.2. Turn in the shortest direction to a heading somewhere between the head of the bearing pointer and the radial of the desired fix. (Position B of Figure 5.12) If the DME of the fix is greater than the aircraft‘s current DME, the heading will be closer to the desired radial and vice-versa. This initial heading will get the aircraft moving in the general direction of the fix until the following procedures can fine-tune the heading.
+5.8.3.2. Turn in the shortest direction to a heading somewhere between the head of the bearing pointer and the radial of the desired fix. (Position B of Figure 5.12) If the DME of the fix is greater than the aircraft's current DME, the heading will be closer to the desired radial and vice-versa. This initial heading will get the aircraft moving in the general direction of the fix until the following procedures can fine-tune the heading.
 
 5.8.3.3. To fine-tune the heading to the desired fix, mentally place the aircraft and the desired fix on their respective radials at the appropriate relative position from the center of the compass card (NAVAID). Turn the aircraft until the line between these two points is parallel to a line from the center of the compass card and the upper lubber line with the two fix points vertically one above the other. (Position C of Figure 5.12)
 
@@ -234,7 +246,9 @@ Chapter 5 NAVIGATION TECHNIQUES AND PROCEDURES
 
 ##### Figure 5.12. Proceeding Direct to a DME Fix.
 
-5.9. Area Navigation. (RNAV) A method of navigation using a variety of onboard equipment including Inertial Navigation System (INS), TACAN/VOR/DME-based Flight Management Systems (FMS), Integrated/Embedded GPS, DME/DME/IRU (if certified for IFR navigation) or LORAN-C that allows the pilot to fly directly to predetermined geographical positions (waypoints) or define routes or instrument procedures in terms of latitude and longitude or radial/distance relative to a ground based navigation facility.
+#### 5.9.{#5_9} Area Navigation.
+
+(RNAV) A method of navigation using a variety of onboard equipment including Inertial Navigation System (INS), TACAN/VOR/DME-based Flight Management Systems (FMS), Integrated/Embedded GPS, DME/DME/IRU (if certified for IFR navigation) or LORAN-C that allows the pilot to fly directly to predetermined geographical positions (waypoints) or define routes or instrument procedures in terms of latitude and longitude or radial/distance relative to a ground based navigation facility.
 
 5.9.1. In order to be considered RNAV capable, an aircraft must be able to display a course from a given point (waypoint) to a clearance limit while also providing a continuously updated aircraft position with reference to that course line. An aircraft FMS, INS, LORAN, or integrated GPS navigation system providing course guidance to the aircrew meets this requirement. Mission enhancement GPS systems do not meet this requirement.
 
@@ -244,11 +258,13 @@ Chapter 5 NAVIGATION TECHNIQUES AND PROCEDURES
 
 5.9.3.1. En Route. RNAV aircraft must be able to navigate on the intended RNP Type route or within the RNP Type airspace using their onboard navigation equipment. MAJCOMS provide operational approval for each type of RNP airspace/procedure. Operational approval ensures that RNAV equipment meets accuracy and functional requirements, and that appropriate crew training and procedures are in place. While airspace requirements vary between regions, in some cases backup equipment (VOR/DME, TACAN, etc.) may be required to allow reversion to an alternate means of navigation should RNAV equipment fail.
 
-5.9.3.2. Terminal. RNAV in the terminal area consists of both approach and departure procedures. RNAV equipment may be used as the sole source of navigation information for instrument approaches in suitably equipped and certified aircraft. RNAV approaches must be retrieved from an aircraft database and not be manually entered. MAJCOMs certify the capabilities of their aircraft in accordance with civil standards as outlined in various Technical Standard Order‘s (TSO) and Advisory Circular‘s (AC).
+5.9.3.2. Terminal. RNAV in the terminal area consists of both approach and departure procedures. RNAV equipment may be used as the sole source of navigation information for instrument approaches in suitably equipped and certified aircraft. RNAV approaches must be retrieved from an aircraft database and not be manually entered. MAJCOMs certify the capabilities of their aircraft in accordance with civil standards as outlined in various Technical Standard Order's (TSO) and Advisory Circular's (AC).
 
 5.9.4. Aircrew Responsibilities. Although RNAV routes (including random routes) may be filed at any time, aircrews should have alternate routing and contingency actions planned. ATC considers radar coverage capability and compatibility with traffic flow and volume prior to assigning random RNAV routes. Although ATC provides radar separation on RNAV routes in the national airspace system (NAS), navigation and collision avoidance on any RNAV route remains the responsibility of the aircrew. Aircrews must consider the limits of RNAV equipment certification prior to accepting clearance for RNAV routes or RNP airspace. Aircrews should also take advantage of opportunities to update the navigation system while en route. In addition, crews should monitor RNAV equipment performance and be prepared to return to an alternate means of navigation should an equipment malfunction require.
 
-5.10. GPS Navigation. The ICAO has adopted -Global Navigation Satellite System (GNSS)‖ as an umbrella term to identify any satellite navigation system where the user performs onboard position determination from satellite information. Currently there are only two GNSS systems that are recognized by the International Frequency Registration Board (IFRB): the GPS developed by the United States and the Global Orbiting Navigation Satellite System (GLONASS) now under development by the Federation of Russia.
+#### 5.10.{#5_10} GPS Navigation.
+
+The ICAO has adopted "Global Navigation Satellite System (GNSS)" as an umbrella term to identify any satellite navigation system where the user performs onboard position determination from satellite information. Currently there are only two GNSS systems that are recognized by the International Frequency Registration Board (IFRB): the GPS developed by the United States and the Global Orbiting Navigation Satellite System (GLONASS) now under development by the Federation of Russia.
 
 5.10.1. GPS Requirements for IFR navigation. In order to be used for IFR navigation, GPS equipment must meet minimum functional requirements and comply with approved standards for accuracy, integrity, availability, and continuity. Compliance with FAA TSOs and ACs are the primary means of ensuring these standards are met. AFI 11-202V3, lists FAA TSOs and ACs applicable to GPS User Equipment (UE).
 
@@ -278,19 +294,19 @@ Chapter 5 NAVIGATION TECHNIQUES AND PROCEDURES
 
 5.10.2.3.3.2.4. The predictive RAIM check, if required, must be accomplished prior to the intended GPS operation, including both GPS departures and approaches, and may be accomplished either by onboard GPS equipment or via a ground system. The predictive RAIM algorithm should take into account satellites that are NOTAMed out of service between the time of the predictive RAIM check and the flight segment over which GPS is required. Prior to deselecting satellites for predictive RAIM purposes, aircrew should ensure that deselecting would not affect use of the satellite in the active navigation solution. Some systems only allow deselecting from the active navigation solution and do not allow deselecting for predictive RAIM purposes.
 
-5.10.2.3.3.2.5. GPS NOTAMs may be obtained by entering "KGPS" as the-airfield‖ at the military NOTAM website. Note that the NOTAM website refers to satellites using the PRN, not the SVN. Most, if not all GPS avionics use the PRN to identify satellites to be deselected. For information on the correlation between a particular PRN and SVN, consult the GPS Support Center web site.
+5.10.2.3.3.2.5. GPS NOTAMs may be obtained by entering "KGPS" as the "airfield" at the military NOTAM website. Note that the NOTAM website refers to satellites using the PRN, not the SVN. Most, if not all GPS avionics use the PRN to identify satellites to be deselected. For information on the correlation between a particular PRN and SVN, consult the GPS Support Center web site.
 
 5.10.2.3.3.2.6. For operations in the US NAS, predictive RAIM information for individual destinations may be obtained by contacting an FAA Flight Service Station or at the RAIM prediction website (http://www.raimprediction.net) . For operations within Europe, predictive RAIM information may be obtained at the AUGUR website (http://augur.ecacnav.com/augur/app/home). Additionally, the military also provides airfield-specific GPS RAIM NOTAMs for non-precision approach procedures at military airfields. The RAIM outages are listed as Mseries NOTAMs and may be obtained for up to 24 hours from the time of request. However, this list currently covers only 320 military-use airfields and may not include your intended destination.
 
 5.10.2.4. Fault Detection and Exclusion (FDE). FDE allows GPS equipment to automatically detect and exclude faulty satellites from the navigation solution. FDE requires a minimum of 6 satellites in view (or 5 satellites with baro-aiding). Past experience indicates that without FDE, or the ability to manually determine which satellite is faulty and exclude it from the navigation solution, satellite failure can lead to significant GPS position errors (in excess of 100 nm). FDE is required when utilizing GPS as a primary means of navigation in remote/oceanic areas.
 
-5.10.3. Using GPS in lieu of land-based NAVAIDS (RNAV substitution). GPS equipment certified for IFR operations IAW AFI 11-202V3, may be used in place of land-based NAVAIDS for en route and terminal operations, in the following situations (within the U.S. National Airspace (NAS) and worldwide on procedures constructed by a US-Gov‘t TERPS authority (FAA/USN/USAF)):
+5.10.3. Using GPS in lieu of land-based NAVAIDS (RNAV substitution). GPS equipment certified for IFR operations IAW AFI 11-202V3, may be used in place of land-based NAVAIDS for en route and terminal operations, in the following situations (within the U.S. National Airspace (NAS) and worldwide on procedures constructed by a US-Gov't TERPS authority (FAA/USN/USAF)):
 
 5.10.3.1. Determining the aircraft position over a TACAN, VOR, NDB, compass locator or DME fix.
 
 5.10.3.2. Determine the aircraft position over a named fix defined by a VOR course, NDB bearing, or compass locator bearing crossing a VOR or localizer course.
 
-5.10.3.3. Navigating to or from a TACAN, VOR, NDB, or compass locator. For example, a pilot might proceed direct to a VOR or navigate on a segment of a departure procedure. However, pilots may not substitute for the navigation aid providing lateral guidance for the final approach segment. This restriction does not refer to instrument approach procedures with -or GPS‖ in the title when using GPS or WAAS.
+5.10.3.3. Navigating to or from a TACAN, VOR, NDB, or compass locator. For example, a pilot might proceed direct to a VOR or navigate on a segment of a departure procedure. However, pilots may not substitute for the navigation aid providing lateral guidance for the final approach segment. This restriction does not refer to instrument approach procedures with "or GPS" in the title when using GPS or WAAS.
 
 5.10.3.4. Hold over a TACAN, VOR, NDB, compass locator or DME fix.
 
@@ -352,7 +368,7 @@ Chapter 5 NAVIGATION TECHNIQUES AND PROCEDURES
 
 5.10.6. GPS Terminal Area Restrictions
 
-5.10.6.1. Definition of Terminal Area Procedures. The FAA does not define the dividing line between terminal area procedures and other types of RNAV procedures (DP, STARS, etc.). In some areas, for example where terrain is a factor, transitioning to terminal area accuracy would be appropriate from the beginning of the STAR. In other areas, for example in eastern Kansas where the terrain is relatively flat, terminal accuracy would not be required until on the approach. To preclude confusion, the USAF has adopted the following as procedure. Terminal Area Procedures and Restrictions as described below apply when on any segment of a published instrument approach procedure as defined in AFI 11-202V3. As a conservative technique, you may consider yourself -in the terminal area‖ if you are within 25 NM of the facility, below Class A airspace, or are using a published procedure for navigation (IAP/STAR/SID, etc).
+5.10.6.1. Definition of Terminal Area Procedures. The FAA does not define the dividing line between terminal area procedures and other types of RNAV procedures (DP, STARS, etc.). In some areas, for example where terrain is a factor, transitioning to terminal area accuracy would be appropriate from the beginning of the STAR. In other areas, for example in eastern Kansas where the terrain is relatively flat, terminal accuracy would not be required until on the approach. To preclude confusion, the USAF has adopted the following as procedure. Terminal Area Procedures and Restrictions as described below apply when on any segment of a published instrument approach procedure as defined in AFI 11-202V3. As a conservative technique, you may consider yourself "in the terminal area" if you are within 25 NM of the facility, below Class A airspace, or are using a published procedure for navigation (IAP/STAR/SID, etc).
 
 5.10.6.1.1. Equipment must meet the requirements of AFI 11-202V3 and have an operational RAIM capability.
 
@@ -400,13 +416,15 @@ Chapter 5 NAVIGATION TECHNIQUES AND PROCEDURES
 
 ##### Figure 5.15. RNP Converging Runway Operations.
 
-5.11. Database Issues for RNAV and GPS Navigation. GPS and other RNAV procedures rely on data extracted from the aircraft navigation database. The potential for serious navigation errors is created by inherent properties of database creation and its use by aircrew and aircraft systems. In order to mitigate these potential errors crews must be familiar with database issues and required procedures.
+#### 5.11.{#5_11} Database Issues for RNAV and GPS Navigation.
+
+GPS and other RNAV procedures rely on data extracted from the aircraft navigation database. The potential for serious navigation errors is created by inherent properties of database creation and its use by aircrew and aircraft systems. In order to mitigate these potential errors crews must be familiar with database issues and required procedures.
 
 5.11.1. Aircraft use navigation databases provided by either National Geospatial-Intelligence Agency (NGA) (i.e. DAFIF) or a commercial vendor (i.e. Jeppesen). These databases contain a worldwide list of airports, navigation aids, waypoints, and instrument procedures. Outside the US NAS, this data is provided by host nations, and is not necessarily qualitychecked by database providers during database creation. Navigation data may be filtered and tailored to meet individual aircraft requirements. Jeppesen tailors their data to meet customer specifications, while DAFIF data is filtered and formatted by outside contractors. Updated navigation data is published on a 28-day cycle.
 
 5.11.1.1. Database Requirements. In order to use GPS for the terminal area, all procedures (DP, Standard Terminal Arrival (STAR), IAP) must be retrieved in their entirety from a current, approved navigation database. Only those approaches included in the receiver database are authorized, and must display as full approaches (not advisory approaches which would not allow pilot to "arm" the approach).
 
-5.11.1.1.1. Manual Data Base Manipulation. Users may not alter terminal procedures retrieved from the equipment database. However, this requirement does not prevent the storage of -user-defined‖ data. This requirement also does not preclude aircrew from complying with ATC instructions by proceeding direct to a point on a STAR/DP or by receiving ATC vectors onto course. This -user-defined‖ data, however, cannot be part of a terminal procedure, to include IAF or feeder fixes.
+5.11.1.1.1. Manual Data Base Manipulation. Users may not alter terminal procedures retrieved from the equipment database. However, this requirement does not prevent the storage of "user-defined" data. This requirement also does not preclude aircrew from complying with ATC instructions by proceeding direct to a point on a STAR/DP or by receiving ATC vectors onto course. This "user-defined" data, however, cannot be part of a terminal procedure, to include IAF or feeder fixes.
 
 5.11.2. Database related errors have occurred at all stages of database development and use. Host nations have provided inaccurate data; database providers have introduced errors during database creation and aircraft specific tailoring; aircrew have selected incorrect waypoint/procedure data; finally, aircraft flight management systems/navigation computers have flown instrument procedures in a manner that does not match the charted procedure.
 
@@ -432,7 +450,7 @@ Chapter 5 NAVIGATION TECHNIQUES AND PROCEDURES
 
 5.11.4.2. RNAV Airways. RNAV airways should be retrieved in their entirety from the database using the airway identifier. If entered manually, aircrew must ensure that all waypoints are entered and flyby/flyover attributes are correctly entered.
 
-5.11.5. RNAV Terminal Area Operations. As the production of stand-alone GPS approaches has progressed, many of the original overlay approaches have been replaced with stand-alone procedures specifically designed for use by GPS systems. The title of the remaining GPS overlay procedures has been revised on the approach chart to -or GPS‖ (e.g., VOR or GPS RWY 24). Therefore, all the approaches that can be used by GPS now contain -GPS‖ in the title (e.g., -VOR or GPS RWY 24,‖ -GPS RWY 24,‖ or -RNAV (GPS) RWY 24‖). During these GPS approaches, underlying ground-based NAVAIDs are not required to be operational and associated aircraft avionics need not be installed, operational, turned on or monitored (monitoring of the underlying approach is suggested when equipment is available and functional). Existing overlay approaches may be requested using the GPS title, such as-GPS RWY 24‖ for the VOR or GPS RWY 24.
+5.11.5. RNAV Terminal Area Operations. As the production of stand-alone GPS approaches has progressed, many of the original overlay approaches have been replaced with stand-alone procedures specifically designed for use by GPS systems. The title of the remaining GPS overlay procedures has been revised on the approach chart to "or GPS" (e.g., VOR or GPS RWY 24). Therefore, all the approaches that can be used by GPS now contain "GPS" in the title (e.g., "VOR or GPS RWY 24," "GPS RWY 24," or "RNAV (GPS) RWY 24"). During these GPS approaches, underlying ground-based NAVAIDs are not required to be operational and associated aircraft avionics need not be installed, operational, turned on or monitored (monitoring of the underlying approach is suggested when equipment is available and functional). Existing overlay approaches may be requested using the GPS title, such as "GPS RWY 24" for the VOR or GPS RWY 24.
 
 5.11.5.1. Some databases may not contain all transitions or departures from all runways. Terminal area and instrument approach procedures must be retrieved in their entirety from the navigation database. These procedures may not be modified or entered manually.
 
@@ -458,4 +476,4 @@ Chapter 5 NAVIGATION TECHNIQUES AND PROCEDURES
 
 5.11.7. Both Jeppesen and NGA (DAFIF) have established procedures for informing crews of known database problems. Crews must check database NOTAMs prior to flight for information on any planned RNAV or GPS procedures.
 
-5.11.7.1. NGA (DAFIF) database NOTAMs associated with a particular airfield are class-W‖ NOTAMs and may be obtained by entering an airfield identifier in the Joint Chiefs of Staff (JCS) NOTAM web site (https://www.notams.jcs.mil/dinsQueryWeb). DAFIF NOTAMs not associated with a particular airfield (airway NOTAMs, etc.) may be obtained by consulting FLIP change notices via the DAFIF NOTAMs link on the JCS NOTAM web site.. The Jeppesen NOTAM page contains information on airfield specific procedures at the top of the page and has links to regional information at the bottom of the page. Jeppesen database NOTAMs may be accessed through the links section of the JCS NOTAM web site.
+5.11.7.1. NGA (DAFIF) database NOTAMs associated with a particular airfield are class "W" NOTAMs and may be obtained by entering an airfield identifier in the Joint Chiefs of Staff (JCS) NOTAM web site (https://www.notams.jcs.mil/dinsQueryWeb). DAFIF NOTAMs not associated with a particular airfield (airway NOTAMs, etc.) may be obtained by consulting FLIP change notices via the DAFIF NOTAMs link on the JCS NOTAM web site.. The Jeppesen NOTAM page contains information on airfield specific procedures at the top of the page and has links to regional information at the bottom of the page. Jeppesen database NOTAMs may be accessed through the links section of the JCS NOTAM web site.

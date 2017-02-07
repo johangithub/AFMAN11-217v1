@@ -1,6 +1,8 @@
-Chapter 11 LOW ALTITUDE APPROACHES
+# Chapter 11 LOW ALTITUDE APPROACHES
 
-11.1. Introduction. Low altitude approaches are used to transition aircraft from the low altitude environment to final approach for landing. Low altitude instrument approach procedures exist for one purpose -- to assist you in guiding your aircraft to the final approach fix, on course, on altitude, and in the final approach configuration (Figure 11.1). It has become normal to expect ATC to provide radar vectors to final; however, you must always be prepared to execute the "full procedure" when appropriate.
+#### 11.1.{#11_1} Introduction.
+
+Low altitude approaches are used to transition aircraft from the low altitude environment to final approach for landing. Low altitude instrument approach procedures exist for one purpose -- to assist you in guiding your aircraft to the final approach fix, on course, on altitude, and in the final approach configuration (Figure 11.1). It has become normal to expect ATC to provide radar vectors to final; however, you must always be prepared to execute the "full procedure" when appropriate.
 
 11.1.1. NOTE: This chapter deals primarily with low altitude approaches flown in FAA airspace. All procedures detailed in this chapter apply to FAA and ICAO airspace unless annotated otherwise in Chapter 17, ICAO Procedures.
 
@@ -8,7 +10,9 @@ Chapter 11 LOW ALTITUDE APPROACHES
 
 ##### Figure 11.1. Low Altitude Approach.
 
-11.2. Overview. There are two broad categories of low altitude approaches: course reversals and procedure tracks. Before we look at each type in detail, here are some guidelines that apply to all low altitude approaches:
+#### 11.2.{#11_2} Overview.
+
+There are two broad categories of low altitude approaches: course reversals and procedure tracks. Before we look at each type in detail, here are some guidelines that apply to all low altitude approaches:
 
 11.2.1. Initial Approach Fix (IAF). Most approaches begin at an IAF. ATC will normally clear you to the appropriate IAF and then clear you for the approach. Unless ATC specifically clears you otherwise, you are expected to fly to the IAF and execute the full instrument approach procedure as published.
 
@@ -18,7 +22,9 @@ Chapter 11 LOW ALTITUDE APPROACHES
 
 11.2.3. Aircraft Speed. Prior to reaching the initial approach fix, the pilot must slow to aircraft maneuvering speed. Use holding airspeed if maneuvering airspeed is not specified for your aircraft. Establish approach configuration and airspeed before the final approach fix unless your aircraft flight manual procedures require otherwise.
 
-11.3. Types of Course Reversals. There are two common types of course reversals: the procedure turn (PT) (Figure 11.3) and the holding pattern in lieu of procedure turn (HILO PT) (Figure 11.4).
+#### 11.3.{#11_3} Types of Course Reversals.
+
+There are two common types of course reversals: the procedure turn (PT) (Figure 11.3) and the holding pattern in lieu of procedure turn (HILO PT) (Figure 11.4).
 
 11.3.1. Restrictions. Do not execute a procedure turn or HILO PT in the following situations. (Many people use the memory aid – SNERT).
 
@@ -45,15 +51,19 @@ Chapter 11 LOW ALTITUDE APPROACHES
 
 ##### Figure 11.5. NoPT Routing.
 
-11.4. Procedure Turns. One of the most common types of low altitude course reversals is the procedure turn. Procedure turns are depicted in the plan view of U.S. government charts with a barb symbol () indicating the direction or side of the outbound course on which the procedure turn or maneuvering is to be accomplished (Figure 11.3). The procedure turn fix is identified on the profile view of the approach at the point where the IAP begins. To give you an idea of what the procedure turn airspace looks like, refer to Figure 11.6. The actual radii of a PT area are dependent on the altitude and airspeed of the specific procedure.
+#### 11.4.{#11_4} Procedure Turns.
+
+One of the most common types of low altitude course reversals is the procedure turn. Procedure turns are depicted in the plan view of U.S. government charts with a barb symbol () indicating the direction or side of the outbound course on which the procedure turn or maneuvering is to be accomplished (Figure 11.3). The procedure turn fix is identified on the profile view of the approach at the point where the IAP begins. To give you an idea of what the procedure turn airspace looks like, refer to Figure 11.6. The actual radii of a PT area are dependent on the altitude and airspeed of the specific procedure.
 
 ##### Figure 11.6. Procedure Turn Area.
 
-11.4.1. Aircraft Speed. Procedure turns may be safely flown at speeds up to 250 KIAS provided the pilot takes into consideration all factors which may affect the aircraft‘s turn performance (e.g., winds, TAS at altitude, bank angle, etc.).
+11.4.1. Aircraft Speed. Procedure turns may be safely flown at speeds up to 250 KIAS provided the pilot takes into consideration all factors which may affect the aircraft's turn performance (e.g., winds, TAS at altitude, bank angle, etc.).
 
 11.4.1.1. NOTE: The FAA recommends a maximum airspeed of 200 KIAS while performing procedure turn course reversals, and when possible, USAF aircraft should also observe this speed restriction. If a speed of 200 KIAS is not practical, you must exercise caution to ensure your aircraft remains in the protected airspace provided by TERPS.
 
-11.5. Methods for Flying Procedure Turns. There are three common methods for executing a procedure turn course reversal: the holding technique, the 45/180, and the 80/260. Regardless of the method you choose to fly the procedure turn, take the following two notes into consideration when planning your approach:
+#### 11.5.{#11_5} Methods for Flying Procedure Turns.
+
+There are three common methods for executing a procedure turn course reversal: the holding technique, the 45/180, and the 80/260. Regardless of the method you choose to fly the procedure turn, take the following two notes into consideration when planning your approach:
 
 11.5.1. Plan the outbound leg to allow enough time for configuration and any descent required prior to the FAF. Adjust the outbound leg length to ensure your aircraft will stay inside the “remain within distance” noted on the profile view of the approach plate. The remain within distance is measured from the procedure turn fix unless the IAP specifies otherwise. At the completion of the outbound leg, turn to intercept the procedure turn course inbound.
 
@@ -61,7 +71,9 @@ Chapter 11 LOW ALTITUDE APPROACHES
 
 ##### Figure 11.7. Procedure Turn Approach with No FAF Depicted.
 
-11.6. Holding Method. Enter the procedure turn according to the holding procedures described in Chapter 8 with the following exceptions:
+#### 11.6.{#11_6} Holding Method.
+
+Enter the procedure turn according to the holding procedures described in Chapter 8 with the following exceptions:
 
 11.6.1. If your heading is within 90° of the outbound procedure turn course, you may use normal lead points to intercept the procedure turn course outbound.
 
@@ -76,7 +88,9 @@ Chapter 11 LOW ALTITUDE APPROACHES
 
 ##### Figure 11.8. PT Fix Altitude.
 
-11.7. The 45°/180° and the 80°/260° Course Reversals. Two other methods to accomplish a procedure turn approach are the 45°/180° and the 80°/260° course reversal maneuvers. The procedures for flying each maneuver are identical with the exception of the actual course reversal.
+#### 11.7.{#11_7} The 45°/180° and the 80°/260° Course Reversals.
+
+Two other methods to accomplish a procedure turn approach are the 45°/180° and the 80°/260° course reversal maneuvers. The procedures for flying each maneuver are identical with the exception of the actual course reversal.
 
 11.7.1. Entry. Upon reaching the procedure turn fix, turn in the shortest direction to intercept the procedure turn course outbound. Use normal lead points if practical.
 
@@ -93,7 +107,9 @@ Chapter 11 LOW ALTITUDE APPROACHES
 
 11.7.4.2. The 80°/260°. To begin the reversal maneuver, make an 80° turn away from the outbound track toward the maneuvering side followed by an immediate 260° turn in the opposite direction to intercept the inbound course.
 
-11.8. Holding Pattern in Lieu of Procedure Turn (HILO PT). The HILO PT is another common way to execute a low altitude course reversal. The HILO PT is depicted like any other holding pattern except the holding pattern track is printed with a heavy black line ( ) in the plan view. The depiction of the approach in the profile view varies depending on where the descent should begin.
+#### 11.8.{#11_8} Holding Pattern in Lieu of Procedure Turn (HILO PT).
+
+The HILO PT is another common way to execute a low altitude course reversal. The HILO PT is depicted like any other holding pattern except the holding pattern track is printed with a heavy black line ( ) in the plan view. The depiction of the approach in the profile view varies depending on where the descent should begin.
 
 11.8.1. Flying the Holding Pattern. The holding pattern should be flown as depicted, to include leg length or timing. Enter and fly the HILO PT holding pattern according to the holding procedures described in Chapter 8.
 
@@ -102,7 +118,7 @@ Chapter 11 LOW ALTITUDE APPROACHES
 11.8.3. Additional Guidance for HILO PTs. If cleared for the approach while holding in a published HILO PT, complete the holding pattern and commence the approach without making additional turns in the holding pattern (altitude permitting). If an additional turn is needed to lose excessive altitude, request clearance from ATC since additional circuits of the holding pattern are not expected by ATC. If the aircraft is at an altitude from which the approach can be safely executed and you are ready to turn inbound immediately, you may request approval for an early turn from ATC.
 
 
-11.9. Procedural Tracks.
+#### 11.9.{#11_9} Procedural Tracks.
 
 11.9.1. Depiction. There is no specific depiction for a procedural track. (Figures 11.9, 11.10 and 11.11) It may employ arcs, radials, courses, turns, etc. When a specific flight path is required, procedural track symbology is used to depict the flight path between the IAF and FAF. The depiction used is a heavy black line showing intended aircraft ground track. 
 
@@ -128,7 +144,9 @@ Chapter 11 LOW ALTITUDE APPROACHES
 
 ##### Figure 11.12. Procedure Track Approach (Teardrop).
 
-11.10. RNAV (GPS) Entry Procedures Via the Terminal Arrival Area (TAA). Entry for RNAV (GPS) approaches is normally accomplished via the TAA. Entry may be accomplished either via a NoPT routing, or via a course reversal maneuver if depicted.
+#### 11.10.{#11_10} RNAV (GPS) Entry Procedures Via the Terminal Arrival Area (TAA).
+
+Entry for RNAV (GPS) approaches is normally accomplished via the TAA. Entry may be accomplished either via a NoPT routing, or via a course reversal maneuver if depicted.
 
 11.10.1. Objective. The objective of the TAA is to provide a seamless transition from the en route structure to the terminal environment for arriving aircraft equipped with Flight Management System (FMS) and/or Global Positioning System (GPS) navigational equipment. The TAA will not be found on all RNAV procedures, particularly in areas of heavy concentration of air traffic. When the TAA is published, it replaces the MSA for that approach procedure.
 
@@ -182,7 +200,9 @@ Chapter 11 LOW ALTITUDE APPROACHES
 
 ##### Figure 11.21. TAA with Feeders from an Airway.
 
-11.11. Helicopter Only Approaches (Figure 11 22). Helicopter only approaches are identified by the term "COPTER", the type of facility producing final approach course guidance, and a numerical identification of the final approach course; for example, COPTER VOR 336. The criteria for copter only approaches are based on the unique maneuvering capability of the helicopter at airspeeds not exceeding 90 knots (EXCEPT 70 KIAS when on the final approach or missed approach segment and, if annotated, in holding. See AFI 11-202V3). On the basis of this airspeed, these special helicopter only approaches may be used with the helicopter being considered an approach Category A aircraft. These approaches should all be considered "straight-in" and, therefore, a visibility only approach may be accomplished. Once the instrument approach has been accomplished, you should plan to touch down on the threshold of the procedure runway or helipad. If there are several helipads, the designated instrument helipad will be identified using "negative symbology".
+#### 11.11.{#11_11} Helicopter Only Approaches (Figure 11 22).
+
+Helicopter only approaches are identified by the term "COPTER", the type of facility producing final approach course guidance, and a numerical identification of the final approach course; for example, COPTER VOR 336. The criteria for copter only approaches are based on the unique maneuvering capability of the helicopter at airspeeds not exceeding 90 knots (EXCEPT 70 KIAS when on the final approach or missed approach segment and, if annotated, in holding. See AFI 11-202V3). On the basis of this airspeed, these special helicopter only approaches may be used with the helicopter being considered an approach Category A aircraft. These approaches should all be considered "straight-in" and, therefore, a visibility only approach may be accomplished. Once the instrument approach has been accomplished, you should plan to touch down on the threshold of the procedure runway or helipad. If there are several helipads, the designated instrument helipad will be identified using "negative symbology".
 
 ##### Figure 11.22. Copter Only Approach.
 

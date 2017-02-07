@@ -1,10 +1,12 @@
 # Chapter 3 NAVIGATION INSTRUMENTS
 
-3.1. Application. The navigation instruments explained in this chapter are still common in
+#### 3.1.{#3_1} Application.
+
+The navigation instruments explained in this chapter are still common in
 many USAF aircraft or are incorporated in digital (glass) cockpit displays. These instruments
 are the radio magnetic indicator (RMI), course indicator (CI), range indicator, bearing-distanceheading indicator (BDHI), flight director, and Flight Management System (FMS).
 
-3.2. Basic Systems.
+#### 3.2.{#3_2} Basic Systems.
 
 3.2.1. Radio Magnetic Indicator (RMI) (Figure 3.1). The RMI displays aircraft heading with
 navigational bearing data. It normally consists of a rotating compass card and two bearing
@@ -154,7 +156,9 @@ only. TACAN/VOR pointers may continue to indicate proper magnetic bearings. Unti
 verified by radar or other navigation equipment, consider this bearing information
 unreliable.
 
-3.3. Flight Director. The flight director provides the pilot with displays of pitch and bank
+#### 3.3.{#3_3} Flight Director.
+
+The flight director provides the pilot with displays of pitch and bank
 attitudes and the navigation situation of the aircraft. The flight director, when combined with
 round dial performance instruments, is termed the flight director system (FDS). When the flight
 director is combined with vertical scale instruments it is termed the integrated flight instrument
@@ -181,7 +185,7 @@ width of the glide slope (1° to 1.8°). Example: If the glide slope width was 1
 
 3.3.1.1.2. Command Bars. The command bars display steering information to
 intercept or maintain a desired flight path. To utilize the steering function, simply
-"fly" the ADI‘s aircraft symbol by adjusting the aircraft attitude until it is snugly
+"fly" the ADI's aircraft symbol by adjusting the aircraft attitude until it is snugly
 aligned beneath the command bars. The bars will command the proper pitch and
 bank to turn, intercept, and maintain a course and altitude.
 
@@ -201,7 +205,7 @@ or waypoints. (Figure 3.5.)
 
 ##### Figure 3.5. Electronic HIS.
 
-3.3.2.1. Course Selector Knob. The course selector knob on most HSI‘s may be used to
+3.3.2.1. Course Selector Knob. The course selector knob on most HSI's may be used to
 select any course by rotating the head of the course arrow to the desired course on the
 compass card. Check the course selector window for the proper setting.
 
@@ -242,7 +246,9 @@ to and maintain the glideslope. In this mode, commanded bank angle is normally
 limited to a maximum of 15° and maximum pitch attitude commanded is 10° to 17°,
 depending on the system.
 
-3.4. Flight Management System (FMS). Many newer aircraft are equipped with an FMS
+#### 3.4.{#3_4} Flight Management System (FMS).
+
+Many newer aircraft are equipped with an FMS
 consisting of a Flight Management Computer (FMC), one or more Control Display Units (CDU),
 an internal navigation database, and various displays and annunciators (Figure 3.6). The FMS
 utilizes aircraft sensors and navigation database information to compute and display aircraft
@@ -275,8 +281,10 @@ arrivals, and instrument approaches. Aircrews may also store defined routes and 
 in the database. Navigation databases require periodic updates, normally on a 28-day cycle,
 to ensure data is current.
 
-3.5. Single Medium Displays. A single medium display is a Head-Up Display (HUD), HeadDown Display (HDD), or Helmet-Mounted Display (HMD) (Figure 3.7). These systems can
-display control, performance, and navigation data in the pilot‘s outside field of view, enabling
+#### 3.5.{#3_5} Single Medium Displays.
+
+A single medium display is a Head-Up Display (HUD), HeadDown Display (HDD), or Helmet-Mounted Display (HMD) (Figure 3.7). These systems can
+display control, performance, and navigation data in the pilot's outside field of view, enabling
 him to clear and monitor instruments simultaneously. Information received from HUD
 equipment that is not certified for sole-reference instrument flight by HQ USAF/A3O must be
 verified with other cockpit indications.

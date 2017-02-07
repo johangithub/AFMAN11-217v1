@@ -1,8 +1,12 @@
 # Chapter 14 MISSED APPROACH
 
-14.1. Planning. Performing a missed approach successfully is the result of thorough planning. You should familiarize yourself with the missed approach departure instructions during preflight planning. The missed approach departure instruction is designed to return the aircraft to an altitude providing en route obstruction clearance. In some cases the aircraft may be returned to the initial segment of the approach.
+#### 14.1.{#14_1} Planning.
 
-14.2. Missed Approach Point (MAP). The missed approach point for a nonprecision straightin approach is located along the final approach course and no farther from the FAF than the runway threshold (or over an on-airport navigation facility for a no-FAF procedure and some selected FAF procedures). To determine the location of the MAP, compare the distance from the FAF to the MAP adjacent to the timing block. It may not be the same point as depicted in the profile view. If there is not a timing block, the MAP should be clearly portrayed on the IAP.
+Performing a missed approach successfully is the result of thorough planning. You should familiarize yourself with the missed approach departure instructions during preflight planning. The missed approach departure instruction is designed to return the aircraft to an altitude providing en route obstruction clearance. In some cases the aircraft may be returned to the initial segment of the approach.
+
+#### 14.2.{#14_2} Missed Approach Point (MAP).
+
+The missed approach point for a nonprecision straightin approach is located along the final approach course and no farther from the FAF than the runway threshold (or over an on-airport navigation facility for a no-FAF procedure and some selected FAF procedures). To determine the location of the MAP, compare the distance from the FAF to the MAP adjacent to the timing block. It may not be the same point as depicted in the profile view. If there is not a timing block, the MAP should be clearly portrayed on the IAP.
 
 14.2.1. NOTE: The MAP depicted on the IAP is for the non-radar approach with the lowest HAT. For example, on an ILS approach designed by the FAA, the MAP printed will be for the ILS DA/DH. The MAP for the localizer will probably be at the approach end of the runway and the only way to determine this is by the distance listed on the timing block.
 
@@ -20,16 +24,20 @@
 
 14.2.7. Radar Approach. When flying a radar approach, missed approach departure instructions will be given if weather reports indicate that any portion of the final approach will be conducted in IFR conditions. At USAF bases where missed approach instructions are published in base flying regulations, controllers may not issue missed approach instructions to locally assigned aircraft.
 
-14.3. Missed Approach/Departure Instructions. A clearance for an approach includes clearance for the missed approach published on the IAP, unless ATC issues alternate missed approach instructions.
+#### 14.3.{#14_3} Missed Approach/Departure Instructions.
 
-14.3.1. Multiple Approaches. Prior to the FAF, the controller is required to issue appropriate departure instructions to be followed upon completion of approaches that are not to full stop landings. The pilot should tell the controller how the approach will terminate prior to beginning the approach. The controller will state, ―After completion of your low approach/touch-and-go/stop-and-go/option, climb and maintain (altitude), turn right/left heading (degrees).‖ These instructions are often referred to as "climb out instructions" and are designed to return you to the traffic pattern. At locations where ATC radar service is provided, the pilot should conform to radar vectors when provided by ATC in lieu of the published missed approach procedure. Unless otherwise instructed, initiate an immediate climb to the assigned altitude. Delay any turns until past the departure end of the runway, if visible, and 400 feet AGL. If the departure end is not visible, climb on runway heading until 400 feet AGL before beginning your turn. If you are unable to comply with previously issued climb out instructions, comply with the published missed approach procedure and inform ATC immediately. This will ensure ATC is aware of your intentions and can issue alternative instructions if necessary.
+A clearance for an approach includes clearance for the missed approach published on the IAP, unless ATC issues alternate missed approach instructions.
+
+14.3.1. Multiple Approaches. Prior to the FAF, the controller is required to issue appropriate departure instructions to be followed upon completion of approaches that are not to full stop landings. The pilot should tell the controller how the approach will terminate prior to beginning the approach. The controller will state, "After completion of your low approach/touch-and-go/stop-and-go/option, climb and maintain (altitude), turn right/left heading (degrees)." These instructions are often referred to as "climb out instructions" and are designed to return you to the traffic pattern. At locations where ATC radar service is provided, the pilot should conform to radar vectors when provided by ATC in lieu of the published missed approach procedure. Unless otherwise instructed, initiate an immediate climb to the assigned altitude. Delay any turns until past the departure end of the runway, if visible, and 400 feet AGL. If the departure end is not visible, climb on runway heading until 400 feet AGL before beginning your turn. If you are unable to comply with previously issued climb out instructions, comply with the published missed approach procedure and inform ATC immediately. This will ensure ATC is aware of your intentions and can issue alternative instructions if necessary.
 
 14.3.1.1. When practicing instrument approaches under VFR IAW AFI 11-202V3, you are expected to comply with climb out instructions and are NOT automatically cleared for the published missed approach procedure if you cannot comply with the climb out instructions. When practicing instrument approaches under VFR, the pilot must request and receive a specific clearance to execute the published missed approach procedure.
 
 
 14.3.2. Circling Approaches. Executing climb out instructions in conjunction with a circling approach is more complicated. If upon reaching the missed approach point the airport environment is not in sight, execute the climb out instructions from the missed approach point. If the circling maneuver has begun and the airport environment is visually lost, begin an initial climbing turn toward the landing runway to ensure the aircraft remains within the obstruction clearance area. Continue this turn until established on the climb out instructions.
 
-14.4. Actual Missed Approach. If you have been cleared to land (full stop), ATC expects you to land; therefore, if you have been cleared to land and must subsequently execute a missed approach, the pilot shall notify ATC as soon as possible and execute the published missed approach unless issued alternate climb out instructions.
+#### 14.4.{#14_4} Actual Missed Approach.
+
+If you have been cleared to land (full stop), ATC expects you to land; therefore, if you have been cleared to land and must subsequently execute a missed approach, the pilot shall notify ATC as soon as possible and execute the published missed approach unless issued alternate climb out instructions.
 
 14.4.1. Various Terms. There are various terms in the missed approach departure instruction written on the IAP that have specific meanings with respect to climbing to an altitude, executing a turn for obstruction avoidance and other reasons. Here are some examples:
 

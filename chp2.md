@@ -1,10 +1,12 @@
 #Chapter 2 INSTRUMENT FLIGHT MANEUVERS
 
-2.1. Basic Maneuvers. The procedures described in this section are those most commonly used during instrument flight (Figure 2.1). A high level of proficiency employing these procedures is necessary to avoid the hazards of instrument flight. Additional procedures may be required for specific training requirements or helicopter operations. Refer to applicable sections of your flight manual. (The ability of the helicopter to maneuver in a smaller amount of airspace has led to some differences between fixed-wing and helicopter instrument procedure obstacle clearance criteria. AFMAN 11-226 United States Standard for Terminal Instrument Procedures (TERPS) outlines these differences as they apply to the rotary-wing environment. Except where specifically addressed in this chapter, helicopters should apply normal procedures to flying instrument approaches, departures, and enroute operations.)
+#### 2.1.{#2_1} Basic Maneuvers.
+
+The procedures described in this section are those most commonly used during instrument flight (Figure 2.1). A high level of proficiency employing these procedures is necessary to avoid the hazards of instrument flight. Additional procedures may be required for specific training requirements or helicopter operations. Refer to applicable sections of your flight manual. (The ability of the helicopter to maneuver in a smaller amount of airspace has led to some differences between fixed-wing and helicopter instrument procedure obstacle clearance criteria. AFMAN 11-226 United States Standard for Terminal Instrument Procedures (TERPS) outlines these differences as they apply to the rotary-wing environment. Except where specifically addressed in this chapter, helicopters should apply normal procedures to flying instrument approaches, departures, and enroute operations.)
 
 ##### Figure 2.1. Typical Instrument Flight.
 
-2.2. The Instrument Takeoff (ITO).
+#### 2.2.{#2_2} The Instrument Takeoff (ITO).
 
 2.2.1. The ITO is accomplished by referring to both outside visual references and the flight instruments (composite cross-check). The amount of attention given to each reference will vary depending on the existing weather conditions. ITO procedures and techniques are invaluable aids at night, toward and over water or deserted areas, and during periods of reduced visibility. The pilot shall immediately transition to instrument references any time he or she becomes disoriented or when outside visual references become unreliable.
 
@@ -14,7 +16,7 @@
 
 2.2.4. In helicopters, an ITO may be accomplished from a hover or from the ground as visibility restrictions permit. Normally, a composite takeoff is accomplished using normal visual meteorological conditions (VMC) procedures and combining reference to the flight instruments with outside visual references to provide a smooth transition from VMC to instrument meteorological conditions (IMC) flight. Helicopter ITOs may have to be accomplished entirely on instruments due to restrictions to visibility induced by rotor downwash on dust, sand, or snow. Follow flight manual procedures for an ITO where visibility is restricted due to rotor downwash.
 
-2.3. Individual Maneuvers.
+#### 2.3.{#2_3} Individual Maneuvers.
 
 2.3.1. Straight and Level Flight. Straight and level unaccelerated flight consists of maintaining desired altitude, heading, and airspeed.
 
@@ -32,7 +34,7 @@
 
 2.3.1.2.1. Maintaining a desired heading is accomplished by maintaining a zero bank attitude in coordinated flight. If a heading deviation occurs, make a smooth bank change on the ADI to return to the desired heading. As a guide, the bank attitude change on the ADI should equal the heading deviation in degrees, not to exceed 30°. For example, if the heading deviation is 10°, then 10° of bank would produce a suitable rate of correction. (At high true airspeeds a larger bank may be needed to prevent a prolonged correction.)
 
-2.3.1.2.1.1. If a zero bank attitude is maintained and the heading changes, the ADI may be precessing. Confirm this by referencing backup ADI‘s. If precession is noted, it may be necessary to transition to the backup ADI depending on the severity of the precession.
+2.3.1.2.1.1. If a zero bank attitude is maintained and the heading changes, the ADI may be precessing. Confirm this by referencing backup ADI's. If precession is noted, it may be necessary to transition to the backup ADI depending on the severity of the precession.
 
 2.3.1.3. Maintaining Airspeed.
 
@@ -72,7 +74,7 @@
 
 2.3.4.2. Rate Climbs and Descents.
 
-2.3.4.2.1. Rate climbs and descents are similar to constant airspeed climbs and descents but require a constant VVI. Using the 60 to 1 rule (AFMAN 11-217V3, Chapter 3) we know pitch multiplied by airspeed in nm/min gives VVI in 100‘s of ft/min. (e.g. Traveling 300 KIAS or 5 nm/min, a 2° pitch change will result in a VVI of 1000 ft/min). Another rule of thumb that works for most aircraft: A change in total fuel flow in pph equal to the change in VVI will maintain a given airspeed. (e.g. On a two engine aircraft, reducing power by 500 pph on each engine will maintain a constant airspeed if the aircraft pitches down to maintain 1000 ft/min VVI)
+2.3.4.2.1. Rate climbs and descents are similar to constant airspeed climbs and descents but require a constant VVI. Using the 60 to 1 rule (AFMAN 11-217V3, Chapter 3) we know pitch multiplied by airspeed in nm/min gives VVI in 100's of ft/min. (e.g. Traveling 300 KIAS or 5 nm/min, a 2° pitch change will result in a VVI of 1000 ft/min). Another rule of thumb that works for most aircraft: A change in total fuel flow in pph equal to the change in VVI will maintain a given airspeed. (e.g. On a two engine aircraft, reducing power by 500 pph on each engine will maintain a constant airspeed if the aircraft pitches down to maintain 1000 ft/min VVI)
 
 2.3.4.2.2. EXAMPLE: From level flight at 240KIAS (4 nm/min) a C-130 pilot desires to maintain 240 KIAS with a VVI of 2000 ft.min. Smoothly decreasing pitch by 5° and reducing fuel flow on each engine by 500 pph will achieve the desired descent rate at the approximate desired airspeed. A good instrument crosscheck and some minor power adjustments will fine-tune the descent profile. Accomplish the level off as described in 2.3.5.1.3.
 
@@ -82,7 +84,7 @@
 
 2.3.4.3.2. Power-Off Descent (Autorotation). If an emergency requires autorotation, enter smoothly by lowering the collective and closely cross-checking the control and performance instruments. Knowing (and briefing) the approximate ceiling will aid in determining when to begin a systematic scan for outside references. Crew coordination will be critical and should be briefed prior to flight by the aircraft commander.
 
-2.4. Basic Aircraft Control Maneuvers—Fixed Wing.
+#### 2.4.{#2_4} Basic Aircraft Control Maneuvers—Fixed Wing.
 
 2.4.1. Vertical "S" Series. The vertical "S" maneuvers are proficiency maneuvers designed to improved a pilot's crosscheck and aircraft control. There are four types: the A, B, C, and D which can be flown utilizing various configurations, airspeeds, turn and decent rates, etc. to practice all phases of instrument flight (cruise, approach descent, missed approach, etc.).
 
@@ -110,7 +112,7 @@
 
 ##### Figure 2.9. Attitude Indications During Aileron Roll.
 
-2.5. Unusual Attitudes.
+#### 2.5.{#2_5} Unusual Attitudes.
 
 2.5.1. Definition. An unusual attitude is an aircraft attitude occurring inadvertently. It may result from one factor or a combination of several factors such as turbulence, channelized attention, instrument failure, inattention, spatial disorientation, lost wingman, or transition from VMC to IMC. In most instances these attitudes are mild enough to recover by reestablishing the proper attitude for the desired flight condition and resuming a normal crosscheck. As a result of extensive tactical maneuvering, the pilot may experience unusual attitudes even in VMC. This may be aggravated by the lack of a definite horizon or by lack of contrast between the sky and ground or water.
 
@@ -142,9 +144,9 @@
 
 2.5.5.3. Bank and power. During unusual attitude recoveries, unless necessary to avoid a greater emergency, ensure bank and power do not exceed aircraft limitations.
 
-2.5.6. Fixed Wing Recovery Procedures--ADIs Inoperative. With no functioning ADI‘s, successful recovery from unusual attitudes depends greatly on pilot proficiency and early recognition of ADI failure. ADI failure should be immediately suspected if control pressures are applied without corresponding ADI changes. Another example would be performance instrument indications that contradict the "picture" on the ADI. Should an unusual attitude be encountered with no functioning ADI‘s, the following procedures are recommended:
+2.5.6. Fixed Wing Recovery Procedures--ADIs Inoperative. With no functioning ADI's, successful recovery from unusual attitudes depends greatly on pilot proficiency and early recognition of ADI failure. ADI failure should be immediately suspected if control pressures are applied without corresponding ADI changes. Another example would be performance instrument indications that contradict the "picture" on the ADI. Should an unusual attitude be encountered with no functioning ADI's, the following procedures are recommended:
 
-2.5.6.1. If the flight manual allows and an available autopilot is not slaved to gyros of the malfunctioning ADI‘s, consideration may be given to engaging the autopilot and setting it to straight and level flight. If airspeed or vertical velocity are excessive, use the procedures below to return the aircraft to acceptable flight parameters before attempting to engage the autopilot.
+2.5.6.1. If the flight manual allows and an available autopilot is not slaved to gyros of the malfunctioning ADI's, consideration may be given to engaging the autopilot and setting it to straight and level flight. If airspeed or vertical velocity are excessive, use the procedures below to return the aircraft to acceptable flight parameters before attempting to engage the autopilot.
 
 2.5.6.2. Climb or dive. Determine whether the aircraft is in a climb or a dive by referring to the airspeed, altimeter, and vertical velocity indicators.
 
@@ -174,6 +176,6 @@
 
 2.5.8.4. Level off. Upon reaching level flight, center the turn needle. The aircraft is level when the altimeter stops. The vertical velocity indicator lag error may cause it not to indicate level until the aircraft passes level flight.
 
-2.5.9. WARNING: Spatial disorientation may become severe during the recovery from unusual attitudes with inoperative ADI‘s. Extreme attitudes may result in an excessive loss of altitude and possible loss of aircraft control. If a minimum safe altitude for unusual attitude recovery is not in the flight manual, if applicable, the pilot shall decide upon an altitude at which recovery attempts will be discontinued and the aircraft abandoned.
+2.5.9. WARNING: Spatial disorientation may become severe during the recovery from unusual attitudes with inoperative ADI's. Extreme attitudes may result in an excessive loss of altitude and possible loss of aircraft control. If a minimum safe altitude for unusual attitude recovery is not in the flight manual, if applicable, the pilot shall decide upon an altitude at which recovery attempts will be discontinued and the aircraft abandoned.
 
 2.5.10. CAUTION: Due to limited attitude information, recovery from unusual attitudes using a HUD may be difficult or impossible.

@@ -1,8 +1,12 @@
 # Chapter 13 LANDING FROM INSTRUMENT APPROACHES
 
-13.1. Planning the Approach and Landing. A successful approach and landing in marginal weather conditions requires considerable planning, which should begin before the flight. Checking the forecast weather, winds, NOTAMs, and runway conditions at your destination and alternate will normally help you determine the runway and type of approach that is likely to be used. A study of the instrument approach procedure for the destination airport will show the approach as well as the runway layout, obstructions, type of lighting installed, and minimum data.
+#### 13.1.{#13_1} Planning the Approach and Landing.
 
-13.2. Transitioning From Instrument to Visual Flight Conditions. The transition from instrument to visual flight conditions varies with each approach. Pilots seldom experience a distinct transition from instrument to visual conditions during an approach in obscured weather. Obscured conditions present you with a number of problems not encountered during an approach that is either hooded or has a cloud base ceiling. At the point where the hood is pulled or the aircraft breaks out below the ceiling, the visual cues used to control the aircraft are usually clear and distinct, and there is instantaneous recognition of the position of the aircraft in relation to the runway. With obscured ceilings or partially obscured conditions, the reverse is usually true; visual cues are indistinct and easily lost, and it is difficult to discern aircraft position laterally and vertically in relation to the runway. Consider every factor that might have a bearing on the final stages of an approach and landing. The visibility, type of weather, expected visual cues, and even crew procedures and coordination are some of the tangibles requiring careful consideration. Preparation and understanding are the keys that will make the transition smooth and precise. Only through a thorough understanding of the weather environment and how it affects the availability and use of visual cues will you be prepared to transition safely and routinely. The following information deals with some of the conditions you may encounter during this phase of flight.
+A successful approach and landing in marginal weather conditions requires considerable planning, which should begin before the flight. Checking the forecast weather, winds, NOTAMs, and runway conditions at your destination and alternate will normally help you determine the runway and type of approach that is likely to be used. A study of the instrument approach procedure for the destination airport will show the approach as well as the runway layout, obstructions, type of lighting installed, and minimum data.
+
+#### 13.2.{#13_2} Transitioning From Instrument to Visual Flight Conditions.
+
+The transition from instrument to visual flight conditions varies with each approach. Pilots seldom experience a distinct transition from instrument to visual conditions during an approach in obscured weather. Obscured conditions present you with a number of problems not encountered during an approach that is either hooded or has a cloud base ceiling. At the point where the hood is pulled or the aircraft breaks out below the ceiling, the visual cues used to control the aircraft are usually clear and distinct, and there is instantaneous recognition of the position of the aircraft in relation to the runway. With obscured ceilings or partially obscured conditions, the reverse is usually true; visual cues are indistinct and easily lost, and it is difficult to discern aircraft position laterally and vertically in relation to the runway. Consider every factor that might have a bearing on the final stages of an approach and landing. The visibility, type of weather, expected visual cues, and even crew procedures and coordination are some of the tangibles requiring careful consideration. Preparation and understanding are the keys that will make the transition smooth and precise. Only through a thorough understanding of the weather environment and how it affects the availability and use of visual cues will you be prepared to transition safely and routinely. The following information deals with some of the conditions you may encounter during this phase of flight.
 
 13.2.1. Straight-In. When flying a straight-in approach in VMC, the pilot has almost unlimited peripheral visual cues available for depth perception, vertical positioning, and motion sensing. Even so, varying length and width of unfamiliar runways can lead to erroneous perception of aircraft height above the runway surface. A relatively wide runway may give the illusion that the aircraft is below a normal glide path; conversely, a relatively narrow runway may give the illusion of being high. With an awareness of these illusions under unlimited visibility conditions, it becomes easy to appreciate a pilot's problems in a landing situation in which the approach lights and runway lights are the only visual cues available.
 
@@ -52,7 +56,7 @@
 
 13.2.4.5.4. Technique Three. A final technique is to have the autopilot fly the approach to the MDA/DA/DH and then have the PF assume control to either land or execute the go-around as required. This technique can be quite helpful especially after a long duty day and/or with instrument conditions.
 
-13.3. Approach Lighting Systems.
+#### 13.3.{#13_3} Approach Lighting Systems.
 
 13.3.1. Types of Approach Lighting Systems.
 
@@ -72,7 +76,9 @@
 
 13.3.3.1.1. Depending upon which approach is flown, the visual glide path indicator may not guide the aircraft to the same point on the runway as the instrument approach being flown. This is depicted on many approach procedures with a note such as, "PAPI and ILS RPI not coincident." This is common at airports with frequent jumbojet operations (C-5, 747, 777, etc). The VGSI at these airports is frequently adjusted to compensate for the greater vertical distance between the ground and the cockpit in these large aircraft. A smaller aircraft (KC-135, C-130, fighter, etc) that follows these VGSI indications to touchdown will touchdown beyond their normal touchdown point.
 
-13.4. Runway Lighting Systems (Figure 13 2). Two basic runway lighting systems are used to aid the pilot in defining the usable landing area of the runway. These systems are Runway Edge Lights and Runway Centerline and Touchdown Zone Lights. For discussion of airport markings and signs used during ground operations, see AFI 11-218, Aircraft Operations and Movement on the Ground.
+#### 13.4.{#13_4} Runway Lighting Systems (Figure 13 2).
+
+Two basic runway lighting systems are used to aid the pilot in defining the usable landing area of the runway. These systems are Runway Edge Lights and Runway Centerline and Touchdown Zone Lights. For discussion of airport markings and signs used during ground operations, see AFI 11-218, Aircraft Operations and Movement on the Ground.
 
 13.4.1. Runway Edge Lighting. The runway edge lighting system is a configuration of lights that defines the limits of the usable landing area. The lateral limits are defined by a row of white lights on either side of the runway. The longitudinal limits are defined at each end by the threshold lighting configuration. This configuration includes threshold lights, a prethreshold light bar, and a terminating bar. The threshold lights emit green light toward the approach end of the runway and red light toward the rollout end of the runway.
 
@@ -88,9 +94,11 @@
 
 13.4.2.2. Runway Centerline Lighting. The runway centerline lighting system is a straight line of lights located along the runway centerline. The system starts 75 feet (23m) from the threshold and extends down the runway to within 75 feet of the rollout end of the runway. The last 3,000 feet are color coded for landing rollout information. The last 3,000-foot to 1,000-foot section displays alternate red and white lights, while the last 1,000-foot section displays all red lights.
 
-13.5. Runway Markings. Runway markings are designed to make the landing area more conspicuous and to add a third dimension for night and low visibility operations. For discussion of airport and runway markings, see AFI 11-218.
+#### 13.5.{#13_5} Runway Markings.
 
-13.6. Circling Approaches.
+Runway markings are designed to make the landing area more conspicuous and to add a third dimension for night and low visibility operations. For discussion of airport and runway markings, see AFI 11-218.
+
+#### 13.6.{#13_6} Circling Approaches.
 
 13.6.1. General Procedures. Circling to land is a visual flight maneuver. When the instrument approach is completed, it is used to align the aircraft with the landing runway. The circling MDA and weather minima to be used are those for the runway to which the instrument approach is flown (this is not always the landing runway). The circling minima listed on IAPs apply to all approach types on the IAP (RNAV (GPS), ILS, LOC, VOR, TACAN, etc.). However, since the MAP associated with the precision approach is determined by the pilot in terms of a DH and not a specific point along the final approach course, it becomes difficult to ascertain when to discontinue the approach if visual conditions are not encountered. Therefore, pilots are cautioned to ensure the aircraft is within the appropriate circling radius before abandoning the precision glideslope, if planning to circle from a precision final approach.
 
@@ -98,7 +106,7 @@
 
 13.6.2. Instructions. If the controller has a requirement to specify the direction of the circling maneuver in relation to the airport or runway, the controller will issue instructions in the following manner: "Circle (direction given as one of eight cardinal compass points) of the airport/runway for a right/left base/downwind to runway (number)." For example, "Circle west of the airport for a right base to runway one eight."
 
-13.6.2.1. NOTE: Obstruction clearance areas are determined by aircraft category. Maneuver the aircraft to remain within the circling area for your aircraft category (see AFMAN 11-217V3 for radii of circling approaches). If it is necessary to maneuver at speeds in excess of the upper limit of the speed range authorized for your aircraft‘s category, use the landing minima for the category appropriate to the maneuvering speed. When you request circling MDA from the controller for a circling ASR approach, state your aircraft category.
+13.6.2.1. NOTE: Obstruction clearance areas are determined by aircraft category. Maneuver the aircraft to remain within the circling area for your aircraft category (see AFMAN 11-217V3 for radii of circling approaches). If it is necessary to maneuver at speeds in excess of the upper limit of the speed range authorized for your aircraft's category, use the landing minima for the category appropriate to the maneuvering speed. When you request circling MDA from the controller for a circling ASR approach, state your aircraft category.
 
 ##### Figure 13.3. The Circling Approach.
 
@@ -116,7 +124,9 @@
 
 13.6.3.5.1. CAUTION: Be aware of the common tendency to maneuver too close to the runway at altitudes lower than your normal VFR pattern altitude. Using the same visual cues that you use from normal VFR pattern altitudes causes this. Select a pattern that displaces you far enough from the runway that will allow you to turn to final without overbanking or overshooting final.
 
-13.7. Side-Step Maneuver Procedures. Where a side-step procedure is published, aircraft may make an instrument approach to a runway or airport and then visually maneuver to land on an alternate runway specified in the procedure. Landing minimums to the adjacent runway will be higher than the minimums to the primary runway, but will normally be lower than the published circling minimums.
+#### 13.7.{#13_7} Side-Step Maneuver Procedures.
+
+Where a side-step procedure is published, aircraft may make an instrument approach to a runway or airport and then visually maneuver to land on an alternate runway specified in the procedure. Landing minimums to the adjacent runway will be higher than the minimums to the primary runway, but will normally be lower than the published circling minimums.
 
 13.7.1. Phraseology. Examples of ATC phraseology used to clear aircraft for these procedures are: "Cleared for ILS runway seven left approach. Side-step to runway seven right."
 

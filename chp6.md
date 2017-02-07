@@ -1,8 +1,12 @@
-Chapter 6 PLANNING AN INSTRUMENT FLIGHT
+# Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
-6.1. Preflight Planning. A successful instrument flight starts with a thorough preflight planning session. This planning should include a number of items including NOTAMS, weather for the entire route of flight including the departure and arrival aerodromes, takeoff and landing data (TOLD), all publications necessary to conduct the flight (e.g. Departure procedures, enroute charts, FIH, Arrival Procedures, Instrument Approach Procedures, applicable FLIP materials, ASRR, etc.), the route of flight, and the production of a flight plan and flight plan log that determines the amount of time and fuel needed for the flight including possible diversion to an alternate, if applicable. See also AFI 11-202V3.
+#### 6.1.{#6_1} Preflight Planning.
 
-6.2. NOTAMS. NOTAM is defined in AFJMAN 11-208, DoD Notice to Airmen (NOTAM) System, as an unclassified notice containing information concerning the establishment of, condition of, or change in an aeronautical facility, service, procedures or hazards; the timely knowledge of which is essential for safe flight operations. Checking NOTAMs is a critical step in the flight planning process. NOTAM information is available from the U.S. NOTAM System (USNS) via the DoD Internet NOTAM Distribution System (DINS). To fully understand where and how to get all available NOTAM information, it is important to understand the USNS.
+A successful instrument flight starts with a thorough preflight planning session. This planning should include a number of items including NOTAMS, weather for the entire route of flight including the departure and arrival aerodromes, takeoff and landing data (TOLD), all publications necessary to conduct the flight (e.g. Departure procedures, enroute charts, FIH, Arrival Procedures, Instrument Approach Procedures, applicable FLIP materials, ASRR, etc.), the route of flight, and the production of a flight plan and flight plan log that determines the amount of time and fuel needed for the flight including possible diversion to an alternate, if applicable. See also AFI 11-202V3.
+
+#### 6.2.{#6_2} NOTAMS.
+
+NOTAM is defined in AFJMAN 11-208, DoD Notice to Airmen (NOTAM) System, as an unclassified notice containing information concerning the establishment of, condition of, or change in an aeronautical facility, service, procedures or hazards; the timely knowledge of which is essential for safe flight operations. Checking NOTAMs is a critical step in the flight planning process. NOTAM information is available from the U.S. NOTAM System (USNS) via the DoD Internet NOTAM Distribution System (DINS). To fully understand where and how to get all available NOTAM information, it is important to understand the USNS.
 
 6.2.1. Defense Internet NOTAM System. DINS is composed of a large central data management system deriving information from the US Consolidated NOTAM Office at the FAA Air Traffic Control System Command Center (ATCSCC) located at Herndon, VA. Real-time NOTAM information is maintained and made available through the internet. https://www.notams.jcs.mil Coverage includes all military airfields and virtually all domestic, international, and Flight Data Center (FDC) NOTAMs. If not covered by DINS, the airfield does not transmit NOTAM data to the USNS. A plain language notice in red font is displayed advising the user of that fact. In such a case, you must contact the airfield manager or associated Flight Service Station directly for NOTAM information.
 
@@ -10,9 +14,11 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 6.2.2. A comprehensive discussion of the U.S. and international NOTAM systems can be found in AFMAN 11-217V3, and AFI 11-208, Department of Defense Notice to Airman (NOTAM) System.
 
-6.3. Weather. Aircrew can obtain departure, enroute and arrival weather information from a number of sources. For authorized weather sources, see FLIP IFG. At military airfields, the normal source is the DD 175-1 filled out and briefed by a military weather briefer from one of the regional Operational Weather Squadrons. At civil fields, aircrew may obtain weather by contacting the Operational Weather Squadron serving the area, or a FSS and getting a weather brief over the phone by calling 1 800 WX-BRIEF.
+#### 6.3.{#6_3} Weather.
 
-6.3.1. Cold Weather Altimeter Corrections. Pressure altimeters are calibrated to indicate true altitude under International Standard Atmospheric (ISA) conditions. Any deviation from these standard conditions will result in an erroneous reading on the altimeter. This error becomes important when considering obstacle clearances in temperatures lower than standard since the aircraft‘s altitude is below the figure indicated by the altimeter. The error is proportional to the difference between actual and ISA temperature and the height of the aircraft above the altimeter setting source. The amount of error is approximately 4 feet per thousand feet for each degree Celsius of difference. Corrections will only be made for DAs, MDAs, and other altitudes inside, but not including, the FAF. The same correction made to DAs and MDAs can be applied to other altitudes inside the FAF. For the current cold weather altimeter correction procedure, you must refer to the Flight Information Handbook (FIH). The following guidance is provided as an example of how to accomplish the procedure found in the FIH.
+Aircrew can obtain departure, enroute and arrival weather information from a number of sources. For authorized weather sources, see FLIP IFG. At military airfields, the normal source is the DD 175-1 filled out and briefed by a military weather briefer from one of the regional Operational Weather Squadrons. At civil fields, aircrew may obtain weather by contacting the Operational Weather Squadron serving the area, or a FSS and getting a weather brief over the phone by calling 1 800 WX-BRIEF.
+
+6.3.1. Cold Weather Altimeter Corrections. Pressure altimeters are calibrated to indicate true altitude under International Standard Atmospheric (ISA) conditions. Any deviation from these standard conditions will result in an erroneous reading on the altimeter. This error becomes important when considering obstacle clearances in temperatures lower than standard since the aircraft's altitude is below the figure indicated by the altimeter. The error is proportional to the difference between actual and ISA temperature and the height of the aircraft above the altimeter setting source. The amount of error is approximately 4 feet per thousand feet for each degree Celsius of difference. Corrections will only be made for DAs, MDAs, and other altitudes inside, but not including, the FAF. The same correction made to DAs and MDAs can be applied to other altitudes inside the FAF. For the current cold weather altimeter correction procedure, you must refer to the Flight Information Handbook (FIH). The following guidance is provided as an example of how to accomplish the procedure found in the FIH.
 
 6.3.1.1. To ensure adequate obstacle clearance the values derived from the chart below will be:
 
@@ -23,9 +29,11 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 6.3.1.1.3. Added to ALL altitudes in the procedure whenever the outside air temperature is -30° Celsius or less, or procedure turn, intermediate approach altitude Heights Above Touchdown (HAT)/Heights Above Aerodrome (HAA) are 3000 feet or more above the altimeter setting source.
  Table 6.1. Temperature Correction Chart.
 
-6.3.1.1.4. Example: For an approach when OAT is -20° C, and the HAA is 760‘ AGL on the IAP, the pilot should add 110‘ to the MDA for the approach. Thus, if the MDA was 940‘ MSL, the pilot would only descend to 1050‘ (940+110=1050). NOTE: Do not change the value in the RADAR ALTIMETER-you are still descending to the HAA on the IAP, you are only correcting for temperature error in the barometric altimeter (Table 6.1).
+6.3.1.1.4. Example: For an approach when OAT is -20° C, and the HAA is 760' AGL on the IAP, the pilot should add 110' to the MDA for the approach. Thus, if the MDA was 940' MSL, the pilot would only descend to 1050' (940+110=1050). NOTE: Do not change the value in the RADAR ALTIMETER-you are still descending to the HAA on the IAP, you are only correcting for temperature error in the barometric altimeter (Table 6.1).
 
-6.4. Route. Preflight planning of the enroute portion should be adequate to enseure safe and efficient flight. As a minimum, aircrew should review:
+#### 6.4.{#6_4} Route.
+
+Preflight planning of the enroute portion should be adequate to enseure safe and efficient flight. As a minimum, aircrew should review:
 
 6.4.1. The intended route of flight (to include preferred routing located in AP/1) using current flight publications.
 
@@ -37,7 +45,7 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 6.4.5. Diversion fields. Emergency diversion fields and approaches.
 
-6.4.6. Compliance. Comply with the jet route or airway system as published on the FLIP en route charts and air traffic clearances. You must also ensure your aircraft is equipped and authorized to operate in the airspace along your route of flight. For example, only aircraft certified through their MAJCOM for RNP-5 may operate in the European Basic RNAV (BRNAV) structure. Consult your MAJCOM and Mission Design Series (MDS)-specific guidance if you have any doubts concerning your aircraft‘s capabilities.
+6.4.6. Compliance. Comply with the jet route or airway system as published on the FLIP en route charts and air traffic clearances. You must also ensure your aircraft is equipped and authorized to operate in the airspace along your route of flight. For example, only aircraft certified through their MAJCOM for RNP-5 may operate in the European Basic RNAV (BRNAV) structure. Consult your MAJCOM and Mission Design Series (MDS)-specific guidance if you have any doubts concerning your aircraft's capabilities.
 
 6.4.7. Enroute Navigation in High Latitudes. Enroute navigation in higher latitude regions may be based on reference to true or grid north instead of the customary reference to magnetic north. Procedures vary greatly between aircraft type and avionics capabilities. Thorough mission planning, including review of applicable aircraft/avionics specific procedures and limitations, is essential to accurate navigation at higher latitudes.
 
@@ -97,7 +105,9 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 6.4.8.4. Radio Failure. In case of radio failure, you are responsible for minimum altitude selection. Comply with published radio failure procedures in the FIH.
 
-6.5. Planning the Approach. Preparation for flying an instrument approach begins with a study of the approach depiction during preflight planning. The end result of an approach-a landing or a missed approach-can be directly dependent upon the pilot's familiarity with the approach depiction.
+#### 6.5.{#6_5} Planning the Approach.
+
+Preparation for flying an instrument approach begins with a study of the approach depiction during preflight planning. The end result of an approach-a landing or a missed approach-can be directly dependent upon the pilot's familiarity with the approach depiction.
 
 6.5.1. Aircraft Categories and Instrument Approach Procedures Selection.
 
@@ -145,9 +155,9 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 6.5.1.3.2. Straight-in approaches. The types of navigation aids that provide final approach guidance and the runway to which the final approach courses are aligned identify straight-in approaches. A slash (/) indicates that more than one type of equipment may be required to execute the final approach (VOR/DME, ILS/DME, etc.). Be aware that additional equipment may be required to execute the other portions of the procedure (Figure 6.4).
 
-##### Figure 6.4. IAP With “/” in Title.
+##### Figure 6.4. IAP With "/" in Title.
 
-6.5.1.3.2.1. Where more than one approach using the same final approach guidance is developed to the same runway, each runway/navigational aid combination will be identified with an alphabetical suffix beginning at the end of the alphabet; e.g. ILS Z RWY 28L (first procedure), ILS Y RWY 28L (second procedure), ILS X RWY 28L (third procedure), etc. Suffixes will be used in reverse alphabetical order, beginning with -Z‖ (Figure 6.5).
+6.5.1.3.2.1. Where more than one approach using the same final approach guidance is developed to the same runway, each runway/navigational aid combination will be identified with an alphabetical suffix beginning at the end of the alphabet; e.g. ILS Z RWY 28L (first procedure), ILS Y RWY 28L (second procedure), ILS X RWY 28L (third procedure), etc. Suffixes will be used in reverse alphabetical order, beginning with "Z" (Figure 6.5).
 
 ##### Figure 6.5. More Than One Approach With Same Final Approach Guidance.
 
@@ -177,7 +187,7 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 6.5.2.1.5.2. Radar vectors should be provided with reference to true north. If in doubt, query the controller.
 
-6.5.2.1.5.3. Orientation of an IAP to true north will be indicated by inclusion of the word -true‖ in the procedure title.
+6.5.2.1.5.3. Orientation of an IAP to true north will be indicated by inclusion of the word "true" in the procedure title.
 
 6.5.2.1.5.4. Select true as a heading source IAW with your aircraft flight manual and MAJCOM directives.
 
@@ -272,7 +282,7 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 6.5.4.6. Alternate minimums. Some civil and foreign approaches may have or NA in the remarks. The tells civilian pilots that the alternate minimums for the approach are non-standard and they must look in the front of the IAP book for new alternate minimums. Since Air Force alternate minimums are published in AFI 11-202V3, Air Force pilots may disregard the weather minimums listed under the . The NA does apply to USAF aircrews and has very serious implications. The NA tells civilian and military pilots that the specific approach cannot be used to qualify the field as an alternate either because of lack of weather reporting facilities and/or the lack of capability to monitor the NAVAID. Without weather reporting facilities at the airport a pilot will not be able to get a specific forecast for that airport as required by AFI 11202V3. The lack of monitoring capability of the navigation facilities is a bigger problem. Without a monitoring capability the pilot won't get any advance warning if the NAVAID is not operating. This means if the NAVAID goes off the air, there is no one to issue a NOTAM to inform the pilot of the situation before an attempt is made to identify and use the NAVAID.
 
-6.5.4.7. Declared Distances. Declared distances are normally associated with airports affected by close-in development, or encroachment. In order to maintain standard -safety zones‖ around runways, the airport manager may implement declared distances to artificially reduce the size of the runway for the purpose of increasing the distance from the runway to close-in encroachment. Runways outside of the NAS and ICAO airports may also have declared distances. These may not be indicated on the IAP or airfield diagram, and additional pre-flight planning may be required to determine what the distances are. During mission planning, you will know if the airport you intent to transit has declared distances assigned if you see a black square with a white D ( D ) on the aerodrome sketch portion of the approach plate and the Airport Diagram. Since this symbol is in negative writing, it is referred to as the -Negative D‖. The distances referred to by the -Negative D‖ symbol are found in the NACO produced Airport/Facility Directory (A/FD) or region supplement, and in the NGA-produced IFR Supplement. If checking the IFR Supplement, they are listed in the -RMKS‖ section under the -RSTD‖ title. Declared distances do not affect the actual runway dimensions as published in the airport sketch. Declared distances for takeoff and landing are not provided on airport diagrams. Stored runway data in the FMS NAV database does not include declared distances.
+6.5.4.7. Declared Distances. Declared distances are normally associated with airports affected by close-in development, or encroachment. In order to maintain standard "safety zones" around runways, the airport manager may implement declared distances to artificially reduce the size of the runway for the purpose of increasing the distance from the runway to close-in encroachment. Runways outside of the NAS and ICAO airports may also have declared distances. These may not be indicated on the IAP or airfield diagram, and additional pre-flight planning may be required to determine what the distances are. During mission planning, you will know if the airport you intent to transit has declared distances assigned if you see a black square with a white D ( D ) on the aerodrome sketch portion of the approach plate and the Airport Diagram. Since this symbol is in negative writing, it is referred to as the "Negative D". The distances referred to by the "Negative D" symbol are found in the NACO produced Airport/Facility Directory (A/FD) or region supplement, and in the NGA-produced IFR Supplement. If checking the IFR Supplement, they are listed in the "RMKS" section under the "RSTD" title. Declared distances do not affect the actual runway dimensions as published in the airport sketch. Declared distances for takeoff and landing are not provided on airport diagrams. Stored runway data in the FMS NAV database does not include declared distances.
 
 6.5.4.7.1. Declared distances include the following four terms (which may or may not match the definitions in your aircraft performance manual).
 
@@ -280,15 +290,15 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 6.5.4.7.1.2. TODA. TAKE-OFF DISTANCE AVAILABLE-The length of the takeoff run plus the length of the clearway, if provided.
 
-6.5.4.7.1.3. ASDA. ACCELERATE-STOP DISTANCE AVAILABLE–The runway plus stopway length declared available and suitable for the acceleration and deceleration of an airplane aborting a takeoff. (A stopway is comparable to a US Military -overrun‖; it is paved and weight-bearing).
+6.5.4.7.1.3. ASDA. ACCELERATE-STOP DISTANCE AVAILABLE–The runway plus stopway length declared available and suitable for the acceleration and deceleration of an airplane aborting a takeoff. (A stopway is comparable to a US Military "overrun"; it is paved and weight-bearing).
 
 6.5.4.7.1.4. LDA. LANDING DISTANCE AVAILABLE-The length of runway which is declared available and suitable for the ground run of an airplane landing.
 
-6.5.4.7.2. Declared distances are in place to meet certain FAA airport design criteria. The Runway Safety Area, Runway Obstacle Free Area, and Runway Protection Zone affect the declared distance lengths at certain airfields. Declared distances are a means of obtaining a standard safety area by reducing the usable runway length. A mathematical method is used to determine runway length available. For more information on declared distance standards, see FAA AC 150/5300-13. It may not be possible for transiting aircrews to know specifically why declared distances are published as they are. USAF aircrews must adhere to Declared Distances to meet the FAA’s intent of providing the best possible safety areas around the runway.
+6.5.4.7.2. Declared distances are in place to meet certain FAA airport design criteria. The Runway Safety Area, Runway Obstacle Free Area, and Runway Protection Zone affect the declared distance lengths at certain airfields. Declared distances are a means of obtaining a standard safety area by reducing the usable runway length. A mathematical method is used to determine runway length available. For more information on declared distance standards, see FAA AC 150/5300-13. It may not be possible for transiting aircrews to know specifically why declared distances are published as they are. USAF aircrews must adhere to Declared Distances to meet the FAA's intent of providing the best possible safety areas around the runway.
 
 6.5.4.7.2.1. Some runway elements associated with declared distances may be identifiable through runway markings or lighting (displaced threshold or a designated overrun or stopway), but the individual declared distance limits are not marked or otherwise identified on the runway. Further, aircrews are reminded that climb gradient restrictions are generated from the physical departure end of the runway, not necessarily any specific declared distance.
 
-6.5.4.7.2.2. Takeoff and Landing Data (TOLD) correctly computed from the aircraft performance manual gives the aircrew the distance requirements for takeoff and landing. PICs will ensure TOLD computations for the aircraft’s takeoff ground run, or landing distance, falls within the published declared distances before the pilot accepts that runway for takeoff or landing.
+6.5.4.7.2.2. Takeoff and Landing Data (TOLD) correctly computed from the aircraft performance manual gives the aircrew the distance requirements for takeoff and landing. PICs will ensure TOLD computations for the aircraft's takeoff ground run, or landing distance, falls within the published declared distances before the pilot accepts that runway for takeoff or landing.
 
 6.5.4.7.2.2.1. NOTE: As long as TOLD calculations fall within the Declared Distance limitations, a USAF aircrew may operate beyond a declared distance limit during any takeoff, landing or taxi operation, provided the runway surface is appropriately marked as usable runway. Therefore, when aircraft weight, configuration, and environmental factors allow the aircraft TOLD to meet Declared Distance limits, USAF pilots may operate normally on the runway.
 
@@ -306,7 +316,7 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 6.5.4.7.4.1. When considering whether the aircraft can safely accomplish touch and goes, at a field with declared distances, the PIC should treat the takeoff and landing as separate operations. Therefore, for the landing, aircraft TOLD must allow it to land, and stop, within the declared LDA for that runway. For the takeoff, aircraft TOLD must permit it to takeoff with the published TORA and ASDA—computed as if it were the initial takeoff operation at that field. Again, if using balanced field method of calculating TOLD for takeoff, use the shorter of TORA or ASDA.
 
-6.5.4.7.4.2. As long as the PIC confirms the aircraft‘s weight and configuration make it POSSIBLE to make an initial takeoff and a full stop within that runway‘s declared distances (treated as separate operations), touch and goes are permitted on that runway. Since the PIC ensured compliance with all declared distances, it would then be permissible for the PIC to use the physical length of the runway for a touch and go just as at any other runway. Finally, the full physical runway length must meet the aircraft‘s flight manual and AFI 11-2MDSV3 series required runway length for touch and go operations.
+6.5.4.7.4.2. As long as the PIC confirms the aircraft's weight and configuration make it POSSIBLE to make an initial takeoff and a full stop within that runway's declared distances (treated as separate operations), touch and goes are permitted on that runway. Since the PIC ensured compliance with all declared distances, it would then be permissible for the PIC to use the physical length of the runway for a touch and go just as at any other runway. Finally, the full physical runway length must meet the aircraft's flight manual and AFI 11-2MDSV3 series required runway length for touch and go operations.
 
 6.5.5. Reviewing a Radar Approach. Depictions of radar approaches are not normally included in flight publications, but some important aspects of the approach are available.
 
@@ -326,11 +336,11 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 6.5.6. Reviewing RNAV (GPS) IAPs. The following section highlights elements of RNAV (GPS) IAPs that differ from IAPs based on conventional NAVAIDs.
 
-6.5.6.1. Equipment requirements. The -TERMS/LANDING MINIMUMS DATA‖ (Section A) of the U.S. Government Terminal Procedures books provide a description of the aircraft equipment requirements for RNAV (GPS) IAPs. More detailed information can be obtained via the AFFSA web page. Pilots are responsible for ensuring that the aircraft is suitably equipped for the level of minimums used. Be aware that very few RNAV (GPS) IAPs may be flown using DME/DME RNAV systems. Note that the-(GPS)‖ in the approach title does not indicate the approach may be flown in aircraft with any GPS equipment. GPS equipped aircraft must meet the equipment requirements described in AFI 11-202V3 and FAA AC 91-100A.
+6.5.6.1. Equipment requirements. The "TERMS/LANDING MINIMUMS DATA" (Section A) of the U.S. Government Terminal Procedures books provide a description of the aircraft equipment requirements for RNAV (GPS) IAPs. More detailed information can be obtained via the AFFSA web page. Pilots are responsible for ensuring that the aircraft is suitably equipped for the level of minimums used. Be aware that very few RNAV (GPS) IAPs may be flown using DME/DME RNAV systems. Note that the "(GPS)" in the approach title does not indicate the approach may be flown in aircraft with any GPS equipment. GPS equipped aircraft must meet the equipment requirements described in AFI 11-202V3 and FAA AC 91-100A.
 
 6.5.6.1.1. Use of LNAV/VNAV DA requires certified VNAV functionality or WAAS on the aircraft. Use of LPV (see 6.5.6.3.3 below) minimums requires WAAS equipment on the aircraft.
 
-6.5.6.2. Procedure name. Where multiple RNAV procedures exist to the same runway, subsequent RNAV procedure titles will be followed by the suffix X, Y, or Z (e.g.,-RNAV (GPS) Z RWY 22‖). ATC clearance for the RNAV procedure will authorize the pilot to use any landing minimums for which the pilot and/or aircraft is capable and authorized.
+6.5.6.2. Procedure name. Where multiple RNAV procedures exist to the same runway, subsequent RNAV procedure titles will be followed by the suffix X, Y, or Z (e.g.,"RNAV (GPS) Z RWY 22"). ATC clearance for the RNAV procedure will authorize the pilot to use any landing minimums for which the pilot and/or aircraft is capable and authorized.
 
 6.5.6.3. Chart Terminology.
 
@@ -350,7 +360,7 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 6.5.6.3.4.2.1. NOTE: Barometric VNAV (BARO-VNAV) systems compute a vertical path based on aircraft barometric altimetry systems. This vertical path may be greatly affected by non-standard temperatures, incorrect or rapidly changing altimeter settings, and altimeter error. Pilots should closely monitor compliance with step down fix altitude constraints and may not use Baro-VNAV guidance for reference below the published DA. Also note that deviations from the VNAV path are often linear as opposed to angular, i.e. one dot deviation represents a fixed number of feet from the vertical path, regardless of distance to the runway waypoint.
 
-6.5.6.3.4.2.2. LPV minimums. LPV minimums may support precision approach minimums as low as 200' HAT and 1/2 statute mile (SM) visibility. Pilots will be informed that the notation -LPV PA‖ or -GLS‖ on the first line of minimums in U.S. Government Terminal Procedure Publication charts satisfies all the requirements of the precision system. Pilots will be informed that the precision system requirements are not met by the notation "LPV" without the letters "PA" on the first line of minimums. In this latter case, since the landing environment does not support the low visibility operations, minimums no lower than 300' HAT and 3/4 SM visibility will be published. LPV minimums are published as a Decision Altitude (DA).
+6.5.6.3.4.2.2. LPV minimums. LPV minimums may support precision approach minimums as low as 200' HAT and 1/2 statute mile (SM) visibility. Pilots will be informed that the notation "LPV PA" or "GLS" on the first line of minimums in U.S. Government Terminal Procedure Publication charts satisfies all the requirements of the precision system. Pilots will be informed that the precision system requirements are not met by the notation "LPV" without the letters "PA" on the first line of minimums. In this latter case, since the landing environment does not support the low visibility operations, minimums no lower than 300' HAT and 3/4 SM visibility will be published. LPV minimums are published as a Decision Altitude (DA).
 
 ##### Figure 6.15. RNAV (GPS) Chart Symbology.
 
@@ -374,11 +384,11 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 6.5.7.2. Threshold Crossing Height (TCH). The concept of TCH is the same as in conventional IAPs. On RNAV (GPS) IAPs, TCH refers to the point where the descent angle crosses above the threshold. Unless required by larger type aircraft, the typical TCH will be 30-50 feet.
 
-6.5.7.3. VDP. The VDP on an RNAV (GPS) IAP only pertains to aircraft using LNAV minimums (not LNAV/VNAV or LPV). The VDP will be accompanied by the notation-*LNAV only.‖
+6.5.7.3. VDP. The VDP on an RNAV (GPS) IAP only pertains to aircraft using LNAV minimums (not LNAV/VNAV or LPV). The VDP will be accompanied by the notation "*LNAV only."
 
-6.5.7.4. Missed Approach Symbology. In addition to a textual description of the missed approach procedure in the -pilot briefing‖ at the top of the IAP, missed approach instructions will be graphically depicted in the profile view. Up to four icons will be shown. These icons are intended only for quick reference and may not depict the full missed approach procedure.
+6.5.7.4. Missed Approach Symbology. In addition to a textual description of the missed approach procedure in the "pilot briefing" at the top of the IAP, missed approach instructions will be graphically depicted in the profile view. Up to four icons will be shown. These icons are intended only for quick reference and may not depict the full missed approach procedure.
 
-6.5.7.5. Waypoints. Two types of waypoints appear in RNAV procedures – -fly-over‖ and -fly-by‖ waypoints. -Fly-by‖ waypoints will be depicted using the standard WP symbol. Turn anticipation is allowed for fly-by waypoints. Fly-over waypoints are indicated by the standard waypoint symbol enclosed in a circle. For a fly-over WP, turn anticipation is not allowed. No turn may be accomplished until the aircraft passes over the waypoint. Note: A "Fly By" vertical waypoint is a WP for which an aircraft may initiate a vertical rate change and depart the specified vertical path to the active WP prior to reaching that WP, in order to asymptotically capture the next vertical path. A "Fly Over" vertical waypoint is a WP for which an aircraft must stay on the defined vertical path until passing the active WP, and may not initiate the necessary vertical rate change to capture the next vertical path until after passing the active WP. Hence, after passing the active WP, as the next WP becomes active, and if there is a vertical path change, then the aircraft must re-adjust vertical rate to re-capture the vertical path after having already overshot the first opportunity for an asymptotic capture of that new path.
+6.5.7.5. Waypoints. Two types of waypoints appear in RNAV procedures – "fly-over" and "fly-by" waypoints. "Fly-by" waypoints will be depicted using the standard WP symbol. Turn anticipation is allowed for fly-by waypoints. Fly-over waypoints are indicated by the standard waypoint symbol enclosed in a circle. For a fly-over WP, turn anticipation is not allowed. No turn may be accomplished until the aircraft passes over the waypoint. Note: A "Fly By" vertical waypoint is a WP for which an aircraft may initiate a vertical rate change and depart the specified vertical path to the active WP prior to reaching that WP, in order to asymptotically capture the next vertical path. A "Fly Over" vertical waypoint is a WP for which an aircraft must stay on the defined vertical path until passing the active WP, and may not initiate the necessary vertical rate change to capture the next vertical path until after passing the active WP. Hence, after passing the active WP, as the next WP becomes active, and if there is a vertical path change, then the aircraft must re-adjust vertical rate to re-capture the vertical path after having already overshot the first opportunity for an asymptotic capture of that new path.
 
 6.5.7.6. Approach waypoints, except for the MAWP and the missed approach holding waypoint (MAHWP), are normally fly-by waypoints. Overlay approach charts and some early stand alone GPS approach charts may not reflect this convention.
 
@@ -398,11 +408,11 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 ##### Figure 6.17. Stand Alone GPS Approach.
 
-6.5.8.2. Approaches where ‖or GPS" is included in the title of the procedure are retrievable from the database (e.g., "VOR or GPS RWY 35")(Figure 6.18). USAF aircraft may fly these approaches in VMC or IMC if the approach was constructed by a US TERPS authority (USAF/FAA/USN). For approaches without -or GPS‖ in the title, see RNAV substitution discussion below.
+6.5.8.2. Approaches where ‖or GPS" is included in the title of the procedure are retrievable from the database (e.g., "VOR or GPS RWY 35")(Figure 6.18). USAF aircraft may fly these approaches in VMC or IMC if the approach was constructed by a US TERPS authority (USAF/FAA/USN). For approaches without "or GPS" in the title, see RNAV substitution discussion below.
 
-6.5.8.2.1. NOTE: When retrieving an -or GPS‖ approach from the navigation database, it will be titled in the database by the title of the conventional NAVAID. For example: VOR or GPS Rwy 5 will be titled in the aircraft database as -VOR Rwy 5‖. The title on the published IAP chart determines the type of approach, not how it is named in the aircraft database.
+6.5.8.2.1. NOTE: When retrieving an "or GPS" approach from the navigation database, it will be titled in the database by the title of the conventional NAVAID. For example: VOR or GPS Rwy 5 will be titled in the aircraft database as "VOR Rwy 5". The title on the published IAP chart determines the type of approach, not how it is named in the aircraft database.
 
-##### Figure 6.18. “or GPS” Approach.
+##### Figure 6.18. "or GPS" Approach.
 
 6.5.8.2.2. Procedures Without a Final Approach Fix. Procedures without a FAF and without a stepdown fix have a Sensor FAF waypoint coded in the database at least 4 NM Actual Track Distance (ATD) to the MAP waypoint. The MAP, in this case, is always located at the NAVAID facility. A Sensor FAF is a final approach waypoint created and added to the database sequence of waypoints to support GPS navigation of an FAA or DoD published, no-FAF, nonprecision instrument approach procedure. The coded name or Sensor FAF appears in the waypoint sequence. If a stepdown fix exists on the published procedure and it is greater than 2 NM to the MAP, the stepdown fix is coded in the database as the Sensor FAF waypoint for the waypoint sequence. If a stepdown fix distance is 2 NM or less to the MAP, a Sensor FAF waypoint is coded at least 4 NM to the MAP.
 
@@ -410,11 +420,13 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 ##### Figure 6.19. RNP SAAAR.
 
-6.5.8.4. RNAV Substitution. IAW AFI 11-202V3, for procedures developed by a US TERPS authority (FAA/USAF/USN), MAJCOM-approved suitable RNAV systems may be used as a substitute means of navigation for a named fix, VOR, TACAN, NDB, DME or compass locator. In such terminal areas, following a successful predictive RAIM check, approved RNAV systems may be substituted for required NAVAIDS or named fixes on arrivals, departures, and non-localizer based instrument procedures. Any such substitution must be extracted from a current database. These operations are allowable even when a facility is explicitly identified as required on a procedure (e.g., -Note ADF required‖), but not if the procedure is NOTAM‘ed as NA. Pilots using approved RNAV systems as a substitute means of navigation guidance in lieu of an out of service NAVAID should advise ATC of this intent and capability. Pilots will tune, identify, monitor and display the appropriate ground-based NAVAIDs whenever practicable.
+6.5.8.4. RNAV Substitution. IAW AFI 11-202V3, for procedures developed by a US TERPS authority (FAA/USAF/USN), MAJCOM-approved suitable RNAV systems may be used as a substitute means of navigation for a named fix, VOR, TACAN, NDB, DME or compass locator. In such terminal areas, following a successful predictive RAIM check, approved RNAV systems may be substituted for required NAVAIDS or named fixes on arrivals, departures, and non-localizer based instrument procedures. Any such substitution must be extracted from a current database. These operations are allowable even when a facility is explicitly identified as required on a procedure (e.g., "Note ADF required"), but not if the procedure is NOTAM'ed as NA. Pilots using approved RNAV systems as a substitute means of navigation guidance in lieu of an out of service NAVAID should advise ATC of this intent and capability. Pilots will tune, identify, monitor and display the appropriate ground-based NAVAIDs whenever practicable.
 
 6.5.9. Relationship of Avionics Displayed Waypoints to Charted Data. The GPS Approach Overlay Program waypoints contained in the database represent the waypoints, fixes, NAVAIDs, and other points portrayed on a published approach procedure beginning at the initial approach fix. Certain unnamed points and fixes appearing on a chart are assigned a database identifier. Although there currently is no requirement to provide these database identifiers, most charting agencies are publishing them at their discretion. Database identifiers should not be used for pilot/controller communications or on flight plans.
 
-6.6. Instrument Cockpit Check. Before flight, accomplish a thorough instrument cockpit check. You should check the applicable items listed below (unless your flight manual or command directives dictate otherwise):
+#### 6.6.{#6_6} Instrument Cockpit Check.
+
+Before flight, accomplish a thorough instrument cockpit check. You should check the applicable items listed below (unless your flight manual or command directives dictate otherwise):
 
 6.6.1. Publications. Ensure appropriate, up-to-date publications obtained from an authorized source are in the aircraft.
 
@@ -520,7 +532,7 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 6.6.13.8.4.1. Tune the appropriate VOT frequency on your VOR receiver.
 
-6.6.13.8.4.2. With the CDI centered, the Omni Bearing Selector (OBS) should read 0 degrees with a -from‖ indication; or the OBS should read 180 degrees with a -to‖ indication. The RMI will indicate 180 degrees regardless of OBS setting.
+6.6.13.8.4.2. With the CDI centered, the Omni Bearing Selector (OBS) should read 0 degrees with a "from" indication; or the OBS should read 180 degrees with a "to" indication. The RMI will indicate 180 degrees regardless of OBS setting.
 
 6.6.13.8.4.3. Identify the VOT station by listening for a series of dots or a continuous tone.
 
@@ -528,7 +540,7 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 6.6.13.10. GPS Navigation Database: Ensure the GPS navigation database is current. See AFI 11-202V3 for current database restrictions.
 
-6.7. IFR Flight in Uncontrolled Airspace.
+#### 6.7.{#6_7} IFR Flight in Uncontrolled Airspace.
 
 6.7.1. Uncontrolled airspace is that airspace not otherwise designated as controlled airspace. There is little uncontrolled airspace within the CONUS. However, once outside the CONUS, there can be significant areas of uncontrolled, or Class G, airspace.
 
@@ -544,7 +556,7 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 6.7.3. Air traffic control only provides separation between aircraft in controlled airspace. Therefore, caution should be exercised when operating in IMC under IFR in uncontrolled airspace.
 
-6.8. Instrument Approaches to Uncontrolled Airports.
+#### 6.8.{#6_8} Instrument Approaches to Uncontrolled Airports.
 
 6.8.1. Instrument approaches to uncontrolled airports are authorized for USAF aircrews unless otherwise restricted by MAJCOM. For VFR procedures at uncontrolled airports, see AFMAN 11-217 Volume 2, Visual Flight Procedures.
 
@@ -556,13 +568,13 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 6.8.3. Common Traffic Advisory Frequency (CTAF). The CTAF is a frequency designed for the purpose of carrying out airport advisory practices while operating to or from an airport without an operating control tower. The CTAF may be a UNICOM, MULTICOM, FSS, or tower frequency and is identified on the approach plate.
 
-6.8.3.1. A UNICOM is a non-governmental communication facility, which may provide airport information. The frequency will be published on the approach plate as-UNICOM‖. Many times these radios are located in the airport office or at a fixed base operator (FBO).
+6.8.3.1. A UNICOM is a non-governmental communication facility, which may provide airport information. The frequency will be published on the approach plate as "UNICOM". Many times these radios are located in the airport office or at a fixed base operator (FBO).
 
 6.8.3.2. A MULTICOM is a mobile service not open to public correspondence used to provide communications essential to conduct the activities being performed by or directed from private aircraft. Where there is no tower, FSS, or UNICOM station on the airport, use MULTICOM frequency 122.9.
 
 6.8.3.3. A FSS physically located on an airport may provide airport advisory service (AAS) at an airport that does not have a control tower or where a tower is operated on a part-time basis and the tower is not in operation.
 
-6.8.3.4. When a control tower is not operational 24 hours a day, the CTAF frequency will normally be the same as the tower frequency listed on the approach plate and will be annotated, -TOWER (CTAF).‖
+6.8.3.4. When a control tower is not operational 24 hours a day, the CTAF frequency will normally be the same as the tower frequency listed on the approach plate and will be annotated, "TOWER (CTAF)."
 
 6.8.4. There are two ways for pilots to communicate their intentions and obtain airport/traffic information when operating at an airport that does not have an operating tower: by communicating with an FSS that is providing airport advisories on a CTAF or by making a self-announced broadcast on the CTAF.
 
@@ -572,7 +584,7 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 6.8.5. Communication at Uncontrolled Airports.
 
-6.8.5.1. Aircraft operating on an IFR flight plan, landing at an uncontrolled airport will be advised to -Change to advisory frequency‖, when direct ATC communications are no longer required. When directed, pilots should expeditiously change to the CTAF frequency, as the ATC facility will not have runway in use or airport traffic information.
+6.8.5.1. Aircraft operating on an IFR flight plan, landing at an uncontrolled airport will be advised to "Change to advisory frequency", when direct ATC communications are no longer required. When directed, pilots should expeditiously change to the CTAF frequency, as the ATC facility will not have runway in use or airport traffic information.
 
 6.8.5.2. Inbound aircraft should initiate contact approximately 10 miles from the airport and continue to monitor the appropriate frequency until after landing and clear of the movement area.
 
@@ -592,11 +604,11 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 6.8.5.4.5. When exiting the active runway.
 
-6.8.5.4.5.1. NOTE: It is important to remember that most VFR pilots operating in the vicinity of the airport will not be familiar with fix names. Location should be referred to in the simplest terms the average VFR pilot will understand. For example, use the terminology -5 miles south‖ instead of -Kirby Intersection‖.
+6.8.5.4.5.1. NOTE: It is important to remember that most VFR pilots operating in the vicinity of the airport will not be familiar with fix names. Location should be referred to in the simplest terms the average VFR pilot will understand. For example, use the terminology "5 miles south" instead of "Kirby Intersection".
 
 6.8.5.5. When self-announcing your position, insure you use the following format:
 
-6.8.5.5.1. Name of the airport, followed by the word -traffic.‖
+6.8.5.5.1. Name of the airport, followed by the word "traffic."
 
 6.8.5.5.2. Your call sign.
 
@@ -608,12 +620,12 @@ Chapter 6 PLANNING AN INSTRUMENT FLIGHT
 
 6.8.5.5.6. Repeat the name of the airport.
 
-6.8.5.5.6.1. Example: -Shenandoah traffic, Track 66, white Learjet, 5 miles south on the straight-in ILS Runway 5, touch and go, Shenandoah.‖
+6.8.5.5.6.1. Example: "Shenandoah traffic, Track 66, white Learjet, 5 miles south on the straight-in ILS Runway 5, touch and go, Shenandoah."
 
-6.9. Flyability Checks.
+#### 6.9.{#6_9} Flyability Checks.
 
-6.9.1. Instrument procedure flyability checks are flown to ensure procedures are safe, practical, and consistent with good operating procedures before general use. They may be accomplished in lieu of or in addition to an official flight check. Whenever possible, flyability checks should be conducted by instructor/evaluator pilots. Flyability checks are NOT official flight inspections (-flight checks‖), but shall include the entire procedure including the missed approach segment and all holding patterns. Prior to accomplishing a flyability check, pilots will review applicable portions of AFI 11-230, Instrument Procedures.
+6.9.1. Instrument procedure flyability checks are flown to ensure procedures are safe, practical, and consistent with good operating procedures before general use. They may be accomplished in lieu of or in addition to an official flight check. Whenever possible, flyability checks should be conducted by instructor/evaluator pilots. Flyability checks are NOT official flight inspections ("flight checks"), but shall include the entire procedure including the missed approach segment and all holding patterns. Prior to accomplishing a flyability check, pilots will review applicable portions of AFI 11-230, Instrument Procedures.
 
-6.10. Procedure and Database Problem Reporting.
+#### 6.10.{#6_10} Procedure and Database Problem Reporting.
 
 6.10.1. Despite the best quality control measures, it is still possible for aircrews to discover errors in databases, instrument procedures, charts, etc. If you discover a discrepancy or a discrepancy between two sources (ex. procedure pulled from aircraft database differs from paper IAP), report the discrepancy to your unit Standardization/Evaluation function. They, in turn, should report the details to the source of the database or procedure. All sources of databases, instrument procedures, charts, etc. have established procedures for reporting errors. Procedures and points of contact vary by vendor and organization and are located in the documentation that comes with the particular product.

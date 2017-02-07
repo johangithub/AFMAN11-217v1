@@ -1,6 +1,8 @@
-Chapter 12 FINAL APPROACH
+# Chapter 12 FINAL APPROACH
 
-12.1. Final Approach Guidance. There are several types of final approach guidance. For the purposes of this chapter, final approach guidance will be categorized as: Non-radar, Radar, Procedures with a Visual Component (visual approach, contact approach, IAP with a visual segment and charted visual chart procedures), and Other Specialized Procedures (converging approaches, ILS Precision Runway Monitor (ILS/PRM), Simultaneous Offset Instrument Approaches (SOIA), and Transponder Landing System (TLS).) Once inside the final approach fix, one navigation receiver available to the pilot flying must remain tuned to and display the facility that provides final approach course guidance.
+#### 12.1.{#12_1} Final Approach Guidance.
+
+There are several types of final approach guidance. For the purposes of this chapter, final approach guidance will be categorized as: Non-radar, Radar, Procedures with a Visual Component (visual approach, contact approach, IAP with a visual segment and charted visual chart procedures), and Other Specialized Procedures (converging approaches, ILS Precision Runway Monitor (ILS/PRM), Simultaneous Offset Instrument Approaches (SOIA), and Transponder Landing System (TLS).) Once inside the final approach fix, one navigation receiver available to the pilot flying must remain tuned to and display the facility that provides final approach course guidance.
 
 12.1.1. Final Approach Components. In general, final approach segments consist of a few basic items: The final approach fix (FAF), stepdown fixes, visual descent point (VDP), missed approach point (MAP), minimum descent altitude (MDA) and decision height/decision altitude (DH/DA). The first four can be defined by a NAVAID, a waypoint, crossing radials of two NAVAIDs, or a radial and DME. The optimum final approach course length is 5 miles but may be as long as 10 miles.
 
@@ -60,7 +62,9 @@ Chapter 12 FINAL APPROACH
 
 12.1.2.2.7. The visual approach slope indicator.
 
-12.2. Non-radar Approaches. Defined as approaches that do not require radar vectoring or radar services on final and may or may not provide electronic glide path guidance. Examples of non-radar approaches include ILS, VOR, TAC, NDB, RNAV/GPS and MLS. Procedures that can be flown with or without glide path guidance using the same final approach course guidance include ILS, MLS, and RNAV/GPS. (There are instances of all of these types of approaches where radar is required to identify some portion of the approach procedure, which will be discussed in a later section.)
+#### 12.2.{#12_2} Non-radar Approaches.
+
+Defined as approaches that do not require radar vectoring or radar services on final and may or may not provide electronic glide path guidance. Examples of non-radar approaches include ILS, VOR, TAC, NDB, RNAV/GPS and MLS. Procedures that can be flown with or without glide path guidance using the same final approach course guidance include ILS, MLS, and RNAV/GPS. (There are instances of all of these types of approaches where radar is required to identify some portion of the approach procedure, which will be discussed in a later section.)
 
 12.2.1. ILS (Includes LOC, Localizer Back Course, Localizer Type Directional Aid (LDA), and Simplified Directional Facility (SDF).
 
@@ -126,7 +130,7 @@ Chapter 12 FINAL APPROACH
 
 ##### Figure 12.4. Non-Computed Mode/Computed Mode.
 
-12.2.2.4. Tune the MLS as soon as practicable during the transition to final and monitor the MLS identifier during the entire approach. The MLS is identified by a four-letter identifier always beginning with the letter "M." The four-letter ident is transmitted at least six times per minute by the approach azimuth (or back azimuth) ground equipment. Some aircraft installations do not include the audible identification feature; in this case, observing the correct 4-letter identifier on the aircraft‘s avionics display can identify the MLS.
+12.2.2.4. Tune the MLS as soon as practicable during the transition to final and monitor the MLS identifier during the entire approach. The MLS is identified by a four-letter identifier always beginning with the letter "M." The four-letter ident is transmitted at least six times per minute by the approach azimuth (or back azimuth) ground equipment. Some aircraft installations do not include the audible identification feature; in this case, observing the correct 4-letter identifier on the aircraft's avionics display can identify the MLS.
 
 12.2.2.5. Azimuth and Glide Slope Selection. The MLS receiver will automatically select the appropriate azimuth and glide slope as well as tune the TACAN for distance information. When operating in the manual mode, you may change the published azimuth and glide slope angle.
 
@@ -170,7 +174,7 @@ Chapter 12 FINAL APPROACH
 
 12.2.3.1.1. Retrieving the procedure from the Data Base. Do not fly the approach unless it can be retrieved in its entirety from a current approved database. Cross check data base waypoints against those contained on the published approach plate. If discrepancies exist, do not fly the approach. Exception: The FAWP altitude may be raised above that shown on the published chart in order to ensure adequate clearance at a step down fix.
 
-12.2.3.1.1.1. Note: Manually selecting aircraft bank limiting functions may reduce the aircraft‘s ability to maintain its desired track and are not recommended. Pilots should recognize manually selectable aircraft bank-limiting functions might reduce their ability to satisfy ATC path expectations, especially when executing large angle turns. This should not be construed as a requirement to deviate from Airplane Flight Manual procedures; rather, pilots should limit the selection of such functions within accepted procedures.
+12.2.3.1.1.1. Note: Manually selecting aircraft bank limiting functions may reduce the aircraft's ability to maintain its desired track and are not recommended. Pilots should recognize manually selectable aircraft bank-limiting functions might reduce their ability to satisfy ATC path expectations, especially when executing large angle turns. This should not be construed as a requirement to deviate from Airplane Flight Manual procedures; rather, pilots should limit the selection of such functions within accepted procedures.
 
 12.2.3.1.2. Prior to commencing the approach. Determine which area of the TAA the aircraft will enter using bearing and distance to the IF (IAF). Fly the full approach from an Initial Approach Waypoint (IAWP) or feeder fix unless specifically cleared otherwise. Entry from other than an IAWP does not assure terrain clearance.
 
@@ -194,7 +198,9 @@ Chapter 12 FINAL APPROACH
 
 12.2.3.2.4.1. Missed Approach. To execute a missed approach, activate the missed approach after crossing the MAWP. GPS missed approach procedures require pilot action to sequence from the MAWP to the missed approach procedure. If the missed approach is not activated, the GPS receiver will display an extension of the inbound final approach course, and displayed distance will increase from the MAWP. Do not activate the missed approach prior to the MAWP. Once the missed approach is activated, CDI sensitivity is set to 1NM. Missed approach routings in which the first track is via a course rather than direct to the next waypoint require additional action from the pilot to set the course (consult your flight manual). Do not turn off of the final approach course prior to the MAWP.
 
-12.3. Radar. These are approaches that require radar services. There are two basic types of approaches: the precision approach (PAR) and the surveillance approach (ASR). NOTE: Fixes that require RADAR for identification are depicted with the word "RADAR" appearing next to the fix and the words "RADAR REQUIRED" will appear on the approach plate. Only groundbased radar, such as airport surveillance, precision, or air route surveillance radar, may be used to position the aircraft.
+#### 12.3.{#12_3} Radar.
+
+These are approaches that require radar services. There are two basic types of approaches: the precision approach (PAR) and the surveillance approach (ASR). NOTE: Fixes that require RADAR for identification are depicted with the word "RADAR" appearing next to the fix and the words "RADAR REQUIRED" will appear on the approach plate. Only groundbased radar, such as airport surveillance, precision, or air route surveillance radar, may be used to position the aircraft.
 
 12.3.1. The PAR provides the pilot with precise course, glideslope, and range information; the ASR provides course and range information and is classified as a non-precision approach. During an ASR and upon request, the controller will provide recommended altitudes on final to the last whole mile that is at or above the published MDA. Recommended altitudes are computed from the start descent point to the runway threshold. (At the MAP, the straight-in surveillance system approach error may be as much as 500 feet from the runway edges.)
 
@@ -240,7 +246,7 @@ Chapter 12 FINAL APPROACH
 
 12.3.5.2. PAR. The PAR is accomplished the same as the ASR with the exception that the controller will also provide glidepath guidance. Approximately 10 to 30 seconds before final descent, the controller will advise that the aircraft is approaching the glide path. When the aircraft reaches the point where final descent is to start, the controller will state "begin descent." The pilot should descend at a standard precision descent rate. The controller will advise "On, Above, Below, Well above, Well below glidepath, etc." If the runway environment is not in sight at DA/DH, execute the appropriate missed approach procedure.
 
-12.3.5.2.1. Approach Guidance Termination. The controller will cease providing course and glide path guidance when: The pilot reports the runway/approach lights in sight, and the pilot elects to proceed visually (e.g. "BRICK 10, runway in sight, taking over visual.") Note: A pilot‘s report of "runway in sight" OR "visual" alone does not constitute a request/advisement to proceed visually and the controller will continue to provide course and glide path guidance.
+12.3.5.2.1. Approach Guidance Termination. The controller will cease providing course and glide path guidance when: The pilot reports the runway/approach lights in sight, and the pilot elects to proceed visually (e.g. "BRICK 10, runway in sight, taking over visual.") Note: A pilot's report of "runway in sight" OR "visual" alone does not constitute a request/advisement to proceed visually and the controller will continue to provide course and glide path guidance.
 
 12.3.5.2.1.1. If the decision is made to discontinue the approach, advise the controller as soon as practical.
 
@@ -248,7 +254,9 @@ Chapter 12 FINAL APPROACH
 
 12.3.5.3.1. Perform turns during the transition to final by establishing an angle of bank on the ADI that will approximate a standard rate turn, not to exceed 30°. Perform turns on final by establishing an angle of bank on the ADI that will approximate a half-standard rate turn. NOTE: Do not begin using half-standard rate turns on final until the controller tells you. The controller may want standard rate turns even on final if abnormal conditions exist (i.e., strong crosswinds, turbulence, etc.) If unable to comply with these turn rates, advise the controller. Initiate turns immediately upon hearing the words "turn right" or "turn left." Stop the turn on receipt of the words "stop turn." Acknowledge the controller's commands to start and stop turns until advised not to acknowledge further transmissions.
 
-12.4. Visual Approach. Visual approaches reduce pilot/controller workload and expedite traffic by shortening flight paths to the airport. A visual approach is conducted on an IFR flight plan and authorizes the pilot to proceed visually and clear of clouds to the airport. The pilot must have either the airport or the preceding identified aircraft in sight, and the approach must be authorized and controlled by the appropriate ATC facility.
+#### 12.4.{#12_4} Visual Approach.
+
+Visual approaches reduce pilot/controller workload and expedite traffic by shortening flight paths to the airport. A visual approach is conducted on an IFR flight plan and authorizes the pilot to proceed visually and clear of clouds to the airport. The pilot must have either the airport or the preceding identified aircraft in sight, and the approach must be authorized and controlled by the appropriate ATC facility.
 
 12.4.1. Before a visual approach can be authorized, the airport must have a ceiling at or above 1,000 feet and visibility 3 miles or greater, ATC must determine that it will be operationally beneficial and pilots must be able to proceed visually while remaining clear of clouds. Additionally, ATC will not issue clearance until the pilot has the airport or the preceding aircraft in sight. If the pilot has the airport in sight but cannot see the preceding aircraft, ATC may still clear the aircraft for a visual approach; however, ATC retains both aircraft separation and wake separation responsibility. When visually following a preceding aircraft, acceptance of the visual approach clearance constitutes acceptance of pilot responsibility for maintaining a safe approach interval and adequate wake turbulence separation.
 
@@ -268,7 +276,9 @@ Chapter 12 FINAL APPROACH
 
 12.4.5.4. If instructed by ATC to follow another aircraft, notify the controller if you do not see it, are unable to maintain visual contact with it, or for any other reason you cannot accept the responsibility for visual separation under these conditions.
 
-12.5. Contact Approach. Pilots operating on an IFR flight plan, when clear of clouds with at least 1-mile flight visibility and can reasonably expect to continue to the destination airport in those conditions, may request ATC authorization for a contact approach.
+#### 12.5.{#12_5} Contact Approach.
+
+Pilots operating on an IFR flight plan, when clear of clouds with at least 1-mile flight visibility and can reasonably expect to continue to the destination airport in those conditions, may request ATC authorization for a contact approach.
 
 12.5.1. ATC may only issue clearance for a contact approach under the following conditions:
 
@@ -282,15 +292,17 @@ Chapter 12 FINAL APPROACH
 
 12.5.2. When executing a contact approach, the pilot assumes responsibility for obstruction clearance. If radar service is being received, it will automatically terminate when the pilot is instructed to change to advisory frequency.
 
-12.5.3. Being cleared for a visual or contact approach does not authorize the pilot to fly a
+12.5.3. Being cleared for a visual or contact approach does not authorize the pilot to fly a 360° overhead traffic pattern. An aircraft conducting an overhead maneuver is VFR and the instrument flight rules (IFR) flight plan is canceled when the aircraft reaches the "initial point." Aircraft operating at an airport without a functioning control tower must initiate cancellation of the IFR flight plan prior to executing the overhead maneuver or after landing.
 
-360° overhead traffic pattern. An aircraft conducting an overhead maneuver is VFR and the instrument flight rules (IFR) flight plan is canceled when the aircraft reaches the "initial point." Aircraft operating at an airport without a functioning control tower must initiate cancellation of the IFR flight plan prior to executing the overhead maneuver or after landing.
+#### 12.6.{#12_6} IAP with Visual Segment.
 
-12.6. IAP with Visual Segment. Some IAPs contain a published visual segment (Figure 12.5). In general, when the distance from the MAP to the end of the runway exceeds 3SM, the words "fly visual " will appear in the profile view of the IAP. A long dashed line in the profile view with an approximate heading and distance to the end of the runway will be depicted. The depicted ground track associated with the visual segment should be flown as "DR" course. When executing the visual segment, remain clear of clouds and proceed to the airport maintaining visual contact with the ground. Since missed approach obstacle clearance is assured only if the missed approach is commenced at the published MAP or above the MDA, the pilot should have preplanned climbout options based on aircraft performance and terrain features.
+Some IAPs contain a published visual segment (Figure 12.5). In general, when the distance from the MAP to the end of the runway exceeds 3SM, the words "fly visual " will appear in the profile view of the IAP. A long dashed line in the profile view with an approximate heading and distance to the end of the runway will be depicted. The depicted ground track associated with the visual segment should be flown as "DR" course. When executing the visual segment, remain clear of clouds and proceed to the airport maintaining visual contact with the ground. Since missed approach obstacle clearance is assured only if the missed approach is commenced at the published MAP or above the MDA, the pilot should have preplanned climbout options based on aircraft performance and terrain features.
 
 ##### Figure 12.5. IAP with Visual Segment.
 
-12.7. Charted Visual Flight Procedures (CVFPs). Charted Visual Flight Procedures (CVFPs) are published visual approaches where an aircraft on an IFR flight plan, operating in VMC and when authorized by air traffic control, may proceed to the destination airport under VFR via the route depicted on the CVFP (Figure 12.6). When informed CVFPs are in use, the pilot must advise the arrival controller on initial contact if unable to accept the CVFP.
+#### 12.7.{#12_7} Charted Visual Flight Procedures (CVFPs).
+
+Charted Visual Flight Procedures (CVFPs) are published visual approaches where an aircraft on an IFR flight plan, operating in VMC and when authorized by air traffic control, may proceed to the destination airport under VFR via the route depicted on the CVFP (Figure 12.6). When informed CVFPs are in use, the pilot must advise the arrival controller on initial contact if unable to accept the CVFP.
 
 12.7.1. Characteristics. CVFPs are established for noise abatement purposes to a specific runway equipped with a visual or electronic vertical guidance system. These procedures are used only in a radar environment at airports with an operating control tower. The CVFPs depict prominent landmarks, courses, and altitudes and most depict some NAVAID information for supplemental navigational guidance only.
 
@@ -302,7 +314,9 @@ Chapter 12 FINAL APPROACH
 
 ##### Figure 12.6. Charted Visual Flight Procedure.
 
-12.8. Converging Approaches (Figure 12 7). Converging approaches provide procedures for conducting simultaneous precision instrument approaches (normally ILS) to converging runways. Converging runways are defined as runways having a 15° to 100° angle between them. In simpler terms, if the runways are pointed at each other (extended centerlines intersect) they are converging runways and procedures must be established to de-conflict possible simultaneous missed approaches.
+#### 12.8.{#12_8} Converging Approaches (Figure 12 7).
+
+Converging approaches provide procedures for conducting simultaneous precision instrument approaches (normally ILS) to converging runways. Converging runways are defined as runways having a 15° to 100° angle between them. In simpler terms, if the runways are pointed at each other (extended centerlines intersect) they are converging runways and procedures must be established to de-conflict possible simultaneous missed approaches.
 
 12.8.1. Procedures. Converging approaches are implemented when the volume and complexity of aircraft operations require the use of simultaneous converging instrument approaches. These approaches are specifically designed to ensure traffic deconfliction during all phases of the arrival procedure. Converging approaches are labeled as "converging" and ATC clearance must specify this type of approach. Theoretically no operational hardships on users and control facilities will result from these operations.
 
@@ -314,23 +328,19 @@ Chapter 12 FINAL APPROACH
 
 ##### Figure 12.7. Converging ILS Approach.
 
-12.9. ILS Precision Runway Monitor (ILS/PRM) Approaches (Figure 12 8).
+#### 12.9.{#12_9} ILS Precision Runway Monitor (ILS/PRM) Approaches (Figure 12 8).
 
 12.9.1. ILS/PRM approaches are authorized at selected airports where parallel runways are separated by less than 4300 feet. Specialized equipment, procedures and training for both air traffic controllers and pilots are required prior to conducting an ILS/PRM approach at these airports. All USAF aircrews must be cognizant of the requirements for operations at these airports when ILS/PRM approaches are in use. ILS/PRM approaches allow for increased arrival operations at airports with closely spaced parallel runways. All pilots flying into these airports must be able to accept a clearance for the ILS/PRM approach when the services are offered or risk extensive delays.
 
 ##### Figure 12.8. ILS/PRM Approach.
 
-12.9.2. Simultaneous close parallel ILS/PRM approaches are published on a separate Approach Procedure Chart titled ILS/PRM Rwy XXX (Simultaneous Close Parallel) (Figure
-
-12.9).
+12.9.2. Simultaneous close parallel ILS/PRM approaches are published on a separate Approach Procedure Chart titled ILS/PRM Rwy XXX (Simultaneous Close Parallel) (Figure 12.9).
 
 12.9.3. For an airport to qualify for reduced lateral separation between runways there must be "high update radar" and associated high resolutions radar displays (Final Monitor Aids FMAs) installed. The high update radar provides near instantaneous position and altitude information to the FMAs. Automated tracking software provides "monitor controllers" with aircraft identification, position, altitude, and the predicted position ten seconds ahead, as well as visual and aural alerts to the controller. This equipment, trained controllers, an enhanced communications capability that includes a secondary monitor frequency with tower override, and the ILS equipment collectively make up the ILS/PRM system.
 
-12.9.3.1. When flying appropriately equipped aircraft and trained as outlined in AFI
+12.9.3.1. When flying appropriately equipped aircraft and trained as outlined in AFI11-202V3 and MAJCOM directives, USAF aircrews are authorized to fly ILS/PRM approaches.
 
-11-202V3 and MAJCOM directives, USAF aircrews are authorized to fly ILS/PRM approaches.
-
-12.9.4. Simultaneous close parallel ILS/PRM approaches require a "monitor controller" using the PRM system be assigned to each runway and to ensure prescribed separation standards are met. Standard radar and/or vertical separation is used during turn-ons to final approaches. Vertical separation will continue until reaching an intermediate fix between ten and fifteen miles from the runway. From this point to the airport, aircraft may be at the same altitudes, be side by side, or pass traffic on the parallel final approach. Also from this point, or just outside, a block of airspace has been established as a buffer between the final approach courses. This airspace is 2,000-foot wide, equal distance from the finals, and is called the No Transgression Zone (NTZ). The NTZ is shown on the "monitor controller‘s" display and as the name implies, if planes enter or approach the NTZ, the "monitor controllers" issue instructions to correct the transgression.
+12.9.4. Simultaneous close parallel ILS/PRM approaches require a "monitor controller" using the PRM system be assigned to each runway and to ensure prescribed separation standards are met. Standard radar and/or vertical separation is used during turn-ons to final approaches. Vertical separation will continue until reaching an intermediate fix between ten and fifteen miles from the runway. From this point to the airport, aircraft may be at the same altitudes, be side by side, or pass traffic on the parallel final approach. Also from this point, or just outside, a block of airspace has been established as a buffer between the final approach courses. This airspace is 2,000-foot wide, equal distance from the finals, and is called the No Transgression Zone (NTZ). The NTZ is shown on the "monitor controller's" display and as the name implies, if planes enter or approach the NTZ, the "monitor controllers" issue instructions to correct the transgression.
 
 12.9.5. When conducting an ILS/PRM approach, the following procedures shall be used:
 
@@ -354,8 +364,7 @@ Chapter 12 FINAL APPROACH
 
 12.9.5.1.4. All breakouts from the approach shall be hand flown. Autopilots shall be disengaged when a breakout is directed.
 
-12.9.5.1.4.1. A "blunder" is an unexpected turn by an aircraft already established on the localizer toward another aircraft on an adjacent approach course. A
-"breakout" is a technique used to direct aircraft out of the approach stream. For close parallel operations, a breakout is used to direct an aircraft away from a blundering aircraft while simultaneous operations are being conducted.
+12.9.5.1.4.1. A "blunder" is an unexpected turn by an aircraft already established on the localizer toward another aircraft on an adjacent approach course. A "breakout" is a technique used to direct aircraft out of the approach stream. For close parallel operations, a breakout is used to direct an aircraft away from a blundering aircraft while simultaneous operations are being conducted.
 
 12.9.5.1.4.2. Breakouts differ from other types of abandoned approaches in that they can happen anywhere and unexpectedly. Pilots directed by ATC to break off an approach must assume that an aircraft is blundering toward them and a breakout must be initiated immediately.
 
@@ -369,7 +378,9 @@ Chapter 12 FINAL APPROACH
 
 ##### Figure 12.9. ILS/PRM Approach with Attention All Users Page.
 
-12.10. Simultaneous Offset Instrument Approaches (SOIA). Simultaneous Offset Instrument Approaches (SOIA) are procedures used to conduct simultaneous approaches to a set of parallel runways using a straight-in ILS approach to one runway and an offset LDA with glide slope instrument approach to the other runway. (Figure 12.10). The parallel runway centerlines are separated by less than 3,000 feet, but are at least 750 feet apart. Controllers monitor the approaches with a PRM system using high update radar and high-resolution ATC radar displays. The procedures and system requirements for SOIA are identical with those used for simultaneous close parallel ILS/PRM approaches until the MAP--at which time visual separation between aircraft on the adjacent approach courses must be applied. An understanding of the previous section, paragraph 12.9 is essential to conduct SOIA operations. When flying appropriately equipped aircraft and trained as outlined in AFI 11-202V3 and MAJCOM directives, USAF aircrews are authorized to fly SOIA approaches.
+#### 12.10.{#12_10} Simultaneous Offset Instrument Approaches (SOIA).
+
+Simultaneous Offset Instrument Approaches (SOIA) are procedures used to conduct simultaneous approaches to a set of parallel runways using a straight-in ILS approach to one runway and an offset LDA with glide slope instrument approach to the other runway. (Figure 12.10). The parallel runway centerlines are separated by less than 3,000 feet, but are at least 750 feet apart. Controllers monitor the approaches with a PRM system using high update radar and high-resolution ATC radar displays. The procedures and system requirements for SOIA are identical with those used for simultaneous close parallel ILS/PRM approaches until the MAP--at which time visual separation between aircraft on the adjacent approach courses must be applied. An understanding of the previous section, paragraph 12.9 is essential to conduct SOIA operations. When flying appropriately equipped aircraft and trained as outlined in AFI 11-202V3 and MAJCOM directives, USAF aircrews are authorized to fly SOIA approaches.
 
 12.10.1. In SOIA, the approach course separation (instead of the runway separation) meets established approach criteria. A visual segment of the LDA approach is established between the LDA MAP and the runway threshold. Aircraft transition in visual conditions from the LDA course to align with the runway and be stabilized by 500 feet above ground level. The pilot of the trailing aircraft must accept responsibility for visual separation prior to the LDA aircraft reaching the LDA MAP, or a missed approach must be executed.
 
@@ -377,9 +388,11 @@ Chapter 12 FINAL APPROACH
 
 ##### Figure 12.10. SOIA Approaches.
 
-12.11. Transponder Landing Systems (TLS). Transponder Landing Systems (TLS) (Figure
+#### 12.11.{#12_11} Transponder Landing Systems (TLS).
 
-12.11) are designed to provide approach guidance utilizing existing airborne ILS, localizer, glide slope, and transponder equipment. Ground equipment consists of a transponder interrogator, sensor arrays to detect lateral and vertical position, and ILS frequency transmitters. The TLS detects the aircraft‘s position by interrogating its transponder. It then broadcasts ILS frequency signals to guide the aircraft along the desired approach path. The TLS ground equipment tracks one aircraft, based on its transponder code, and provides correction signals to course and glidepath based on the position of the tracked aircraft. Even though the TLS signal is received using the ILS receiver, no fixed course or glidepath is generated. The concept of operation is very similar to an air traffic controller providing radar vectors. As with radar vectors, the guidance is only valid for the intended aircraft.
+Transponder Landing Systems (TLS) (Figure
+
+12.11) are designed to provide approach guidance utilizing existing airborne ILS, localizer, glide slope, and transponder equipment. Ground equipment consists of a transponder interrogator, sensor arrays to detect lateral and vertical position, and ILS frequency transmitters. The TLS detects the aircraft's position by interrogating its transponder. It then broadcasts ILS frequency signals to guide the aircraft along the desired approach path. The TLS ground equipment tracks one aircraft, based on its transponder code, and provides correction signals to course and glidepath based on the position of the tracked aircraft. Even though the TLS signal is received using the ILS receiver, no fixed course or glidepath is generated. The concept of operation is very similar to an air traffic controller providing radar vectors. As with radar vectors, the guidance is only valid for the intended aircraft.
 
 12.11.1. TLS ground equipment provides approach guidance for only one aircraft at a time.
 

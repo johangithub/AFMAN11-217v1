@@ -1,6 +1,8 @@
 # Chapter 1: BASIC INSTRUMENT FLYING
 
-1.1. Instrument Categories. Aircraft performance is achieved by controlling the aircraft attitude and power. Aircraft attitude is the relationship of its longitudinal and lateral axes to the Earth's horizon. An aircraft is flown in instrument flight by controlling the attitude and power as necessary to produce the desired performance. This is known as the "control and performance concept" of attitude instrument flying (Figure 1.1) and can be applied to any basic instrument maneuver. The three general categories of instruments are:
+#### 1.1.{#1_1} Instrument Categories.
+
+Aircraft performance is achieved by controlling the aircraft attitude and power. Aircraft attitude is the relationship of its longitudinal and lateral axes to the Earth's horizon. An aircraft is flown in instrument flight by controlling the attitude and power as necessary to produce the desired performance. This is known as the "control and performance concept" of attitude instrument flying (Figure 1.1) and can be applied to any basic instrument maneuver. The three general categories of instruments are:
 
 1.1.1. Control instruments: Display immediate attitude and power indications and are calibrated to permit adjustments in definite amounts. Control is monitored by referencing the attitude direction indicators (ADIs). Measures of power vary with aircraft and include tachometers, engine pressure ratio (EPR), manifold pressure, fuel flow, torque, etc.
 
@@ -10,7 +12,9 @@
 
 Figure 1.1. Attitude Instrument Flying.
 
-1.2. Control and Performance Concept. The pilot establishes an attitude and power setting that will result in the desired aircraft performance, trims the aircraft for hands-off flight, and references the performance instruments. If deviations occur, power and attitude corrections are made and the process repeats. In general, small smooth corrections coupled with an efficient crosscheck will result in the best aircraft performance. (The instrument crosscheck is discussed later in the chapter.).
+#### 1.2.{#1_2} Control and Performance Concept.
+
+The pilot establishes an attitude and power setting that will result in the desired aircraft performance, trims the aircraft for hands-off flight, and references the performance instruments. If deviations occur, power and attitude corrections are made and the process repeats. In general, small smooth corrections coupled with an efficient crosscheck will result in the best aircraft performance. (The instrument crosscheck is discussed later in the chapter.).
 
 1.2.1. Attitude Control. Proper instrument aircraft attitude control is accomplished by making appropriate control inputs and verifying the result on the ADI. The ADI provides an immediate, direct and corresponding indication of any change in aircraft pitch or bank.
 
@@ -40,7 +44,9 @@ Figure 1.2. Instrument Cross-Check Technique.
 
 Figure 1.3. Typical Instrument Cockpit Layout.
 
-1.3. Display of Flight Instrumentation (Figure 1 3). Display options vary widely from aircraft to aircraft and incorporate different symbologies and terminology for similar functions. Electronic displays allow the pilot to optimize cockpit instrumentation for a particular mission by decluttering, removing, or relocating presentations. However, with very few exceptions, Air Force instrument cockpits must adhere to the following specific rules of instrumentation, equipage and setup:
+#### 1.3.{#1_3} Display of Flight Instrumentation (Figure 1 3).
+
+Display options vary widely from aircraft to aircraft and incorporate different symbologies and terminology for similar functions. Electronic displays allow the pilot to optimize cockpit instrumentation for a particular mission by decluttering, removing, or relocating presentations. However, with very few exceptions, Air Force instrument cockpits must adhere to the following specific rules of instrumentation, equipage and setup:
 
 1.3.1. Primary Flight Instrumentation. Primary flight instrumentation must always be present. It must provide full-time attitude, altitude, and airspeed information, an immediately discernible attitude recognition capability, an unusual attitude recovery capability, and complete fault indications.
 

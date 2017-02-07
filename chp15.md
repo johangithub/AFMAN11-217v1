@@ -1,6 +1,8 @@
-Chapter 15 INTERNATIONAL CIVIL AVIATION ORGANIZATION (ICAO) PROCEDURES
+# Chapter 15 INTERNATIONAL CIVIL AVIATION ORGANIZATION (ICAO) PROCEDURES
 
-15.1. Introduction. The ICAO is composed of over 180 member nations and is a part of the United Nations. Unlike the FAA, whose regulations are directive, ICAO is an advisory organization that jointly agrees on procedural criteria. Although the ICAO does not have any enforcement authority, ICAO member nations do undertake an obligation to adopt the annexes and procedures adopted as standard by the ICAO. These are published in a document called Procedures for Air Navigation Services-Aircraft Operations (PANS-OPS), in the Annexes to the Convention, and Standards and Recommended Practices (SARPS). Member nations are required to publish their exceptions to PANS-OPS and SARPS in their individual Aeronautical Information Publication (AIP). Most nations do this and follow the ICAO publication of aeronautical information SARPS in Annex 15. These procedures are intended to be strictly adhered to by flight crews in order to achieve and maintain an acceptable level of safety in flight operations. USAF aircrews will find pertinent information extracted from the AIPs in FLIP AP and the Foreign Clearance Guide (FCG).
+#### 15.1.{#15_1} Introduction.
+
+The ICAO is composed of over 180 member nations and is a part of the United Nations. Unlike the FAA, whose regulations are directive, ICAO is an advisory organization that jointly agrees on procedural criteria. Although the ICAO does not have any enforcement authority, ICAO member nations do undertake an obligation to adopt the annexes and procedures adopted as standard by the ICAO. These are published in a document called Procedures for Air Navigation Services-Aircraft Operations (PANS-OPS), in the Annexes to the Convention, and Standards and Recommended Practices (SARPS). Member nations are required to publish their exceptions to PANS-OPS and SARPS in their individual Aeronautical Information Publication (AIP). Most nations do this and follow the ICAO publication of aeronautical information SARPS in Annex 15. These procedures are intended to be strictly adhered to by flight crews in order to achieve and maintain an acceptable level of safety in flight operations. USAF aircrews will find pertinent information extracted from the AIPs in FLIP AP and the Foreign Clearance Guide (FCG).
 
 15.1.1. The ICAO Convention does contain an exemption for state aircraft. However, there should be a due regard exercised for the safety of navigation of civil aircraft. USAF crews shall comply with guidance in AFI 11-202V3 regarding compliance with ICAO procedures.
 
@@ -8,7 +10,7 @@ Chapter 15 INTERNATIONAL CIVIL AVIATION ORGANIZATION (ICAO) PROCEDURES
 
 15.1.2. The Continuum of Safety. Even more so than in the United States, international flying requires good judgment on the part of the pilot. The Air Force expects and encourages you to apply it. No book of hard and fast rules could ever hope to cover all the various situations you may encounter everywhere in the world. The global mission of the USAF means that you may well be required to operate in countries without a well developed aviation system, or into airfields where the ICAO rules have been ignored, replaced or poorly applied. The PIC must necessarily be the final judge of what is safe and prudent for any given mission on any given day. A thorough review of all flight planning documents prior to departure is critical.
 
-15.1.2.1. While English is the standard language of aviation, in many parts of the world you will hear native languages being spoken over ATC frequencies. Knowing, and using, standard terms from FLIP GP, AIM, the ICAO nation‘s AIP, and the Pilot-Controller glossary reduces the chance of misinterpreting a clearance or misunderstanding information from controllers with heavy accents. At all times, and especially when working with ATC controllers whose native language is not English, USAF pilots shall use standard aviation terminology and phraseology. USAF pilots are required to clarify with ATC any clearance that is not completely understood.
+15.1.2.1. While English is the standard language of aviation, in many parts of the world you will hear native languages being spoken over ATC frequencies. Knowing, and using, standard terms from FLIP GP, AIM, the ICAO nation's AIP, and the Pilot-Controller glossary reduces the chance of misinterpreting a clearance or misunderstanding information from controllers with heavy accents. At all times, and especially when working with ATC controllers whose native language is not English, USAF pilots shall use standard aviation terminology and phraseology. USAF pilots are required to clarify with ATC any clearance that is not completely understood.
 
 15.1.2.2. While most terminology has been standardized between the FAA and ICAO, there are minor differences that should be known to aircrews. Five of the most common verbiage differences include:
 
@@ -22,7 +24,7 @@ Chapter 15 INTERNATIONAL CIVIL AVIATION ORGANIZATION (ICAO) PROCEDURES
 
 15.1.2.2.5. "Airport" (FAA) – "Aerodrome" (ICAO)
 
-15.1.2.3. SID STAR Phraseology. Approximately half of the world‘s aircraft operations experience SID and STAR altitude (level) restrictions that are automatically cancelled with a new altitude assignment; the remainder experience SID and STAR altitude (level) restrictions that continue to apply until explicitly cancelled, potentially causing confusion amongst aircrews. ICAO signatories are attempting to alleviate this confusion with new standardized phraseology. The following verbiage may be expected while operating under ICAO rules:
+15.1.2.3. SID STAR Phraseology. Approximately half of the world's aircraft operations experience SID and STAR altitude (level) restrictions that are automatically cancelled with a new altitude assignment; the remainder experience SID and STAR altitude (level) restrictions that continue to apply until explicitly cancelled, potentially causing confusion amongst aircrews. ICAO signatories are attempting to alleviate this confusion with new standardized phraseology. The following verbiage may be expected while operating under ICAO rules:
 
 15.1.2.3.1. "Climb (level) via SID", meaning "Climb following the level restrictions or requirements published on the SID."
 
@@ -48,19 +50,21 @@ Chapter 15 INTERNATIONAL CIVIL AVIATION ORGANIZATION (ICAO) PROCEDURES
 
 15.1.5.1. NOTE: For procedures designed in accordance with host nation or PANS-OPS criteria, the original foreign procedures may have been modified or edited as a result of the DoD TERPS review, which is conducted before these procedures are published in DoD FLIP.
 
-15.2. Definitions. Here are a few ICAO definitions that differ from those commonly used in the United States.
+#### 15.2.{#15_2} Definitions.
 
-15.2.1. PANS-OPS. PANS-OPS is a two-part document. The first volume is for pilots, and is similar to the FAA‘s AIM. The second volume contains the ICAO "TERPS." The document is intended for the use of the international civilian aviation community, not the military. There have been a number of editions of PANS-OPS published since the creation of the ICAO, each with significant changes in the details of instrument approach procedure design. This means that you may find approaches in different parts of the world that have been designed with entirely different rules.
+Here are a few ICAO definitions that differ from those commonly used in the United States.
+
+15.2.1. PANS-OPS. PANS-OPS is a two-part document. The first volume is for pilots, and is similar to the FAA's AIM. The second volume contains the ICAO "TERPS." The document is intended for the use of the international civilian aviation community, not the military. There have been a number of editions of PANS-OPS published since the creation of the ICAO, each with significant changes in the details of instrument approach procedure design. This means that you may find approaches in different parts of the world that have been designed with entirely different rules.
 
 15.2.2. Aircraft Categories. Aircraft approach categories play a much bigger role in the design of ICAO instrument procedures than they do in the U. S. In addition to affecting final approach minimums, PANS-OPS references maximum speeds by category for such operations as holding, departures, and the intermediate segments of instrument approaches. To make matters even more confusing, these additional "category" restrictions specify speeds that are completely different from the familiar approach speeds on final. The appropriate PANS-OPS "category" speeds appear in tables later in this chapter.
 
-15.2.3. Track. The projection on the earth‘s surface of the path of an aircraft, the direction of which path at any point is usually expressed in degrees from North, specifying true or magnetic. This means you must apply any known winds/drift to maintain the ground path. Obstacle clearance in ICAO procedures is provided under the assumption that pilots will maintain the depicted track.
+15.2.3. Track. The projection on the earth's surface of the path of an aircraft, the direction of which path at any point is usually expressed in degrees from North, specifying true or magnetic. This means you must apply any known winds/drift to maintain the ground path. Obstacle clearance in ICAO procedures is provided under the assumption that pilots will maintain the depicted track.
 
 15.2.4. Bank Angle. Procedures are based on average achieved bank angle of 25 degrees, or the bank angle giving a rate of turn of 3 degrees per second, whichever is less.
 
 15.2.5. Established on Course. Established on course is defined as being within half fullscale deflection for an ILS or VOR/DME and within ± 5° of the required bearing for an NDB. Do not consider yourself “established on course” until you are within these limits. ICAO obstacle clearance surfaces assume that the pilot does not normally deviate from the centerline more than one-half scale deflection after being established on track. Despite the fact that there is a range of "acceptable" variation, make every attempt to fly the aircraft on the course centerline and on the glide path. Allowing a more than half-scale deflection (or a more than half-scale fly-up deflection on glideslope) combined with other system tolerances could place the aircraft near the edge or at the bottom of the protected airspace where loss of protection from obstacles can occur.
 
-15.3. Departure Procedures.
+#### 15.3.{#15_3} Departure Procedures.
 
 15.3.1. Screen Heights. It may be difficult or impossible to accurately determine screen height used for a particular departure procedure. For PANS-OPS, the origin of the OIS begins at 16 ft (5 m) above the DER. See Chapter 7 for guidelines to determine screen height.
 
@@ -70,7 +74,7 @@ Chapter 15 INTERNATIONAL CIVIL AVIATION ORGANIZATION (ICAO) PROCEDURES
 
 15.3.3. Basic Rules for All Departures. Unless the procedure specifies otherwise, you must climb on runway heading at a minimum of 200 feet/NM (3.3%) until reaching 400 feet above the DER. Continue to climb at a minimum of 200 feet/NM until reaching a safe enroute altitude.
 
-15.3.4. Omnidirectional Departures. The PANS-OPS "Omnidirectional Departure" is somewhat similar to the FAA‘s "Diverse Departure." It is a departure procedure without any track guidance provided. There are some very important differences, though, because an Omnidirectional Departure may be published even though obstacles penetrate the 40:1 Obstacle Identification Surface. If this is the case, PANS-OPS gives the departure designer a number of ways to publish departure restrictions. These restrictions may be published singly, or in any combination.
+15.3.4. Omnidirectional Departures. The PANS-OPS "Omnidirectional Departure" is somewhat similar to the FAA's "Diverse Departure." It is a departure procedure without any track guidance provided. There are some very important differences, though, because an Omnidirectional Departure may be published even though obstacles penetrate the 40:1 Obstacle Identification Surface. If this is the case, PANS-OPS gives the departure designer a number of ways to publish departure restrictions. These restrictions may be published singly, or in any combination.
 
 15.3.4.1. Standard case. Where no obstacles penetrate the 40:1 OIS, then no departure restrictions will be published. Upon reaching 400 feet above DER, you may turn in any direction.
 
@@ -100,7 +104,7 @@ Chapter 15 INTERNATIONAL CIVIL AVIATION ORGANIZATION (ICAO) PROCEDURES
 
 300
 
-15.4. Low Altitude Approach Procedures.
+#### 15.4.{#15_4} Low Altitude Approach Procedures.
 
 15.4.1. Procedural Tracks. Procedural Track approaches are the most common way of transitioning from the enroute structure. These approaches are often much more complicated than a comparable U.S. approach, and may include multiple NAVAIDs, fixes and course changes, but they are flown essentially the same as described in Chapter 11.
 
@@ -158,7 +162,7 @@ Chapter 15 INTERNATIONAL CIVIL AVIATION ORGANIZATION (ICAO) PROCEDURES
 
 45°/180°, 80°/260°, and base turn reversal procedures must be entered from a track within ± 30° of the outbound reversal track (Figure 15.5). There is a special rule for base turns: for base turns where the ± 30° entry sector does not include the reciprocal of the inbound track, the entry sector is expanded to include the reciprocal. (Figure
 
-15.6). If the aircraft‘s arrival track is not within the entry sector:
+15.6). If the aircraft's arrival track is not within the entry sector:
 
 15.4.2.2.2.1. Comply with the published entry restrictions or arrival routing; or
 
@@ -186,7 +190,7 @@ Chapter 15 INTERNATIONAL CIVIL AVIATION ORGANIZATION (ICAO) PROCEDURES
 
 15.4.2.2.5. Descent. A descent can be depicted at any point along a course reversal. When a descent is depicted at the IAF, start descent when abeam or past the IAF and on a parallel or intercept heading to the depicted outbound track. For descents past the IAF, be established on a segment of the IAP before beginning a descent to the altitude associated with that segment.
 
-15.4.2.2.6. NOTE: According to the ICAO‘s definition, "established on a segment" is considered being within half full-scale deflection for an ILS or VOR and within ± 5° of the required bearing for the NDB.
+15.4.2.2.6. NOTE: According to the ICAO's definition, "established on a segment" is considered being within half full-scale deflection for an ILS or VOR and within ± 5° of the required bearing for the NDB.
 
 15.4.2.2.7. Remaining Within Protected Airspace. To ensure that you remain within protected airspace while executing ICAO course reversals, you must comply with the following:
 
@@ -266,7 +270,7 @@ Table 15.2. Maximum Approach Speeds. CATEGORY A B C D E MAXIMUM SPEED
 
 15.4.5. Timing for Missed Approach and FAF to MAP. Some host nations use non-standard timing for determining the MAP on a procedure. This means timing may go from the FAF to the runway threshold or from a step-down fix to the runway threshold. When these host nation procedures are published in DoD FLIP, these non-standard timing blocks will be converted to the US standard of FAF to MAP. This can induce some errors due to rounding of numbers. For this reason, when using timing to determine the MAP on a DoD procedure produced by a host nation, it is imperative that crews correctly determine the timing based on groundspeed, and then fly that groundspeed to avoid exaggerating errors already induced due to the conversion from host nation to DoD format.
 
-15.5. Holding.
+#### 15.5.{#15_5} Holding.
 
 15.5.1. Bank Angle. Make all turns at a bank angle IAW paragraph 15.2.4. ICAO procedures do not allow correcting for winds by adjusting bank angle. The "triple-drift" technique described in Chapter 8 is a good way to correct for winds without varying your bank angle.
 
@@ -312,7 +316,9 @@ Table 15.2. Maximum Approach Speeds. CATEGORY A B C D E MAXIMUM SPEED
 
 15.5.7. Wind Corrections. Attempt to correct both heading and timing to compensate for the effects of wind to ensure the inbound track is regained before passing the holding fix inbound. Indications available from the NAVAID and estimated or known winds should be used in making these corrections. If a limiting radial is published and encountered prior to the outbound limits, it must be followed until a turn inbound is initiated at the appropriate distance/time.
 
-15.6. ICAO Altimeter Setting Procedures. There are three different methods of reporting the altimeter measurements and four different units of measure used to express altimeter settings. For aircraft that have only one type of altimeter scale, or for areas where the altimeter setting is not converted for you, the FIH contains conversion tables. It is critical that crewmembers understand how to apply the conversions prior to flight into airspace using other than inches of mercury QNH for altimeter settings. Refer to FLIP AP for specific altimeter setting procedures for each country.
+#### 15.6.{#15_6} ICAO Altimeter Setting Procedures.
+
+There are three different methods of reporting the altimeter measurements and four different units of measure used to express altimeter settings. For aircraft that have only one type of altimeter scale, or for areas where the altimeter setting is not converted for you, the FIH contains conversion tables. It is critical that crewmembers understand how to apply the conversions prior to flight into airspace using other than inches of mercury QNH for altimeter settings. Refer to FLIP AP for specific altimeter setting procedures for each country.
 
 15.6.1. Methods of Reporting Altimeter Settings.
 
@@ -445,7 +451,7 @@ Table 15.2. Maximum Approach Speeds. CATEGORY A B C D E MAXIMUM SPEED
 
 15.6.8. Altimeter Use in Flight. Prior to take-off at least one altimeter will be set to the latest QNH/QFE altimeter setting. Set the altimeter to QNE (29.92) climbing through transition altitude. Prior to commencing the initial approach to an airfield, the number of the transition level should be obtained from the appropriate air traffic services unit. Obtain the latest QNH/QFE before descending below the transition level.
 
-15.7. Units of Measure for Altitudes.
+#### 15.7.{#15_7} Units of Measure for Altitudes.
 
 15.7.1. Some countries, particularly in Eastern Europe and nations of the former USSR, use meters to define altitudes. Most USAF aircraft do not have altimeters that can display meters. FLIP AP contains information on units of measure for each country. The FIH has a conversion chart for feet to meters. It is imperative to correctly convert from feet to meters when flying in these areas.
 

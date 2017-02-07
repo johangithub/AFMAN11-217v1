@@ -1,12 +1,14 @@
-Chapter 9 ARRIVAL
+# Chapter 9 ARRIVAL
 
-9.1. En Route Descent Procedure/Technique.
+#### 9.1.{#9_1} En Route Descent Procedure/Technique.
 
 9.1.1. En route. The en route descent frequently allows a pilot to transition from an en route altitude to the final approach instead of flying an entire FLIP IAP. It may be flown either via radar vectors or nonradar routings, using approved navigation aids. ATC will not insist on an en route descent. ATC will not authorize an en route descent if abnormal delays are anticipated, nor will they terminate the service without the pilot's consent except in an emergency.
 
 9.1.2. Final Approach. The type of final approach to be flown must be understood by you and the controller (ILS, PAR, visual pattern, etc.). Except for radar finals, request an en route descent to a specific final approach. If the requested en route descent is to a radar final, select a backup approach that is compatible with existing weather and aircraft equipment. If you experience lost communications, you are automatically cleared to fly any published approach. For further guidance on lost communications, see the FIH.
 
-9.2. Descent. ATC requirements probably have more influence over when to begin the descent than any other single factor. Prior to requesting an enroute descent, consider your range, desired descent rate, weather, terrain, and low altitude fuel consumption. Pilots shall maintain last assigned altitude until receiving authorizations/clearance to change altitude. At that time, pilots are expected to comply with all published/issued restrictions.
+#### 9.2.{#9_2} Descent.
+
+ATC requirements probably have more influence over when to begin the descent than any other single factor. Prior to requesting an enroute descent, consider your range, desired descent rate, weather, terrain, and low altitude fuel consumption. Pilots shall maintain last assigned altitude until receiving authorizations/clearance to change altitude. At that time, pilots are expected to comply with all published/issued restrictions.
 
 9.2.1. Descend at an optimum rate (consistent with the operating characteristics of the aircraft) to 1,000 feet above the assigned altitude then reduce your rate of descent to 500 to
 
@@ -27,9 +29,11 @@ Chapter 9 ARRIVAL
 
 9.2.3.3. Radar Vectors. When descending via radar vectors, remain oriented in relation to the final approach fix by using all available navigation aids. Have the IAP available for the approach to be flown along with an alternate or backup procedure to be used if available. Note the minimum safe, sector, or emergency safe altitudes. Once cleared for the approach, maintain the last assigned altitude and heading until established on a segment of a published route or IAP. If at any time there is doubt as to whether adequate obstacle clearance is provided or controller instructions are unclear, query the controller. The controller should inform you if radar contact is lost and provide you with a new clearance or additional instructions. If advised that radar contact is lost while in IMC and there is a delay in receiving new instructions, ask the controller for a new clearance or advise the controller of your intentions. This is particularly important if below minimum safe, sector, or emergency safe altitude.
 
-9.3. Established on Course. Established on course is defined as being within half full-scale deflection for a VOR/TACAN/RNAV/GPS course, within ± 5° of the required bearing for an NDB and within full scale deflection for a LOC based course. Therefore, do not consider yourself “established on course” until you are within these limits.
+#### 9.3.{#9_3} Established on Course.
 
-9.4. High Altitude Procedures.
+Established on course is defined as being within half full-scale deflection for a VOR/TACAN/RNAV/GPS course, within ± 5° of the required bearing for an NDB and within full scale deflection for a LOC based course. Therefore, do not consider yourself “established on course” until you are within these limits.
+
+#### 9.4.{#9_4} High Altitude Procedures.
 
 9.4.1. Terminal Routings (Figure 9.1). Terminal routings from en route or feeder facilities normally provide a course and range in nautical miles (not DME) to the IAF but may take you to a point other than the IAF.
 
@@ -51,7 +55,7 @@ Chapter 9 ARRIVAL
 
 9.4.5.1. NOTE: For non-DME teardrop approaches, you should not penetrate from an altitude above the depicted IAF altitude. If maneuvering, such as a holding pattern, is necessary to lose excess altitude, obtain clearance to do so in order to comply with subsequent mandatory altitudes.
 
-9.5. Low Altitude Procedures.
+#### 9.5.{#9_5} Low Altitude Procedures.
 
 9.5.1. Terminal routings. Terminal routings from en route or feeder facilities are considered segments of the IAP and normally provide a course, range, and minimum altitude to the IAF. They may take the aircraft to a point other than the IAF if it is operationally advantageous to do so. A low altitude IAF is any fix labeled as an IAF or any procedure turn/holding-in-lieuof a procedure turn fix.
 
@@ -65,7 +69,9 @@ Chapter 9 ARRIVAL
 
 9.5.6. Approach Clearance. When clearance for the approach is issued, ATC expects an immediate turn in the shortest direction to intercept the procedural course upon reaching the IAF. Clearance for the approach does not include clearance for the holding airspace. However, if established in holding and cleared for the approach, complete the holding pattern to the IAF unless an early turn is approved by ATC. If your heading is within 90° of the procedural course, you may use normal lead points to intercept the course. If your heading is not within 90° of the approach course and you desire to maneuver the aircraft into a more favorable alignment prior to starting the approach, obtain clearance from ATC.
 
-9.6. Radar Vectors (Figure 9 4). The use of radar vectors is the simplest and most convenient way to position an aircraft for an approach. Using radar, air traffic controllers can position an aircraft at almost any desired point, provide obstacle clearance by the use of minimum vectoring altitudes (MVAs), and ensure traffic separation. This flexibility allows an aircraft to be vectored to any segment of a published routing shown on the IAP or to a radar final. Radar controllers use MVA charts that are prepared by the air traffic facilities at locations where there are numerous different minimum IFR altitudes. The MVA chart is divided into sectors that are large enough to accommodate vectoring of aircraft within the sector at the MVA. Minimum altitudes are established at 1,000 feet or 2,000 feet in designated mountainous areas (in mountainous areas, MVAs may be authorized at 1,000 feet in order to achieve compatibility with terminal routes or IAPs). When being radar vectored, IFR altitude assignments will be at or above MVA.
+#### 9.6.{#9_6} Radar Vectors (Figure 9 4).
+
+The use of radar vectors is the simplest and most convenient way to position an aircraft for an approach. Using radar, air traffic controllers can position an aircraft at almost any desired point, provide obstacle clearance by the use of minimum vectoring altitudes (MVAs), and ensure traffic separation. This flexibility allows an aircraft to be vectored to any segment of a published routing shown on the IAP or to a radar final. Radar controllers use MVA charts that are prepared by the air traffic facilities at locations where there are numerous different minimum IFR altitudes. The MVA chart is divided into sectors that are large enough to accommodate vectoring of aircraft within the sector at the MVA. Minimum altitudes are established at 1,000 feet or 2,000 feet in designated mountainous areas (in mountainous areas, MVAs may be authorized at 1,000 feet in order to achieve compatibility with terminal routes or IAPs). When being radar vectored, IFR altitude assignments will be at or above MVA.
 
 ##### Figure 9.4. Minimum Vector Altitude (MVA) Chart.
 
@@ -89,7 +95,7 @@ Chapter 9 ARRIVAL
 
 9.6.4.3. NOTE: These procedures do not apply to vectors to a visual approach.
 
-9.7. Pilot Responsibilities.
+#### 9.7.{#9_7} Pilot Responsibilities.
 
 9.7.1. During Vectors. While being radar vectored, the pilot will repeat all headings, altitudes (departing and assigned), and altimeter settings; and comply with controller instructions.
 
@@ -99,35 +105,35 @@ Chapter 9 ARRIVAL
 
 9.7.3.1. CAUTION: If at any time there is doubt as to whether adequate obstacle clearance is provided, or controller instructions are unclear, query the controller. The controller should inform you if radar contact is lost and give a new clearance or instructions. If you are advised that radar contact is lost and there is a delay in receiving new instructions, ask the controller for a new clearance or advise the controller of your intentions. This is particularly important if below minimum sector, or emergency safe altitude.
 
-9.8. Standard Terminal Arrivals (STARs) (Figure 9 5).
+#### 9.8.{#9_8} Standard Terminal Arrivals (STARs) (Figure 9 5).
 
 9.8.1. Definition. A STAR is an ATC coded IFR arrival route established for assignment to arriving IFR aircraft for certain airports. The purpose of a STAR is to simplify clearance delivery procedures and facilitate transition between enroute and instrument approach procedures.
 
 9.8.1.1. STARs can be based on conventional NAVAIDS or RNAV. For all STARs, follow the guidance in the following paragraphs. For RNAV-specific procedures, see paragraphs 9.8.1.2.
 
-9.8.1.1.1. Mandatory Speeds and/or Altitudes. Some STARs may have mandatory speeds and/or crossing altitudes published. Some STARs have planning information depicted to inform pilots what clearances or restrictions to -expect.‖ -Expect‖ altitudes/speeds are not considered STAR restrictions until verbally issued by ATC. They are published for planning purposes and should not be used in the event of lost communications unless ATC has specifically advised the pilot to expect these altitudes/speeds as part of a further clearance. Additionally, STARs will normally depict MEAs. MEAs are not considered restrictions. However, pilots are expected to remain above MEAs.
+9.8.1.1.1. Mandatory Speeds and/or Altitudes. Some STARs may have mandatory speeds and/or crossing altitudes published. Some STARs have planning information depicted to inform pilots what clearances or restrictions to "expect." "Expect" altitudes/speeds are not considered STAR restrictions until verbally issued by ATC. They are published for planning purposes and should not be used in the event of lost communications unless ATC has specifically advised the pilot to expect these altitudes/speeds as part of a further clearance. Additionally, STARs will normally depict MEAs. MEAs are not considered restrictions. However, pilots are expected to remain above MEAs.
 
-9.8.1.1.2. Altitude Clearance. Pilots shall maintain last assigned altitude until receiving authorizations/clearance to change altitude. At that time, pilots are expected to comply with all published/issued restrictions. The authorization may be via a normal descent clearance or the phraseology -DESCEND VIA.‖
+9.8.1.1.2. Altitude Clearance. Pilots shall maintain last assigned altitude until receiving authorizations/clearance to change altitude. At that time, pilots are expected to comply with all published/issued restrictions. The authorization may be via a normal descent clearance or the phraseology "DESCEND VIA."
 
-9.8.1.1.2.1. Example of Lateral Routing Clearance Only. -Track 32, cleared the EAU CLAIRE SIX ARRIVAL.‖ In this case, you are cleared the EAU CLAIRE SIX routing but are expected to maintain your present altitude awaiting further clearance.
+9.8.1.1.2.1. Example of Lateral Routing Clearance Only. "Track 32, cleared the EAU CLAIRE SIX ARRIVAL." In this case, you are cleared the EAU CLAIRE SIX routing but are expected to maintain your present altitude awaiting further clearance.
 
-9.8.1.1.2.2. Example of Routing with Assigned Altitude. -Fame 22, cleared EAU CLAIRE SIX arrival; descend and maintain flight level two four zero.‖ In this situation, you are cleared via the EAU CLAIRE SIX routing and cleared to descend to FL240.
+9.8.1.1.2.2. Example of Routing with Assigned Altitude. "Fame 22, cleared EAU CLAIRE SIX arrival; descend and maintain flight level two four zero." In this situation, you are cleared via the EAU CLAIRE SIX routing and cleared to descend to FL240.
 
-9.8.1.1.2.3. -DESCEND VIA‖ Clearances. A -DESCEND VIA‖ clearance authorizes pilots to vertically and laterally navigate, in accordance with the depicted procedure, to meet published restrictions. Vertical navigation is at pilot‘s discretion; however, adherence to published altitude crossing restrictions and speeds is mandatory unless otherwise cleared. MEAs are not considered restrictions; however, pilots are expected to remain above MEAs. Pilots cleared for vertical navigation using the phraseology “Descend Via” shall inform ATC upon initial contact with a new frequency. For example, -Track 32, descending via the EAU CLAIRE SIX ARRIVAL.‖
+9.8.1.1.2.3. "DESCEND VIA" Clearances. A "DESCEND VIA" clearance authorizes pilots to vertically and laterally navigate, in accordance with the depicted procedure, to meet published restrictions. Vertical navigation is at pilot's discretion; however, adherence to published altitude crossing restrictions and speeds is mandatory unless otherwise cleared. MEAs are not considered restrictions; however, pilots are expected to remain above MEAs. Pilots cleared for vertical navigation using the phraseology “Descend Via” shall inform ATC upon initial contact with a new frequency. For example, "Track 32, descending via the EAU CLAIRE SIX ARRIVAL."
 
-9.8.1.1.2.4. Example of -DESCEND VIA‖ Clearance. -Track 66, Descend Via the EAU CLAIRE SIX arrival.‖ If you receive this -DESCEND VIA‖ clearance, you are expected to vertically and laterally navigate in accordance with the EAU CLAIRE SIX arrival.
+9.8.1.1.2.4. Example of "DESCEND VIA" Clearance. "Track 66, Descend Via the EAU CLAIRE SIX arrival." If you receive this "DESCEND VIA" clearance, you are expected to vertically and laterally navigate in accordance with the EAU CLAIRE SIX arrival.
 
 9.8.1.1.3. Anticipate Use of STARs. Normally, pilots of IFR aircraft destined to locations where STARs have been published should expect to be issued a clearance containing the appropriate STAR for the destination airport.
 
-9.8.1.1.4. Chart Requirement. Use of STARs requires pilot possession of at least the approved chart. As with any ATC clearance or portion thereof, it is the responsibility of each pilot to accept or refuse an issued STAR. Pilots should notify ATC if they do not wish to use a STAR by placing -NO STAR‖ in the remarks section of the flight plan or by verbally stating the same to ATC (this is the less desirable method).
+9.8.1.1.4. Chart Requirement. Use of STARs requires pilot possession of at least the approved chart. As with any ATC clearance or portion thereof, it is the responsibility of each pilot to accept or refuse an issued STAR. Pilots should notify ATC if they do not wish to use a STAR by placing "NO STAR" in the remarks section of the flight plan or by verbally stating the same to ATC (this is the less desirable method).
 
-9.8.1.1.5. Pilot Responsibilities. Before filing or accepting a clearance for a STAR, the pilot must ensure that he or she can comply with any altitude and/or airspeed restrictions associated with the procedure. If filed for a STAR in the flight plan, then an initial ATC clearance of -Cleared as filed‖ constitutes clearance for the STAR routing (not altitudes) as well. Clearance for the STAR is not clearance for the approach the procedure may bring you to.
+9.8.1.1.5. Pilot Responsibilities. Before filing or accepting a clearance for a STAR, the pilot must ensure that he or she can comply with any altitude and/or airspeed restrictions associated with the procedure. If filed for a STAR in the flight plan, then an initial ATC clearance of "Cleared as filed" constitutes clearance for the STAR routing (not altitudes) as well. Clearance for the STAR is not clearance for the approach the procedure may bring you to.
 
 9.8.1.1.6. Where STARs Are Published. The DoD FLIP STAR book contains many, but not all of the CONUS STARs. Its contents are determined by military requirements.
 
 ##### Figure 9.5. Standard Terminal Arrival (STAR).
 
-9.8.1.2. RNAV STARs (Figure 9.6). RNAV STARs can be stand-alone or -overlay‖. In order to fly a STAR using RNAV (either stand-alone or -overlay‖), the pilot must comply with the following:
+9.8.1.2. RNAV STARs (Figure 9.6). RNAV STARs can be stand-alone or "overlay". In order to fly a STAR using RNAV (either stand-alone or "overlay"), the pilot must comply with the following:
 
 9.8.1.2.1. Aircraft equipment must meet requirements specified on the STAR.
 
@@ -155,10 +161,10 @@ Chapter 9 ARRIVAL
 
 9.8.1.2.7.1. In some cases, because of the software programming, there can be tracking inaccuracies when flying non-RNAV/FMS STARs using an FMS. These tracking inaccuracies have resulted in less-than-required air traffic control separation and air traffic control intervention to prevent a possible Controlled Flight Into Terrain (CFIT) accident. Non-RNAV/FMS procedures often require navigational tracking over all the specified fixes. Many FMS databases code the points in these procedures as Fly-by waypoints, instead of Fly-over waypoints. Unlike a stand-alone RNAV STAR, which will specify on the printed FLIP which waypoints are Fly-by and which are Fly-over, a conventional STAR will not make this distinction. Consequently, the FMS will lead the turn on these points. This turn anticipation could result in a turn being started miles prior to the expected turn point depending on the amount of required track change, wind, and true airspeed. When verifying waypoints prior to flying a non-RNAV/FMS STAR using an FMS, aircrews must determine how the points are coded (Fly-by vs. Flyover) in their database. If there are large course changes coded as Fly-by waypoints, the aircrew must be prepared to manually intervene to insure the aircraft tracks the procedure as published to remain within protected airspace.
 
-9.8.1.2.8. Manually selecting aircraft bank limiting functions may reduce the aircraft‘s ability to maintain its desired track and are not recommended. Pilots should recognize manually selectable aircraft bank-limiting functions might reduce their ability to satisfy ATC path expectations, especially when executing large angle turns. This should not be construed as a requirement to deviate from Airplane Flight Manual procedures; rather, pilots should limit the selection of such functions within accepted procedures.
+9.8.1.2.8. Manually selecting aircraft bank limiting functions may reduce the aircraft's ability to maintain its desired track and are not recommended. Pilots should recognize manually selectable aircraft bank-limiting functions might reduce their ability to satisfy ATC path expectations, especially when executing large angle turns. This should not be construed as a requirement to deviate from Airplane Flight Manual procedures; rather, pilots should limit the selection of such functions within accepted procedures.
 
 ##### Figure 9.6. RNAV STAR.
 
-9.9. Flight Management System Procedures (FMSP) for Arrivals.
+#### 9.9.{#9_9} Flight Management System Procedures (FMSP) for Arrivals.
 
 9.9.1. FMSPs for arrivals serve the same purpose as STARs but are only used by aircraft equipped with Flight Management Systems (FMS). Procedures for flying FMSPs are identical to any other STAR. FMSPs will list the equipment requirements for flying the procedure (/E, /F, etc.).
