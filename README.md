@@ -1,16 +1,27 @@
 Disclaimer: Original document on at http://static.e-publishing.af.mil/production/1/af_a3_5/publication/afman11-217v1/afman11-217v1.pdf
 
-Disclaimer #2: Typo possible, because I imported these texts mostly using [regex](https://docs.python.org/2/library/re.html).
+Disclaimer #2: Typo possible, because I formatted these texts mostly using [regex](https://docs.python.org/2/library/re.html).
 
 Read the AFMAN11-217v1 [here](https://johangithub.gitbooks.io/afman11-217v1)
 
-See typos or Issues? Create Issues [here](https://github.com/johangithub/AFMAN11-217v1/issues) or send me an email at joe dot han0212  at gmail
+Download the PDF [here](https://www.gitbook.com/download/pdf/book/johangithub/afman11-217v1)
+
+Download the Kindle Version [here](https://www.gitbook.com/download/mobi/book/johangithub/afman11-217v1) 
+Note: I don't own kindle so I'm not sure how this looks.
+
+Download ePub [here](https://www.gitbook.com/download/epub/book/johangithub/afman11-217v1)
+
+See typos or Issues? Create Issues [here](https://github.com/johangithub/AFMAN11-217v1/issues) or send me an email at **joe** dot **han0212**  at **gmail**
 
 TODO: 
 
-[ ] Download and add Figures
+- [ ] Download and add Figures
 
-[ ] Fix equations using LaTex
+- [ ] Fix equations using LaTex
+
+- [ ] Fix Sidebar navigation and pagination
+
+- [ ] Test pdf, ePub and mobi
 
 # Table of Contents
 ### [Chapter 1](./chp1.md) BASIC INSTRUMENT FLYING
