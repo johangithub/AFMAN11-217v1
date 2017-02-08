@@ -14,21 +14,31 @@ Various types of navigation aids are in use today, each serving a special purpos
 
 4.1.5. Suspect Navigation Aid. Discontinue use of any suspect navigation aid and confirm aircraft position with radar (ground or airborne) or other equipment. Advise ATC of any problems receiving NAVAIDs. The problem may be the ground station and not the aircraft equipment.
 
+----
+
 #### 4.2.{#4_2} VHF Omni-Directional Range (VOR).
 
 The theoretical and technical principles of operation of VOR equipment are discussed in depth in AFMAN 11-217V3.
+
+----
 
 #### 4.3.{#4_3} Tactical Air Navigation (TACAN).
 
 The theoretical and technical principles of operation of TACAN equipment differ from those of VOR; however, the end result, as far as reading the cockpit display is concerned, is the same. TACAN components and operation are discussed in depth in AFMAN 11-217V3.
 
+----
+
 #### 4.4.{#4_4} VHF Omni-Directional Range/Tactical Air Navigation (VORTAC).
 
 A VORTAC is a unified navigation aid consisting of two components, VOR and TACAN, which provides three individual services: VOR azimuth, TACAN azimuth, and TACAN distance (DME) from one site. Both components of a VORTAC operate simultaneously and provide the three services at all times. Additional information on VORTACs is available in AFMAN 11-217V3.
 
+----
+
 #### 4.5.{#4_5} Distance Measuring Equipment (DME).
 
 DME operation utilizes paired pulses transmitted from the aircraft to a ground station at a specific spacing. The ground station then transmits paired pulses back to the aircraft at the same pulse spacing but on a different frequency. The time required for the round trip of this signal exchange is measured in the airborne DME unit and is displayed to the pilot as a distance in nautical miles from the aircraft to the ground station. Additional information on DME is available in AFMAN 11-217V3.
+
+----
 
 #### 4.6.{#4_6} Instrument Landing System (ILS).
 
@@ -38,7 +48,7 @@ The theoretical and technical principles of operation of ILS equipment are discu
 
 4.6.2. ILS System on Each End of Runway. Some locations have a complete ILS system installed on opposite ends of a runway. Such ILS systems should not be operating simultaneously. In most cases, each ILS will have its own frequency. Sometimes the frequency for both runways will be the same, however each runway will have its own unique Morse code identifier.
 
-4.6.2.1. WARNING: The pilot shall listen to the Morse code identifier or monitor the alphanumeric display IAW Chapter 7, especially when flying an ILS where the same frequency is used for two runways. If both ILSs are inadvertently left on, or the incorrect ILS is turned on, it is possible to receive back course and false glide slope indications.
++ 4.6.2.1. WARNING: The pilot shall listen to the Morse code identifier or monitor the alphanumeric display IAW Chapter 7, especially when flying an ILS where the same frequency is used for two runways. If both ILSs are inadvertently left on, or the incorrect ILS is turned on, it is possible to receive back course and false glide slope indications.
 
 4.6.3. False Course Indications. False course indications may be received when the aircraft is not within the depicted area of coverage. Therefore, localizer course information received outside the area depicted in Figure 4.2 should be considered invalid unless the procedure is published otherwise (for example, localizer type directional aid or back course localizer). There is also a remote chance electromagnetic interference may cause false course indications within the depicted area of coverage. For these reasons, it is essential to confirm the localizer on course indication by reference to aircraft heading and any other available navigation aids, such as an ADF bearing pointer, before commencing final descent. Any abnormal indications experienced within 35 degrees of the published front course or back course centerline of an ILS localizer should be reported immediately to the appropriate ATC facility.
 
@@ -52,13 +62,19 @@ The theoretical and technical principles of operation of ILS equipment are discu
 ##### Figure 4.2. Normal Localizer Signal Coverage.
 ![fig4_2](figs/fig4_2.png)
 
+----
+
 #### 4.7.{#4_7} Microwave Landing System (MLS).
 
 The MLS provides precision navigation guidance for exact aircraft alignment and descent during an approach to a selected runway. It integrates azimuth (AZ), elevation angle (EL), and range (DME) information to provide precise aircraft positioning. The components of an MLS are similar to an ILS. Instead of a glide slope antenna, the MLS has an elevation station, and instead of a localizer antenna, it has an azimuth station. The MLS also has a precision DME (DME/P) transmitter. The DME/P signal is more accurate than traditional DME. Additional information on MLS is available in AFMAN 11-217V3.
 
+----
+
 #### 4.8.{#4_8} Marker Beacon (Figure 4.1).
 
 Marker beacons are discussed in depth in AFMAN 11-217V3.
+
+----
 
 #### 4.9.{#4_9} Localizer Type Directional Aid (LDA).
 
@@ -66,10 +82,12 @@ The LDA is of comparable utility and accuracy to a localizer but is not always a
 
 4.9.1. Localizer (LLZ). In International Civil Aviation Organization (ICAO) Procedures for Air Navigation Services-Aircraft Operations (PANS-OPS) abbreviates the localizer facility as LLZ. The accuracy of the signal generated by the LLZ is the same as a LOC. PANS-OPS normally requires the LLZ final approach track alignment to remain within 5° of the runway centerline. However, in certain cases, the alignment can exceed 5°. Where required, PANSOPS allows an increase of the final approach track to 15° for categories C, D, and E. For aircraft categories A and B, the maximum angle formed by the final approach track and the runway centerline is 30°.
 
-4.9.1.1. NOTE: Prior to flying a LDA or LLZ, compare the final approach course with the runway heading. The aerodrome sketch should provide a visual indication of the angle formed between the final approach track and the runway centerline.
++ 4.9.1.1. NOTE: Prior to flying a LDA or LLZ, compare the final approach course with the runway heading. The aerodrome sketch should provide a visual indication of the angle formed between the final approach track and the runway centerline.
 
 ##### Figure 4.3. LDA With Glide Slope.
 ![fig4_3](figs/fig4_3.png)
+
+----
 
 #### 4.10.{#4_10} Simplified Directional Facility (SDF).
 
@@ -77,6 +95,8 @@ The SDF provides a final approach course that is similar to that of the ILS loca
 
 ##### Figure 4.4. SDF Approach.
 ![fig4_4](figs/fig4_4.png)
+
+----
 
 #### 4.11.{#4_11} Nondirectional Radio Beacon (NDB).
 
@@ -90,7 +110,9 @@ The SDF provides a final approach course that is similar to that of the ILS loca
 
 4.11.5. Disturbances. Radio beacons are subject to disturbances that may result in erroneous bearing information. Such disturbances result from intermittent or unpredictable signal propagation due to such factors as lightning, precipitation, static, etc. At night, radio beacons are vulnerable to interference from distant stations. Nearly all disturbances that affect the ADF bearing also affect the facility's identification. Noisy identification usually occurs when the ADF needle is erratic. Voice, music, or erroneous identification will usually be heard when a steady false bearing is being displayed.
 
-4.11.5.1. WARNING: Since ADF receivers do not have a "flag" to warn the pilot when erroneous bearing information is being displayed, the pilot must continuously monitor the NDBs identification.
++ 4.11.5.1. WARNING: Since ADF receivers do not have a "flag" to warn the pilot when erroneous bearing information is being displayed, the pilot must continuously monitor the NDBs identification.
+
+----
 
 #### 4.12.{#4_12} Global Positioning System (GPS).
 
@@ -98,6 +120,8 @@ The SDF provides a final approach course that is similar to that of the ILS loca
 
 ##### Figure 4.5. GPS.
 ![fig4_5](figs/fig4_5.png)
+
+----
 
 #### 4.13.{#4_13} Inertial Navigation System (INS).
 

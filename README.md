@@ -7,7 +7,6 @@ Read the AFMAN11-217v1 [here](https://johangithub.gitbooks.io/afman11-217v1)
 Download the PDF [here](https://www.gitbook.com/download/pdf/book/johangithub/afman11-217v1)
 
 Download the Kindle Version [here](https://www.gitbook.com/download/mobi/book/johangithub/afman11-217v1) 
-Note: I don't own kindle so I'm not sure how this looks.
 
 Download ePub [here](https://www.gitbook.com/download/epub/book/johangithub/afman11-217v1)
 
@@ -17,23 +16,25 @@ See typos or Issues? Create Issues [here](https://github.com/johangithub/AFMAN11
 
 TODO: 
 
-- [X] Download and add Figures
-
-- [ ] Fix sparse figures in Chapter 7
-
-- [ ] Symbols
-
 - [ ] Add bold/italics that match the document
 
-- [ ] Fix Sections and Subsection indents, add triple-dash between three-digit sections
-
-- [ ] Fix Sidebar navigation and pagination
+- [ ] Fix Sidebar navigation and pagination. (Gitbook devs are investigating [this](https://github.com/GitbookIO/feedback/issues/187))
 
 - [ ] Test pdf, ePub and mobi
+
+- [ ] Fix search function. It crashes
 
 - [X] Fix equations using LaTex
 
 - [X] Fix Tables
+
+- [X] Download and add Figures
+
+- [X] Fix sparse figures in Chapter 7
+
+- [X] Fix Sections and Subsection indents, add triple-dash between two-digit sections
+
+- [X] Symbols
 
 ----
 
