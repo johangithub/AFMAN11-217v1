@@ -1,4 +1,4 @@
-# Chapter 14 MISSED APPROACH
+# Chapter 14: MISSED APPROACH
 
 #### 14.1.{#14_1} Planning.
 
@@ -66,6 +66,7 @@ If you have been cleared to land (full stop), ATC expects you to land; therefore
 14.4.2.4. Lose Visual Reference. If visual reference is lost while circling to land, the pilot shall follow the missed approach specified for the approach procedure just flown, unless otherwise directed. An initial climbing turn toward the landing runway will ensure that the aircraft remains within the circling obstruction clearance area. Continue to turn until established on the missed approach course (Figure 14.1). An immediate climb must be initiated to ensure climb gradient requirements are met.
 
 ##### Figure 14.1. Missed Approach from the Circling Approach.
+![fig14_1](figs/fig14_1.png)
 
 14.4.3. Climb Gradient. The pilot shall ensure that the aircraft can achieve the published climb gradient. When the gradient is not published, climb at least 200 feet per nautical mile in order to clear obstructions. See AFI 11-202V3, for engine out performance requirements.
 

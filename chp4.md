@@ -1,4 +1,4 @@
-# Chapter 4 NAVIGATION AIDS
+# Chapter 4: NAVIGATION AIDS
 
 #### 4.1.{#4_1} Precautions.
 
@@ -47,16 +47,18 @@ The theoretical and technical principles of operation of ILS equipment are discu
 4.6.5. ILS Facilities with Associated DME. ILS facilities sometimes have associated DME. These facilities are usually found at civilian fields. Some instrument approach procedures require TACAN or VOR associated DME on the initial segment and the ILS associated DME during the final portion of the approach. Pilots must exercise extreme caution to ensure the proper DME channel is tuned to preclude premature or late descents.
 
 ##### Figure 4.1. Standard ILS Characteristics and Terminology.
+![fig4_1](figs/fig4_1.png)
 
 ##### Figure 4.2. Normal Localizer Signal Coverage.
+![fig4_2](figs/fig4_2.png)
 
 #### 4.7.{#4_7} Microwave Landing System (MLS).
 
 The MLS provides precision navigation guidance for exact aircraft alignment and descent during an approach to a selected runway. It integrates azimuth (AZ), elevation angle (EL), and range (DME) information to provide precise aircraft positioning. The components of an MLS are similar to an ILS. Instead of a glide slope antenna, the MLS has an elevation station, and instead of a localizer antenna, it has an azimuth station. The MLS also has a precision DME (DME/P) transmitter. The DME/P signal is more accurate than traditional DME. Additional information on MLS is available in AFMAN 11-217V3.
 
-#### 4.8.{#4_8} Marker Beacon (Figure 4 1).
+#### 4.8.{#4_8} Marker Beacon (Figure 4.1).
 
-Marker beacons are discussed in depth in AFMAN 11217V3.
+Marker beacons are discussed in depth in AFMAN 11-217V3.
 
 #### 4.9.{#4_9} Localizer Type Directional Aid (LDA).
 
@@ -67,12 +69,14 @@ The LDA is of comparable utility and accuracy to a localizer but is not always a
 4.9.1.1. NOTE: Prior to flying a LDA or LLZ, compare the final approach course with the runway heading. The aerodrome sketch should provide a visual indication of the angle formed between the final approach track and the runway centerline.
 
 ##### Figure 4.3. LDA With Glide Slope.
+![fig4_3](figs/fig4_3.png)
 
 #### 4.10.{#4_10} Simplified Directional Facility (SDF).
 
 The SDF provides a final approach course that is similar to that of the ILS localizer and LDA. The SDF transmits signals within the range of 108.10 MHz to 111.95 MHz. However, the SDF may have a wider course width of 6° or 12°. It does not provide glide slope information. For the pilot, the approach techniques and procedures used in the performance of an SDF instrument approach are essentially identical to those used in executing a standard no glide slope localizer approach except that the SDF course may not be aligned with the runway and the course may be wider, resulting in less precision.
 
 ##### Figure 4.4. SDF Approach.
+![fig4_4](figs/fig4_4.png)
 
 #### 4.11.{#4_11} Nondirectional Radio Beacon (NDB).
 
@@ -93,6 +97,7 @@ The SDF provides a final approach course that is similar to that of the ILS loca
 4.12.1. Principles of Operation. GPS is a satellite-based navigation system that has the capability to provide highly accurate three-dimensional position, velocity, and time to an infinite number of equipped users anywhere on or near the Earth (Figure 4.5). GPS is discussed in depth in AFMAN 11-217V3.
 
 ##### Figure 4.5. GPS.
+![fig4_5](figs/fig4_5.png)
 
 #### 4.13.{#4_13} Inertial Navigation System (INS).
 

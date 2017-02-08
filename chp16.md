@@ -1,6 +1,6 @@
-# Chapter 16 CATEGORY II AND III ILS
+# Chapter 16: CATEGORY II AND III ILS
 
-#### 16.1.{#16_1} Category II ILS Approach (Airport, Aircraft, and Aircrew Certification Required) (Figure 16 1).
+#### 16.1.{#16_1} Category II ILS Approach (Airport, Aircraft, and Aircrew Certification Required) (Figure 16.1).
 
 A Category II ILS approach provides the capability of flying to minima as low as a DH of 100 feet and an RVR of 1200. The DH for a Category II approach is identified by a preselected height on the aircraft radar altimeter. This figure is enclosed in parentheses on the IAP and is prefaced by RA (Radar Altimeter), example: (RA 113).
 
@@ -41,6 +41,7 @@ A Category II ILS approach provides the capability of flying to minima as low as
 16.1.7.1. NOTE: These procedures are intended for use by Category II ILS certified aircrews only. Individual MAJCOM directives and aircraft manuals have established minimum equipment requirements and restrictions that must be complied with prior to initiating a Category II ILS approach.
 
 ##### Figure 16.1. Category II ILS.
+![fig16_1](figs/fig16_1.png)
 
 #### 16.2.{#16_2} Category III ILS (Airport, Aircraft, & Aircrew Certification Required) (Figure 16.2).
 
@@ -63,3 +64,4 @@ A Category II ILS approach provides the capability of flying to minima as low as
 16.2.3. Procedures. See individual MAJCOM directives and aircraft manuals for minimum equipment requirements, restrictions, and procedures used when initiating Category III ILS approaches.
 
 ##### Figure 16.2. Category III ILS.
+![fig16_2](figs/fig16_2.png)

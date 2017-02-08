@@ -10,7 +10,8 @@ Aircraft performance is achieved by controlling the aircraft attitude and power.
 
 1.1.3. Navigation Instruments indicate the position of the aircraft in relation to a selected navigation facility or fix. This group of instruments includes various types of course indicators, range indicators, glide slope indicators, and bearing pointers.
 
-Figure 1.1. Attitude Instrument Flying.
+##### Figure 1.1. Attitude Instrument Flying.
+![fig1_1](figs/fig1_1.png)
 
 #### 1.2.{#1_2} Control and Performance Concept.
 
@@ -32,7 +33,8 @@ The pilot establishes an attitude and power setting that will result in the desi
 
 1.2.3.2. Any change in attitude, power or airspeed will usually result in the need for a trim adjustment. Experienced pilots develop a feel for minor out-of-trim conditions and correct them smoothly. In asymmetric power situations (e.g. engine failure) trim can be useful for reducing cockpit workload and enhancing pilot efficiency.
 
-Figure 1.2. Instrument Cross-Check Technique.
+##### Figure 1.2. Instrument Cross-Check Technique.
+![fig1_2](figs/fig1_2.png)
 
 1.2.4. Cross-Check Technique (Figure 1.2).
 
@@ -42,9 +44,11 @@ Figure 1.2. Instrument Cross-Check Technique.
 
 1.2.4.3. Fixating on a single instrument is a common and dangerous error made by inexperienced pilots. If one flight parameter, (e.g. altitude) is frequently wandering, the pilot will devote too much time to the altimeter and lose track of other critical parameters (e.g. attitude). The pilot must remember that the attitude of the aircraft, not the altimeter, is what is causing the aircraft to be off altitude. Returning to the basic crosscheck flow will solve the problem and prevent the aircraft from entering a dangerous attitude.
 
-Figure 1.3. Typical Instrument Cockpit Layout.
+##### Figure 1.3. Typical Instrument Cockpit Layout.
+![fig1_3](figs/fig1_3.png)
 
-#### 1.3.{#1_3} Display of Flight Instrumentation (Figure 1 3).
+
+#### 1.3.{#1_3} Display of Flight Instrumentation (Figure 1.3).
 
 Display options vary widely from aircraft to aircraft and incorporate different symbologies and terminology for similar functions. Electronic displays allow the pilot to optimize cockpit instrumentation for a particular mission by decluttering, removing, or relocating presentations. However, with very few exceptions, Air Force instrument cockpits must adhere to the following specific rules of instrumentation, equipage and setup:
 

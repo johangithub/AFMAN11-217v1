@@ -1,4 +1,4 @@
-# Chapter 6 PLANNING AN INSTRUMENT FLIGHT
+# Chapter 6: PLANNING AN INSTRUMENT FLIGHT
 
 #### 6.1.{#6_1} Preflight Planning.
 
@@ -27,7 +27,9 @@ Aircrew can obtain departure, enroute and arrival weather information from a num
 6.3.1.1.2. Added to ALL altitudes in the procedure in Designated Mountainous Regions whenever the outside air temperature is 0° Celsius or less
 
 6.3.1.1.3. Added to ALL altitudes in the procedure whenever the outside air temperature is -30° Celsius or less, or procedure turn, intermediate approach altitude Heights Above Touchdown (HAT)/Heights Above Aerodrome (HAA) are 3000 feet or more above the altimeter setting source.
- Table 6.1. Temperature Correction Chart.
+
+##### Table 6.1. Temperature Correction Chart.
+![table6_1](figs/table6_1.png)
 
 6.3.1.1.4. Example: For an approach when OAT is -20° C, and the HAA is 760' AGL on the IAP, the pilot should add 110' to the MDA for the approach. Thus, if the MDA was 940' MSL, the pilot would only descend to 1050' (940+110=1050). NOTE: Do not change the value in the RADAR ALTIMETER-you are still descending to the HAA on the IAP, you are only correcting for temperature error in the barometric altimeter (Table 6.1).
 
@@ -52,12 +54,11 @@ Preflight planning of the enroute portion should be adequate to enseure safe and
 6.4.7.1. When flying at higher latitudes, review the enroute charts carefully to ensure you are cognizant of the heading source required by the instrument procedures in the airspace you are transiting, and the orientation reference of the NAVAID. This is annotated on the enroute chart as shown in Figure 6.1.
 
 ##### Figure 6.1. Enroute Charts for Navigation in Higher Latitudes.
+![fig6_1](figs/fig6_1.png)
 
 6.4.7.2. Normally, navigation north of 70°North latitude or south of 60°South latitude is conducted with reference to true north or grid north. Specific procedures vary greatly depending on aircraft type, avionics capabilities, and crew complement. Unless otherwise annotated, where there is a reference to true north, the text also applies in southern latitudes and applies to navigation with reference to grid north/south.
 
-6.4.7.2.1. There are areas officially designated Areas of Magnetic Unreliability (AMU). Aircraft capable of displaying only magnetic heading are prohibited from operating in designated AMUs. For areas north of 70°North and south of 60° South that are not officially designated as AMUs, MAJCOMs will determine the highest allowable latitude for aircraftcapable of displaying only magnetic heading (Figure
-
-6.2).
+6.4.7.2.1. There are areas officially designated Areas of Magnetic Unreliability (AMU). Aircraft capable of displaying only magnetic heading are prohibited from operating in designated AMUs. For areas north of 70°North and south of 60° South that are not officially designated as AMUs, MAJCOMs will determine the highest allowable latitude for aircraftcapable of displaying only magnetic heading (Figure 6.2).
 
 6.4.7.2.1.1. NOTE: Although partly south of 70° North, the entire Canadian Northern and Arctic Control Areas and areas of Northern Domestic Airspace are designated as AMUs.
 
@@ -68,6 +69,7 @@ Preflight planning of the enroute portion should be adequate to enseure safe and
 6.4.7.4. Outside of designated AMUs, aircraft unable to display true or grid heading may use navigation aids oriented to true north for enroute navigation provided procedures listed below are followed.
 
 ##### Figure 6.2. Canadian Northern Control Area Boundaries (Areas South of 70°N Where True Tracks
+![fig6_2](figs/fig6_2.png)
 
 6.4.7.4.1. Enroute navigation using approved RNAV equipment backed up by display of VOR/TAC/NDB data is recommended. Depending on system architecture, aircraft navigation computers (flight management systems) automatically provide magnetic variation information. Accuracy of this magnetic variation depends on the period of time since the last magnetic variation update. Some systems contain magnetic variation information that cannot be updated. Also, some navigation systems provide magnetic variation information for only a limited portion of the globe. Thus, when true or grid heading information cannot be displayed, aircraft magnetic variation information must be verified with current aeronautical charts prior to use of RNAV equipment to fly true or grid courses. For navigation using FMS or other RNAV system, procedures and system limitations vary widely among aircraft and avionics installations. Consult your aircraft flight manual and MAJCOM directives for specific FMS and RNAV procedures for navigation where reference to true or grid north is required.
 
@@ -152,20 +154,24 @@ Preparation for flying an instrument approach begins with a study of the approac
 6.5.1.3.1.1. NOTE: This requirement for alternate missed approach instructions does not preclude practice approaches if the field is VFR according to AFI 11202V3.
 
 ##### Figure 6.3. Equipment Requirements for IAP.
+![fig6_3](figs/fig6_3.png)
 
 6.5.1.3.2. Straight-in approaches. The types of navigation aids that provide final approach guidance and the runway to which the final approach courses are aligned identify straight-in approaches. A slash (/) indicates that more than one type of equipment may be required to execute the final approach (VOR/DME, ILS/DME, etc.). Be aware that additional equipment may be required to execute the other portions of the procedure (Figure 6.4).
 
 ##### Figure 6.4. IAP With "/" in Title.
+![fig6_4](figs/fig6_4.png)
 
 6.5.1.3.2.1. Where more than one approach using the same final approach guidance is developed to the same runway, each runway/navigational aid combination will be identified with an alphabetical suffix beginning at the end of the alphabet; e.g. ILS Z RWY 28L (first procedure), ILS Y RWY 28L (second procedure), ILS X RWY 28L (third procedure), etc. Suffixes will be used in reverse alphabetical order, beginning with "Z" (Figure 6.5).
 
 ##### Figure 6.5. More Than One Approach With Same Final Approach Guidance.
+![fig6_5](figs/fig6_5.png)
 
 6.5.1.3.3. VOR approaches. Some VOR approaches are approved for use by TACAN equipped aircraft. These will be designated by the term "(TAC)" printed adjacent to the name of the procedure, for example, VOR-A (TAC).
 
 6.5.1.3.4. Circling approaches. When the name of the approach is followed by a letter such as A, B, C, etc., the approach is designed for circling minimums only. Circling approaches are designated VOR-A, TACAN-B, NDB-C, etc. Circling approach designators will begin at the beginning of the alphabet (Figure 6.6).
 
 ##### Figure 6.6. Circling Approach.
+![fig6_6](figs/fig6_6.png)
 
 6.5.1.4. Radar Minimums. Radar minimums by aircraft category may be found in a separate section in the IAP book. 6.5.2. True Approach Procedures.
 
@@ -210,8 +216,10 @@ Preparation for flying an instrument approach begins with a study of the approac
 6.5.2.1.6.6. PAR, ASR, and Radar Vectors. When being radar vectored in the vicinity of an airport using true north as a heading reference, all vectors will be issued in true headings. If your aircraft does not allow selection of true north as a heading reference, corrections for magnetic variation are required.
 
 ##### Figure 6.7. True VOR Approach.
+![fig6_7](figs/fig6_7.png)
 
 ##### Figure 6.9. True ILS Approach.
+![fig6_9](figs/fig6_9.png)
 
 6.5.3. Grid Approach Procedures. (Figures 6.10 and 6.11) In some cases a NAVAID may be oriented on grid north, or a grid final approach course may be published alongside a magnetic or true final approach course. Use the following general procedures to fly a grid approach. Consult your aircraft flight manual and MAJCOM directives for specific equipment, procedures, and crew complement to fly grid.
 
@@ -224,12 +232,15 @@ Preparation for flying an instrument approach begins with a study of the approac
 6.5.3.1.3. If the NAVAID and runway direction number are oriented on grid north, then grid is the primary means of navigation along final approach. Use aircraft flight manual procedures and MAJCOM directives to fly a grid approach. If a magnetic or true final approach course is published alongside the grid course it should only be used as a situational awareness tool, not the primary means of navigation.
 
 ##### Figure 6.10. Magnetic Heading Reference With Grid Course.
+![fig6_10](figs/fig6_10.png)
 
 ##### Figure 6.11. Grid Approach.
+![fig6_11](figs/fig6_11.png)
 
 6.5.4. Reviewing an IAP (Figure 6.12). Prior to departure, you should become familiar with all aspects of the IAP so that during the recovery you can concentrate on flying the maneuver rather than trying to fly and interpret it simultaneously. Here are some important areas to consider and techniques to use:
 
 ##### Figure 6.12. Review of the IAP.
+![fig6_12](figs/fig6_12.png)
 
 6.5.4.1. Plan View.
 
@@ -271,8 +282,7 @@ Preparation for flying an instrument approach begins with a study of the approac
 
 6.5.4.4.4. Lighting systems. Check the types of approach lighting systems available.
 
-6.5.4.4.5. Navigation facility location. runways from the navigation facility.
- Note the direction and distance of the
+6.5.4.4.5. Navigation facility location. Note the direction and distance of the runways from the navigation facility.
 
 6.5.4.4.6. Obstructions. Check the location of prominent obstructions.
 
@@ -353,6 +363,7 @@ Preparation for flying an instrument approach begins with a study of the approac
 6.5.6.3.4. Minimums: RNAV instrument approach procedure charts incorporate all types of approaches using Area Navigation systems, both ground and satellite based. The approach charts may contain as many as four lines of approach minimums: Lateral Navigation (LNAV); LNAV/Vertical Navigation (VNAV) (LNAV/VNAV); GNSS Landing System (GLS), also known as LPV; and Circling. The minima are dependent on the navigational equipment capability as outlined in the Terms/Landing Minima Data section at the front of the approach plate book. Typically, the approach chart will indicate the equipment required for the approach, i.e. GPS or RNP-.03 Required (Figure 6.14).
 
 ##### Figure 6.14. RNAV (GPS) Approach Minimums.
+![fig6_14](figs/fig6_14.png)
 
 6.5.6.3.4.1. LNAV. These minimums are for LNAV (lateral) –only guidance. Because vertical guidance is not provided, the procedure minimum altitude will be published as a MDA. With an approved VNAV system, VNAV guidance may be used if provided by the RNAV system as long as the aircraft is level prior to MDA.
 
@@ -363,24 +374,23 @@ Preparation for flying an instrument approach begins with a study of the approac
 6.5.6.3.4.2.2. LPV minimums. LPV minimums may support precision approach minimums as low as 200' HAT and 1/2 statute mile (SM) visibility. Pilots will be informed that the notation "LPV PA" or "GLS" on the first line of minimums in U.S. Government Terminal Procedure Publication charts satisfies all the requirements of the precision system. Pilots will be informed that the precision system requirements are not met by the notation "LPV" without the letters "PA" on the first line of minimums. In this latter case, since the landing environment does not support the low visibility operations, minimums no lower than 300' HAT and 3/4 SM visibility will be published. LPV minimums are published as a Decision Altitude (DA).
 
 ##### Figure 6.15. RNAV (GPS) Chart Symbology.
+![fig6_15](figs/fig6_15.png)
 
 6.5.7. Chart Symbology (Figure 6.15).
 
 6.5.7.1. Descent Angle. The RNAV (GPS) IAP format provides descent angle to the hundredth of a degree (e.g., 3.00°), with a range from 2.75° to 3.5°. The angle is provided in the graphically depicted descent profile. The optimum RNAV (GPS) descent angle is 3.00°.
 
 6.5.7.1.1. For RNP and WAAS approaches just now being fielded, the minimum descent angle is still 2.75°. However, the maximum angle is based on aircraft category as shown in the table below.
- Table 6.2. Maximum Descent Angle for RNP and WAAS Approaches. Aircraft Category CAT A (less than 80 kts) CAT A (81-90 kts) CAT B CAT C CAT D and E
- Maximum Descent Angle
 
-6.4 Degrees
+##### Table 6.2. Maximum Descent Angle for RNP and WAAS Approaches. 
 
-5.7 Degrees
-
-4.2 Degrees
-
-3.6 Degrees
-
-3.1 Degrees
+|Aircraft Category |Maximum Descent Angle|
+|:---:|:---:|
+|CAT A (less than 80 kts) | 6.4 Degrees |
+|CAT A (81-90 kts) | 5.7 Degrees |
+|CAT B | 4.2 Degrees |
+|CAT C | 3.6 Degrees |
+|CAT D and E | 3.1 Degrees |
 
 6.5.7.2. Threshold Crossing Height (TCH). The concept of TCH is the same as in conventional IAPs. On RNAV (GPS) IAPs, TCH refers to the point where the descent angle crosses above the threshold. Unless required by larger type aircraft, the typical TCH will be 30-50 feet.
 
@@ -401,24 +411,28 @@ Preparation for flying an instrument approach begins with a study of the approac
 6.5.7.9. Terminal Arrival Areas (TAA) (Figure 6.16). The standard TAA consists of three areas defined by the extension of the IAF legs and the intermediate segment course. These areas are called the straight-in, left-base, and right-base areas. TAA area lateral boundaries are identified by magnetic courses TO the IF (IAF). The straight-in area can be further divided into pie-shaped sectors with the boundaries identified by magnetic courses TO the IF (IAF), and may contain stepdown sections defined by arcs based on RNAV distances (DME or along track distance (ATD)) from the IF (IAF). The right/leftbase areas can only be subdivided using arcs based on RNAV distances from the IAFs for those areas. Minimum MSL altitudes are charted within each of these defined areas/subdivisions that provide at least 1,000 feet of obstacle clearance, or more as necessary in mountainous areas.
 
 ##### Figure 6.16. Terminal Arrival Area (TAA).
+![fig6_16](figs/fig6_16.png)
 
 6.5.8. Reviewing GPS instrument approaches. AFI 11-202V3 lists specific equipment requirements for GPS stand-alone and overlay instrument approaches.
 
 6.5.8.1. RNAV (GPS) Approaches (Figure 6.17). RNAV (GPS) stand-alone approaches are constructed specifically for use by RNAV and/or GPS equipped aircraft and are not based on ground based NAVAIDS. RNAV (GPS) stand-alone approaches are identified by the absence of other NAVAIDS in the approach title, for example GPS RWY 35 or RNAV (GPS) RWY 35. RNAV (GPS) approaches are authorized in IMC for appropriately equipped and certified USAF aircraft.
 
 ##### Figure 6.17. Stand Alone GPS Approach.
+![fig6_17](figs/fig6_17.png)
 
 6.5.8.2. Approaches where ‖or GPS" is included in the title of the procedure are retrievable from the database (e.g., "VOR or GPS RWY 35")(Figure 6.18). USAF aircraft may fly these approaches in VMC or IMC if the approach was constructed by a US TERPS authority (USAF/FAA/USN). For approaches without "or GPS" in the title, see RNAV substitution discussion below.
 
 6.5.8.2.1. NOTE: When retrieving an "or GPS" approach from the navigation database, it will be titled in the database by the title of the conventional NAVAID. For example: VOR or GPS Rwy 5 will be titled in the aircraft database as "VOR Rwy 5". The title on the published IAP chart determines the type of approach, not how it is named in the aircraft database.
 
 ##### Figure 6.18. "or GPS" Approach.
+![fig6_18](figs/fig6_18.png)
 
 6.5.8.2.2. Procedures Without a Final Approach Fix. Procedures without a FAF and without a stepdown fix have a Sensor FAF waypoint coded in the database at least 4 NM Actual Track Distance (ATD) to the MAP waypoint. The MAP, in this case, is always located at the NAVAID facility. A Sensor FAF is a final approach waypoint created and added to the database sequence of waypoints to support GPS navigation of an FAA or DoD published, no-FAF, nonprecision instrument approach procedure. The coded name or Sensor FAF appears in the waypoint sequence. If a stepdown fix exists on the published procedure and it is greater than 2 NM to the MAP, the stepdown fix is coded in the database as the Sensor FAF waypoint for the waypoint sequence. If a stepdown fix distance is 2 NM or less to the MAP, a Sensor FAF waypoint is coded at least 4 NM to the MAP.
 
 6.5.8.3. RNP SAAAR Approaches (Figure 6.19). USAF pilots shall not fly these procedures until completing MAJCOM-defined training and certification. SAAAR procedures are to be conducted by aircrews meeting special training requirements in aircraft that meet the specified performance and functional requirements. RNP SAAAR approaches are clearly marked with (RNP) in the instrument procedure name and SPECIAL AIRCRAFT AND AIRCREW AUTHORIZATION REQUIRED in the comment block.
 
 ##### Figure 6.19. RNP SAAAR.
+![fig6_19](figs/fig6_19.png)
 
 6.5.8.4. RNAV Substitution. IAW AFI 11-202V3, for procedures developed by a US TERPS authority (FAA/USAF/USN), MAJCOM-approved suitable RNAV systems may be used as a substitute means of navigation for a named fix, VOR, TACAN, NDB, DME or compass locator. In such terminal areas, following a successful predictive RAIM check, approved RNAV systems may be substituted for required NAVAIDS or named fixes on arrivals, departures, and non-localizer based instrument procedures. Any such substitution must be extracted from a current database. These operations are allowable even when a facility is explicitly identified as required on a procedure (e.g., "Note ADF required"), but not if the procedure is NOTAM'ed as NA. Pilots using approved RNAV systems as a substitute means of navigation guidance in lieu of an out of service NAVAID should advise ATC of this intent and capability. Pilots will tune, identify, monitor and display the appropriate ground-based NAVAIDs whenever practicable.
 

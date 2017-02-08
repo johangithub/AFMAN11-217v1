@@ -1,4 +1,4 @@
-# Chapter 5 NAVIGATION TECHNIQUES AND PROCEDURES
+# Chapter 5: NAVIGATION TECHNIQUES AND PROCEDURES
 
 #### 5.1.{#5_1} Application.
 
@@ -42,11 +42,12 @@ Instrument procedures are flown using a combination of techniques (arc to radial
 
 5.1.6. Check. The pilot will check the appropriate instrument indicators for proper operation.
 
-#### 5.2.{#5_2} Homing to a Station (Figure 5 1).
+#### 5.2.{#5_2} Homing to a Station (Figure 5.1).
 
 Homing occurs when the pilot places the head of the bearing pointer under the upper lubber line (or Top Index) and makes periodic heading changes to keep it there. Failure to apply wind drift corrections results in a curved flight path to the station.
 
 ##### Figure 5.1. Curved Flight Path as a Result of Homing with a Crosswind.
+![fig5_1](figs/fig5_1.png)
 
 #### 5.3.{#5_3} Proceeding Direct to a Station.
 
@@ -101,6 +102,7 @@ Turn the aircraft in the shorter direction to place the head of the bearing poin
 5.4.2.4. Maintain intercept. Maintain the intercept heading until a lead point is reached, then complete the intercept. The lead point depends on bearing pointer or CDI rate of movement and the time required to turn on course.
 
 ##### Figure 5.2. Inbound Course Interceptions (HSI, CI and RMI).
+![fig5_2](figs/fig5_2.png)
 
 5.4.3. Inbound (RMI Only) (Figure 5.3).
 
@@ -113,6 +115,7 @@ Turn the aircraft in the shorter direction to place the head of the bearing poin
 5.4.3.4. Maintain intercept. Maintain the intercept heading until a lead point is reached, then complete the intercept. Lead point depends on bearing pointer rate of movement and the time required to turn on course.
 
 ##### Figure 5.3. Inbound Course Interceptions (RMI Only).
+![fig5_3](figs/fig5_3.png)
 
 5.4.4. Outbound - Immediately After Station Passage (HSI, CI and RMI) (Figure 5.4).
 
@@ -127,6 +130,7 @@ Turn the aircraft in the shorter direction to place the head of the bearing poin
 5.4.4.5. Maintain. Maintain the intercept heading until a lead point is reached, then complete the intercept. The lead point depends on bearing pointer or CDI rate of movement and the time required to turn on course.
 
 ##### Figure 5.4. Outbound Course Interceptions-Immediately After Station Passage (HSI, CI and RMI).
+![fig5_4](figs/fig5_4.png)
 
 5.4.5. Outbound - Immediately After Station Passage (RMI Only) (Figure 5.5).
 
@@ -143,6 +147,7 @@ Turn the aircraft in the shorter direction to place the head of the bearing poin
 5.4.5.4. Maintain. Maintain the intercept heading until a lead point is reached, then complete the intercept. The lead point depends on the bearing pointer rate of movement and the time required to turn on course.
 
 ##### Figure 5.5. Outbound Course Interceptions-Immediately After Station Passage (RMI Only).
+![fig5_5](figs/fig5_5.png)
 
 5.4.6. Outbound-Away from the Station (HSI, CI and RMI) (Figure 5.6).
 
@@ -159,6 +164,7 @@ Turn the aircraft in the shorter direction to place the head of the bearing poin
 5.4.6.4. Maintain. Maintain the intercept heading until a lead point is reached, then complete the intercept. The lead point depends on the bearing pointer or CDI rate of movement and the time required to turn on course.
 
 ##### Figure 5.6. Outbound Course Interceptions-Away From the Station (HSI, CI and RMI).
+![fig5_6](figs/fig5_6.png)
 
 5.4.7. Outbound-Away From the Station (RMI Only) (Figure 5.7).
 
@@ -173,10 +179,12 @@ Turn the aircraft in the shorter direction to place the head of the bearing poin
 5.4.7.4. Maintain. Maintain the intercept heading until a lead point is reached, then complete the intercept. The lead point depends on the bearing pointer or CDI rate of movement and the time required to turn on course.
 
 ##### Figure 5.7. Outbound Course Interceptions-Away From the Station (RMI Only).
+![fig5_7](figs/fig5_7.png)
 
 5.4.8. Maintaining Course (Figure 5.8). To maintain course, fly a heading estimated to keep the aircraft on the selected course. If the CDI or bearing pointer indicates a deviation from the desired course, return to course avoiding excessive intercept angles. After returning to course, again estimate the drift correction required to keep the CDI centered or the bearing pointer pointing to the desired course. (The CDI and bearing pointer may show a rapid movement from the on-course indication when close to the station. In this situation, avoid making large heading changes because actual course deviation is probably small due to proximity to the station).
 
 ##### Figure 5.8. Maintaining Course.
+![fig5_8](figs/fig5_8.png)
 
 #### 5.5.{#5_5} Station Passage.
 
@@ -199,6 +207,7 @@ Groundspeed checks are done to aid in calculating ETAs to fixes, which are usefu
 5.6.2.1. NOTE: For precise computation, time for longer periods and solve the problems on a computer. To simplify computations, use a 2-minute time check and multiply the distance traveled by 30, a 3-minute time check, distance times 20; or a 6-minute time check, distance times 10. A rapid groundspeed check can be accomplished by timing the range indicator for 36 seconds and multiplying the distance traveled by 100.
 
 ##### Figure 5.9. Arc Interception From a Radial.
+![fig5_9](figs/fig5_9.png)
 
 #### 5.7.{#5_7} Arc/Radial Intercepts.
 
@@ -213,10 +222,12 @@ TACAN and VOR/DME arcs are used during many phases of flight. Arcs are normally 
 5.10).
 
 ##### Figure 5.10. Correcting to Maintain an Arc.
+![fig5_10](figs/fig5_10.png)
 
 5.7.2. Radial Interception From an Arc (Figure 5.11). Tune and identify the NAVAID used for the intercept and determine the direction of turn. Using aircraft calculations found in AFMAN 11-217V3, determine the lead point necessary to intercept the arc. When the lead point is reached, roll to the bank angle used in the lead point calculation and turn to roll out on the radial.
 
 ##### Figure 5.11. Radial Interception From an Arc.
+![fig5_11](figs/fig5_11.png)
 
 #### 5.8.{#5_8} Proceeding Direct to a VOR/DME or TACAN Fix.
 
@@ -245,6 +256,7 @@ Proceeding directly to a radial/DME fix without RNAV equipment is not a normal f
 5.8.3.4. Update the fix-to-fix periodically remembering that the relative size of the compass card will change as the airplane moves in relation to the NAVAID. If the initial heading does not keep the aircraft moving toward the fix, there is probably a wind effect. When making adjustments to the fix-to-fix heading, take this wind effect into account in the new heading.
 
 ##### Figure 5.12. Proceeding Direct to a DME Fix.
+![fig5_12](figs/fig5_12.png)
 
 #### 5.9.{#5_9} Area Navigation.
 
@@ -394,7 +406,7 @@ The ICAO has adopted "Global Navigation Satellite System (GNSS)" as an umbrella 
 
 5.10.7.1.4. Non-standard speeds or climb gradients. RNP SAAAR approaches are developed based on standard approach speeds and a 200 ft/NM climb gradient in the missed approach. Any exceptions to these standards will be indicated on the approach procedure, and the pilot shall ensure the aircraft can comply with any published restrictions before conducting the operation.
 
-5.10.7.1.5. Temperature Limits. For aircraft using barometric vertical navigation (without temperature compensation) to conduct the approach, low and hightemperature limits are identified on the procedure. Cold temperatures reduce the glidepath angle while high temperatures increase the glidepath angle. Aircraft using baro VNAV with temperature compensation or aircraft using an alternate means for vertical guidance (e.g., SBAS) may disregard the temperature restrictions. The charted temperature limits are evaluated for the final approach segment only. Regardless of charted temperature limits or temperature compensation by the FMS, the pilot may need to manually compensate for cold temperature on minimum altitudes and the decision altitude.
+5.10.7.1.5. Temperature Limits. For aircraft using barometric vertical navigation (without temperature compensation) to conduct the approach, low and high temperature limits are identified on the procedure. Cold temperatures reduce the glidepath angle while high temperatures increase the glidepath angle. Aircraft using baro VNAV with temperature compensation or aircraft using an alternate means for vertical guidance (e.g., SBAS) may disregard the temperature restrictions. The charted temperature limits are evaluated for the final approach segment only. Regardless of charted temperature limits or temperature compensation by the FMS, the pilot may need to manually compensate for cold temperature on minimum altitudes and the decision altitude.
 
 5.10.7.1.6. Aircraft size. The achieved minimums may be dependent on aircraft size. Large aircraft may require higher minimums due to gear height and/or wingspan. Approach procedure charts will be annotated with applicable aircraft size restrictions.
 
@@ -407,20 +419,25 @@ The ICAO has adopted "Global Navigation Satellite System (GNSS)" as an umbrella 
 5.13). Parallel approach procedures can be used either simultaneously or as standalone operations. They may be part of either independent or dependent operations depending on the ATC ability to provide radar monitoring.
 
 ##### Figure 5.13. RNP Parallel Approach (RPA).
+![fig5_13](figs/fig5_13.png)
 
 5.10.7.1.3. RNP Parallel Approach Runway Transitions (RPAT) Operations. RPAT approaches begin as a parallel IFR approach operation using simultaneous independent or dependent procedures. (Figure 5.14). Visual separation standards are used in the final segment of the approach after the final approach fix, to permit the RPAT aircraft to transition in visual conditions along a predefined lateral and vertical path to align with the runway centerline.
 
 ##### Figure 5.14. RNP Parallel Approach Runway Transitions (RPAT).
+![fig5_14](figs/fig5_14.png)
+![Image](./figs/fig5_13.png)
+
 
 5.10.7.2.4. RNP Converging Runway Operations. At airports where runways converge, but may or may not intersect, an RNP SAAAR approach can provide a precise curved missed approach path that conforms to aircraft separation minimums for simultaneous operations (Fig 5.15). By flying this curved missed approach path with high accuracy and containment provided by RNP, dual runway operations may continue to be used to lower ceiling and visibility values than currently available. This type of operation allows greater capacity at airports where it can be applied.
 
 ##### Figure 5.15. RNP Converging Runway Operations.
+![fig5_15](figs/fig5_15.png)
 
 #### 5.11.{#5_11} Database Issues for RNAV and GPS Navigation.
 
 GPS and other RNAV procedures rely on data extracted from the aircraft navigation database. The potential for serious navigation errors is created by inherent properties of database creation and its use by aircrew and aircraft systems. In order to mitigate these potential errors crews must be familiar with database issues and required procedures.
 
-5.11.1. Aircraft use navigation databases provided by either National Geospatial-Intelligence Agency (NGA) (i.e. DAFIF) or a commercial vendor (i.e. Jeppesen). These databases contain a worldwide list of airports, navigation aids, waypoints, and instrument procedures. Outside the US NAS, this data is provided by host nations, and is not necessarily qualitychecked by database providers during database creation. Navigation data may be filtered and tailored to meet individual aircraft requirements. Jeppesen tailors their data to meet customer specifications, while DAFIF data is filtered and formatted by outside contractors. Updated navigation data is published on a 28-day cycle.
+5.11.1. Aircraft use navigation databases provided by either National Geospatial-Intelligence Agency (NGA) (i.e. DAFIF) or a commercial vendor (i.e. Jeppesen). These databases contain a worldwide list of airports, navigation aids, waypoints, and instrument procedures. Outside the US NAS, this data is provided by host nations, and is not necessarily quality checked by database providers during database creation. Navigation data may be filtered and tailored to meet individual aircraft requirements. Jeppesen tailors their data to meet customer specifications, while DAFIF data is filtered and formatted by outside contractors. Updated navigation data is published on a 28-day cycle.
 
 5.11.1.1. Database Requirements. In order to use GPS for the terminal area, all procedures (DP, Standard Terminal Arrival (STAR), IAP) must be retrieved in their entirety from a current, approved navigation database. Only those approaches included in the receiver database are authorized, and must display as full approaches (not advisory approaches which would not allow pilot to "arm" the approach).
 
@@ -446,7 +463,7 @@ GPS and other RNAV procedures rely on data extracted from the aircraft navigatio
 
 5.11.4.1.1. If within aircraft capabilities, conventional airways should be retrieved from the aircraft database using the airway identifier.
 
-5.11.4.1.2. If airways cannot be retrieved from the database using the airway identifier, conventional airways may be constructed by manual entry of associated waypoints/NAVAIDS. These waypoints/NAVAIDS should be retrieved from the database by waypoint name if possible. Entry of all airway waypoints is not required. At a minimum, all compulsory waypoints, all NAVAIDS, and any waypoint associated with a change in course must be entered. On crewed aircraft, if airways are entered manually, waypoint sequence must be verified by another crewmember.
+5.11.4.1.2. If airways cannot be retrieved from the database using the airway identifier, conventional airways may be constructed by manual entry of associated waypoints/NAVAIDS. These waypoints/NAVAIDS should be retrieved from the database by waypoint name if possible. Entry of all airway waypoints is not required. At a minimum, all compulsory waypoints, all NAVAIDS, and any waypoint associated with a change in course must be entered. On crewed aircraft, if airways are entered manually, waypoint sequence must be verified by another crew member.
 
 5.11.4.2. RNAV Airways. RNAV airways should be retrieved in their entirety from the database using the airway identifier. If entered manually, aircrew must ensure that all waypoints are entered and flyby/flyover attributes are correctly entered.
 

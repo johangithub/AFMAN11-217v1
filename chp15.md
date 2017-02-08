@@ -1,4 +1,4 @@
-# Chapter 15 INTERNATIONAL CIVIL AVIATION ORGANIZATION (ICAO) PROCEDURES
+# Chapter 15: INTERNATIONAL CIVIL AVIATION ORGANIZATION (ICAO) PROCEDURES
 
 #### 15.1.{#15_1} Introduction.
 
@@ -62,7 +62,7 @@ Here are a few ICAO definitions that differ from those commonly used in the Unit
 
 15.2.4. Bank Angle. Procedures are based on average achieved bank angle of 25 degrees, or the bank angle giving a rate of turn of 3 degrees per second, whichever is less.
 
-15.2.5. Established on Course. Established on course is defined as being within half fullscale deflection for an ILS or VOR/DME and within ± 5° of the required bearing for an NDB. Do not consider yourself “established on course” until you are within these limits. ICAO obstacle clearance surfaces assume that the pilot does not normally deviate from the centerline more than one-half scale deflection after being established on track. Despite the fact that there is a range of "acceptable" variation, make every attempt to fly the aircraft on the course centerline and on the glide path. Allowing a more than half-scale deflection (or a more than half-scale fly-up deflection on glideslope) combined with other system tolerances could place the aircraft near the edge or at the bottom of the protected airspace where loss of protection from obstacles can occur.
+15.2.5. Established on Course. Established on course is defined as being within half fullscale deflection for an ILS or VOR/DME and within ± 5° of the required bearing for an NDB. Do not consider yourself "established on course" until you are within these limits. ICAO obstacle clearance surfaces assume that the pilot does not normally deviate from the centerline more than one-half scale deflection after being established on track. Despite the fact that there is a range of "acceptable" variation, make every attempt to fly the aircraft on the course centerline and on the glide path. Allowing a more than half-scale deflection (or a more than half-scale fly-up deflection on glideslope) combined with other system tolerances could place the aircraft near the edge or at the bottom of the protected airspace where loss of protection from obstacles can occur.
 
 #### 15.3.{#15_3} Departure Procedures.
 
@@ -92,17 +92,17 @@ Here are a few ICAO definitions that differ from those commonly used in the Unit
 
 15.3.5.2.1. Turning departures are designed with maximum speed limits. These maximum speeds may be published by category or by a note. For example, these procedures may be annotated, "Departure limited to CAT C Aircraft" or "Departure turn limited to 220 KIAS maximum." You must comply with the speed limit published on the departure to remain within protected airspace. If you require a higher speed, ATC may approve the higher speed or assign an alternative departure procedure.
 
-15.3.5.2.2. If the departure is limited to specific aircraft categories, the applicable speeds are found in Table 15.1. Table 15.1. Maximum Airspeed on Departure. Aircraft Category A B C D E Max Airspeed (KIAS)
+15.3.5.2.2. If the departure is limited to specific aircraft categories, the applicable speeds are found in Table 15.1. 
 
-120
+##### Table 15.1. Maximum Airspeed on Departure. 
 
-165
-
-265
-
-290
-
-300
+|Aircraft Category | Max Airspeed (KIAS)
+|:---:|:---:|
+|A|120|
+|B|165|
+|C|265|
+|D|290|
+|E|300|
 
 #### 15.4.{#15_4} Low Altitude Approach Procedures.
 
@@ -116,7 +116,7 @@ Here are a few ICAO definitions that differ from those commonly used in the Unit
 
 15.4.2.1.1. Entry is restricted to a specific direction or sector. To remain within the airspace provided requires strict adherence to the directions and timing specified.
 
-15.4.2.1.1.1. NOTE: The protected airspace for "reversal procedures" does not permit a racetrack or holding maneuver to be conducted unless so specified. You may not enter an ICAO procedure turn using the “Holding Technique” described in Chapter 11. Instead, refer to the entry procedures below.
+15.4.2.1.1.1. NOTE: The protected airspace for "reversal procedures" does not permit a racetrack or holding maneuver to be conducted unless so specified. You may not enter an ICAO procedure turn using the "Holding Technique" described in Chapter 11. Instead, refer to the entry procedures below.
 
 15.4.2.1.2. The 45°/180° Procedure Turn. This procedure starts at a facility or fix and consists of:
 
@@ -146,13 +146,16 @@ Here are a few ICAO definitions that differ from those commonly used in the Unit
 
 15.4.2.1.4. The Base Turn. This procedure consists of intercepting and maintaining a specified outbound track, timing from the facility or proceeding to a specified fix, followed by a turn to intercept the inbound track.
 
-15.4.2.1.4.1. NOTE: The base turn procedure is not optional. You may not fly one of the “procedure turns” described above instead of the depicted base turn. More than one track may be depicted depending on aircraft category.
+15.4.2.1.4.1. NOTE: The base turn procedure is not optional. You may not fly one of the "procedure turns" described above instead of the depicted base turn. More than one track may be depicted depending on aircraft category.
 
 ##### Figure 15.1. 45°/180° Course Reversal.
+![fig15_1](figs/fig15_1.png)
 
 ##### Figure 15.2. 80°/260° Course Reversal.
+![fig15_2](figs/fig15_2.png)
 
 ##### Figure 15.3. Base Turns.
+![fig15_3](figs/fig15_3.png)
 
 15.4.2.2. Reversal Procedure Entry (Figure 15.4). Of all the differences between FAA and ICAO procedures, the entry into the three course reversal maneuvers has historically been the area of greatest confusion for USAF pilots. A short discussion is in order:
 
@@ -181,10 +184,13 @@ Here are a few ICAO definitions that differ from those commonly used in the Unit
 15.4.2.2.3.3. Off-airway Arrivals. What if there is no suitable Holding Pattern? The danger arises when attempting to perform the course reversal when arriving into the IAF from a direction not anticipated by the approach designer, such as when you request to proceed direct to the fix from a point off the arrival airway. Sometimes there is no holding pattern published for your alignment, or there is a holding pattern that does not turn you into the entry sector. In this case, you will need to maneuver into the entry sector somehow. You must understand how small the protected airspace is, especially when compared to an FAA procedure turn. You may be operating completely outside of protected airspace while proceeding to the IAF, and terrain and obstacle clearance may be totally up to you. Use good judgment, consider the published minimum safe/sector altitudes, and do not rely solely on ATC to keep you safe.
 
 ##### Figure 15.4. Comparison of FAA and ICAO Protected Airspace for a Procedure Turn.
+![fig15_4](figs/fig15_4.png)
 
 ##### Figure 15.5. Procedure Turn Entry (45°/180° or 80°/260°).
+![fig15_5](figs/fig15_5.png)
 
 ##### Figure 15.6. Base Turn Entry.
+![fig15_6](figs/fig15_6.png)
 
 15.4.2.2.4. Timing. Begin timing to comply with published times or "remain within" distances when outbound abeam the facility or fix. If the abeam position cannot be determined while in a turn, start timing after completing the turn.
 
@@ -210,21 +216,20 @@ Here are a few ICAO definitions that differ from those commonly used in the Unit
 
 15.4.2.2.8. Airspeed Restrictions. Before reaching the IAF, reduce to maneuvering airspeed. Use holding speed if maneuvering speed is not specified for your aircraft.
 
-Table 15.2. Maximum Approach Speeds. CATEGORY A B C D E MAXIMUM SPEED
+##### Table 15.2. Maximum Approach Speeds.
 
-110
-
-140
-
-240
-
-250
-
-250
+| CATEGORY | MAXIMUM SPEED |
+|:---:|:---:|
+|A|110|
+|B|140|
+|C|240|
+|D|250|
+|E|250| 
 
 15.4.2.2.8.1. Additional speed restrictions may be charted on individual IAPs and must be complied with. However, the maximum speeds by category, as shown above, will not be exceeded without approval of the appropriate ATC agency.
 
 ##### Figure 15.7. Racetrack Procedure.
+![fig15_7](figs/fig15_7.png)
 
 15.4.2.3. The Racetrack (Figure 15.7). The ICAO "Racetrack Procedure" is similar in concept to an FAA "Holding In Lieu of Procedure Turn." This maneuver consists of a holding pattern with outbound leg lengths of 1 to 3 minutes, specified in 30-second increments. As an alternative to timing, a DME distance or an intersecting radial or bearing may limit the outbound leg.
 
@@ -244,23 +249,23 @@ Table 15.2. Maximum Approach Speeds. CATEGORY A B C D E MAXIMUM SPEED
 
 15.4.2.3.3. Alternate Procedures: There may be alternate procedures specified to any of the procedures described above. IAPs will contain the appropriate depiction and the words "alternative procedure." Pilots should be prepared to execute either procedure. Prior to accepting clearance for an approach that depicts an alternative procedure, determine which procedure the controlling agency expects.
 
-15.4.2.3.4. Circling Procedures. ICAO circling protected airspace is typically larger than US TERPS and the ROC is higher. One important distinction to make is between the terms "runway environment" and ―airport environment.” While circling using an ICAO-designed procedure, you must maintain visual contact with the runway environment (as defined in paragraph 12.1.2.2) throughout the entire circling maneuver. In the United States, you are only required to maintain visual contact with the airport environment while circling to land, but cannot descend out of the circling MDA until the runway environment is in sight. Use Table 15.3 to determine maximum airspeeds for circling. Table 15.3. Maximum Airspeeds for Circling Approaches. APPROACH CATEGORY A B C D E MAXIMUM SPEED
+15.4.2.3.4. Circling Procedures. ICAO circling protected airspace is typically larger than US TERPS and the ROC is higher. One important distinction to make is between the terms "runway environment" and "airport environment." While circling using an ICAO-designed procedure, you must maintain visual contact with the runway environment (as defined in paragraph 12.1.2.2) throughout the entire circling maneuver. In the United States, you are only required to maintain visual contact with the airport environment while circling to land, but cannot descend out of the circling MDA until the runway environment is in sight. Use Table 15.3 to determine maximum airspeeds for circling. 
 
-100
-
-135
-
-180
-
-205
-
-240
+##### Table 15.3. Maximum Airspeeds for Circling Approaches. 
+|APPROACH CATEGORY | MAXIMUM SPEED|
+|:---:|:---:|
+|A|100|
+|B|135|
+|C|180|
+|D|205|
+|E|240| 
 
 15.4.3. Localizer (LLZ) (Figure 15.8). PANS-OPS abbreviates the localizer facility as LLZ. The accuracy of the signal generated by the LZZ is the same as a LOC. PANS-OPS normally requires the LLZ final approach track alignment to remain within 5° of the runway centerline. However, in certain cases, the alignment can exceed 5°. Where required, PANSOPS allows an increase of the final approach track to 15° for categories C, D, and E. For aircraft categories A and B, the maximum angle formed by the final approach track and the runway centerline is 30°.
 
 15.4.3.1. NOTE: Prior to flying a LDA or LLZ, compare the final approach course with the runway heading. The aerodrome sketch should provide a visual indication of the angle formed between the final approach track and the runway centerline.
 
 ##### Figure 15.8. LLZ Approach.
+![fig15_8](figs/fig15_8.png)
 
 15.4.4. Constant Descent Final Approach (CDFA). Member States of the European Union are beginning to publish non-precision approaches as CDFAs. These procedures differ from traditional nonprecision approaches in that instead of being flown as "dive and drive" (descend from the FAF at 1200-1500 fpm to the MDA and then drive to the MAP), they are intended to be flown as a continuous descent, without level off, to the Decision Altitude (Height), annotated as DA(H). The CDFA technique simplifies the final segment of the nonprecision approach by incorporating techniques similar to those used when flying a precision approach procedure. CDFA instrument procedures include tabular information in the minima section with ground speed in knots and descent angle. Flying the resulting VVI will result in arriving at the DA(H) at the VDP.
 
@@ -287,29 +292,19 @@ Table 15.2. Maximum Approach Speeds. CATEGORY A B C D E MAXIMUM SPEED
 15.5.4.3. Sector 3 (Direct). Turn and follow the holding pattern.
 
 ##### Figure 15.9. ICAO Holding Pattern Entry Sectors.
+![fig15_9](figs/fig15_9.png)
 
-15.5.5. Airspeeds. There is little standardization of maximum holding airspeeds in PANSOPS. There are three completely different tables of holding airspeeds that an approach designer could have used, depending on which edition of PANS-OPS was used when the holding pattern was constructed. Many countries publish their own holding pattern airspeeds. This information is supposed to be published in FLIP, but it may be quite difficult or impossible for to you to actually find it. Some holding pattern airspeeds are published on IAPs. You must understand, though, that the concept is the same as in the United States: maximum holding airspeeds are defined by PANS-OPS (or the host country) and have no relation to the holding speed specified in the aircraft flight manual. Table 15.4 reproduces the airspeeds from PANS-OPS and is the most common table used. Table 15.4. ICAO Holding Airspeeds. ALTITUDE AIRSPEED Normal Conditions AIRSPEED Turbulence* Up to 14,000 Feet Inclusive (CAT A and B) Up to 14,000 Feet Inclusive (CAT C thru E) Above 14,000-20,000
+15.5.5. Airspeeds. There is little standardization of maximum holding airspeeds in PANSOPS. There are three completely different tables of holding airspeeds that an approach designer could have used, depending on which edition of PANS-OPS was used when the holding pattern was constructed. Many countries publish their own holding pattern airspeeds. This information is supposed to be published in FLIP, but it may be quite difficult or impossible for to you to actually find it. Some holding pattern airspeeds are published on IAPs. You must understand, though, that the concept is the same as in the United States: maximum holding airspeeds are defined by PANS-OPS (or the host country) and have no relation to the holding speed specified in the aircraft flight manual. Table 15.4 reproduces the airspeeds from PANS-OPS and is the most common table used. 
 
-170
-
-170
-
-230
-
-280
-
-240 Above 20,000-34,000
-
-265 Above 34,000
-
-.83 Mach
-
-280 or .8 Mach, whichever is less
-
-280 or .8 Mach, whichever is less
-
-.83 Mach
-
+##### Table 15.4. ICAO Holding Airspeeds. 
+|ALTITUDE | AIRSPEED | AIRSPEED|
+|---|---|---|
+||Normal Conditions|Turbulence*|
+|Up to 14,000 Feet Inclusive (CAT A and B)	|170|170|
+|Up to 14,000 Feet Inclusive (CAT C thru E)	|230|280|
+|Above 14,000-20,000						|240|280 or .8 Mach, whichever is less|
+|Above 20,000-34,000						|265|280 or .8 Mach, whichever is less|
+|Above 34,000								|.83 Mach|.83 Mach|
 *The speeds published for turbulence conditions shall be used for holding only after prior clearance with ATC, unless the relevant publications indicate that the holding area can accommodate aircraft flying at these high holding speeds.
 
 15.5.6. Holding Pattern Lengths. On the second and subsequent arrivals over the fix, turn and fly an outbound track that will most appropriately position the aircraft for the turn onto the inbound track. Continue outbound until the appropriate limiting distance or time. ICAO outbound legs are the limiting factor for both timed and fixed distance holding patterns. The standard times are: 1 minute outbound at or below 14,000 feet MSL, or 1 1/2 minutes outbound above 14,000 feet MSL.
@@ -350,104 +345,52 @@ There are three different methods of reporting the altimeter measurements and fo
 
 15.6.6. Transition Between Flight Levels and Altitudes. The vertical position of an aircraft at or below transition altitude shall be expressed in altitude (QNH or QFE as appropriate). Vertical position at or above the transition level shall be expressed in terms of flight levels (QNE). When passing through the transition layer, vertical position shall be expressed in terms of flight levels (QNE) when climbing and in terms of altitudes (QNH or QFE as appropriate) when descending. After an approach clearance has been issued and the descent to land is commenced, the vertical positioning of an aircraft above the transition level may be by reference to altitude (QNH or QFE as appropriate) provided that level flight above the transition altitude is not indicated or anticipated. This is intended for turbo jet aircraft where an uninterrupted descent from high altitude is desired and for airfields equipped to reference altitudes throughout the descent.
 
-15.6.7. Altimeter Errors. The allowable altimeter errors at a ground checkpoint in ICAO are different than in the US and vary by airport elevation and atmospheric pressure. Use Tables
+15.6.7. Altimeter Errors. The allowable altimeter errors at a ground checkpoint in ICAO are different than in the US and vary by airport elevation and atmospheric pressure. Use Tables 15.5, 15.6, and 15.7 to determine allowable altimeter errors. If your aircraft flight manual is more restrictive than the values shown in these tables, comply with the guidance in your aircraft flight manual. 
 
-15.5, 15.6, and 15.7 to determine allowable altimeter errors. If your aircraft flight manual is more restrictive than the values shown in these tables, comply with the guidance in your aircraft flight manual. Table 15.5. Allowable Altimeter Errors at Ground Checkpoint for Airports Up to 3500 Feet Elevation With Atmospheric Pressure at or Above Standard. Airport Elevation
+##### Table 15.5. Allowable Altimeter Errors at Ground Checkpoint for Airports Up to 3500 Feet Elevation With Atmospheric Pressure at or Above Standard. 
 
-3500 Feet or Below
+|Airport Elevation|Atmospheric Pressure|Altimeter Range|Allowable Difference|
+|---|---|---|---|
+|3500 Feet or Below|At or Above Standard | 0-30,000 Feet |±60 Feet| 
+|3500 Feet or Below|At or Above Standard | 0-50,000 Feet |±80 Feet| 
 
-3500 Feet or Below Atmospheric Pressure At or Above Standard At or Above Standard Altimeter Range
+###### Table 15.6. Allowable Altimeter Errors at Ground Checkpoint for Airports Above 3500 Feet Elevation or Atmospheric Pressure Lower Than Standard (Altimeter Range 0-30,000 Feet). 
 
-0-30,000 Feet
+|Airport Elevation | Allowable Difference|
+|:---:|:---:|
+| 2000 Feet |±60 Feet|
+| 3000 Feet |±70 Feet|
+| 4000 Feet |±75 Feet|
+| 5000 Feet |±80 Feet|
+| 6000 Feet |±85 Feet|
+| 7000 Feet |±95 Feet|
+| 8000 Feet |±105 Feet|
+| 9000 Feet |±115 Feet|
+| 10000 Feet |±125 Feet|
+| 11000 Feet |±135 Feet|
+| 12000 Feet |±145 Feet|
+| 13000 Feet |±155 Feet|
+| 14000 Feet |±165 Feet|
+| 15000 Feet |±175 Feet|
 
-0-50,000 Feet Allowable Difference
-±60 Feet
-±80 Feet Table 15.6. Allowable Altimeter Errors at Ground Checkpoint for Airports Above 3500 Feet Elevation or Atmospheric Pressure Lower Than Standard (Altimeter Range 0-30,000 Feet). Airport Elevation
+##### Table 15.7. Allowable Altimeter Errors at Ground Checkpoint for Airports Above 3500 Feet Elevation or Atmospheric Pressure Lower Than Standard (Altimeter Range 0-50,000 Feet). 
 
-2000 Feet
-
-3000 Feet
-
-4000 Feet
-
-5000 Feet
-
-6000 Feet
-
-7000 Feet
-
-8000 Feet
-
-9000 Feet
-
-10000 Feet
-
-11000 Feet
-
-12000 Feet
-
-13000 Feet
-
-14000 Feet
-
-15000 Feet Allowable Difference
-±60 Feet
-±70 Feet
-±75 Feet
-±80 Feet
-±85 Feet
-±95 Feet
-±105 Feet
-±115 Feet
-±125 Feet
-±135 Feet
-±145 Feet
-±155 Feet
-±165 Feet
-±175 Feet Table 15.7. Allowable Altimeter Errors at Ground Checkpoint for Airports Above 3500 Feet Elevation or Atmospheric Pressure Lower Than Standard (Altimeter Range 0-50,000 Feet). Airport Elevation
-
-2000 Feet
-
-3000 Feet
-
-4000 Feet
-
-5000 Feet
-
-6000 Feet
-
-7000 Feet
-
-8000 Feet
-
-9000 Feet
-
-10000 Feet
-
-11000 Feet
-
-12000 Feet Allowable Difference
-±100 Feet
-±105 Feet
-±115 Feet
-±125 Feet
-±135 Feet
-±145 Feet
-±155 Feet
-±165 Feet
-±175 Feet
-±185 Feet
-±195 Feet
-
-13000 Feet
-
-14000 Feet
-
-15000 Feet
-
-±205 Feet
-±215 Feet
-±225 Feet
+|Airport Elevation | Allowable Difference|
+|:---:|:---:|
+| 2000 Feet |±100 Feet|
+| 3000 Feet |±105 Feet|
+| 4000 Feet |±115 Feet|
+| 5000 Feet |±125 Feet|
+| 6000 Feet |±135 Feet|
+| 7000 Feet |±145 Feet|
+| 8000 Feet |±155 Feet|
+| 9000 Feet |±165 Feet|
+| 10000 Feet |±175 Feet|
+| 11000 Feet |±185 Feet|
+| 12000 Feet |±195 Feet|
+| 13000 Feet |±205 Feet|
+| 14000 Feet |±215 Feet|
+| 15000 Feet |±225 Feet|
 
 15.6.8. Altimeter Use in Flight. Prior to take-off at least one altimeter will be set to the latest QNH/QFE altimeter setting. Set the altimeter to QNE (29.92) climbing through transition altitude. Prior to commencing the initial approach to an airfield, the number of the transition level should be obtained from the appropriate air traffic services unit. Obtain the latest QNH/QFE before descending below the transition level.
 

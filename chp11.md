@@ -1,4 +1,4 @@
-# Chapter 11 LOW ALTITUDE APPROACHES
+# Chapter 11: LOW ALTITUDE APPROACHES
 
 #### 11.1.{#11_1} Introduction.
 
@@ -9,6 +9,7 @@ Low altitude approaches are used to transition aircraft from the low altitude en
 11.1.2. CAUTION: Aircrews should use caution when flying a "high altitude" IAP in the low altitude environment, especially if there are multiple approaches based on the same NAVAID at the airport. If you are receiving radar vectors in the low altitude structure, ATC expects you to fly the low altitude version of the approach. Often the high and low altitude approaches are the same, but sometimes they are not. Ask for and receive a clearance for the exact approach you intend to fly. Query the controller if you receive an unclear or incomplete approach clearance.
 
 ##### Figure 11.1. Low Altitude Approach.
+![fig11_1](figs/fig11_1.png)
 
 #### 11.2.{#11_2} Overview.
 
@@ -19,6 +20,7 @@ There are two broad categories of low altitude approaches: course reversals and 
 11.2.2. Final Approach Segment. Some approaches depict only a final approach segment, starting at the FAF (Figure 11.2). In these cases, radar is required to ensure you are properly aligned with the final approach course at the appropriate altitude. When ATC clears you for the approach, maintain the last assigned altitude until established on a segment of the published IAP.
 
 ##### Figure 11.2. Approach Depicting Only the Final Approach Segment.
+![fig11_2](figs/fig11_2.png)
 
 11.2.3. Aircraft Speed. Prior to reaching the initial approach fix, the pilot must slow to aircraft maneuvering speed. Use holding airspeed if maneuvering airspeed is not specified for your aircraft. Establish approach configuration and airspeed before the final approach fix unless your aircraft flight manual procedures require otherwise.
 
@@ -46,16 +48,20 @@ There are two common types of course reversals: the procedure turn (PT) (Figure 
 11.3.1.6.1. NOTE: Historically, these restrictions have created a lot of confusion between pilots and controllers. If you are ever in doubt about what ATC expects you to do, query the controller.
 
 ##### Figure 11.3. Procedure Turn Course Reversal.
+![fig11_3](figs/fig11_3.png)
 
 ##### Figure 11.4. HILO Approach.
+![fig11_4](figs/fig11_4.png)
 
 ##### Figure 11.5. NoPT Routing.
+![fig11_5](figs/fig11_5.png)
 
 #### 11.4.{#11_4} Procedure Turns.
 
 One of the most common types of low altitude course reversals is the procedure turn. Procedure turns are depicted in the plan view of U.S. government charts with a barb symbol () indicating the direction or side of the outbound course on which the procedure turn or maneuvering is to be accomplished (Figure 11.3). The procedure turn fix is identified on the profile view of the approach at the point where the IAP begins. To give you an idea of what the procedure turn airspace looks like, refer to Figure 11.6. The actual radii of a PT area are dependent on the altitude and airspeed of the specific procedure.
 
 ##### Figure 11.6. Procedure Turn Area.
+![fig11_6](figs/fig11_6.png)
 
 11.4.1. Aircraft Speed. Procedure turns may be safely flown at speeds up to 250 KIAS provided the pilot takes into consideration all factors which may affect the aircraft's turn performance (e.g., winds, TAS at altitude, bank angle, etc.).
 
@@ -65,11 +71,12 @@ One of the most common types of low altitude course reversals is the procedure t
 
 There are three common methods for executing a procedure turn course reversal: the holding technique, the 45/180, and the 80/260. Regardless of the method you choose to fly the procedure turn, take the following two notes into consideration when planning your approach:
 
-11.5.1. Plan the outbound leg to allow enough time for configuration and any descent required prior to the FAF. Adjust the outbound leg length to ensure your aircraft will stay inside the “remain within distance” noted on the profile view of the approach plate. The remain within distance is measured from the procedure turn fix unless the IAP specifies otherwise. At the completion of the outbound leg, turn to intercept the procedure turn course inbound.
+11.5.1. Plan the outbound leg to allow enough time for configuration and any descent required prior to the FAF. Adjust the outbound leg length to ensure your aircraft will stay inside the "remain within distance" noted on the profile view of the approach plate. The remain within distance is measured from the procedure turn fix unless the IAP specifies otherwise. At the completion of the outbound leg, turn to intercept the procedure turn course inbound.
 
 11.5.2. When the NAVAID is on the field and no FAF is depicted (Figure 11.7), plan the outbound leg so the descent to MDA can be completed with sufficient time to acquire the runway and position the aircraft for a normal landing. Consideration should be given to configuring on the outbound leg to minimize pilot tasking on final. When flying this type of approach, the FAF is considered to be the point when you begin your descent from the procedure turn completion altitude. Since this point is considered the FAF, you should establish approach configuration and airspeed prior to departing procedure turn completion altitude unless your aircraft flight manual procedures require otherwise.
 
 ##### Figure 11.7. Procedure Turn Approach with No FAF Depicted.
+![fig11_7](figs/fig11_7.png)
 
 #### 11.6.{#11_6} Holding Method.
 
@@ -87,6 +94,7 @@ Enter the procedure turn according to the holding procedures described in Chapte
 11.6.5. Descent. Do not descend from the procedure turn fix altitude (published or assigned) until abeam the procedure turn fix heading outbound. If unable to determine when you are abeam, start descent after completing the outbound turn. Do not descend from the procedure turn completion altitude until established on the inbound segment of the approach. Some procedures may contain a note in the chart profile that says "Maintain (altitude) or above until established outbound for procedure turn". Newer procedures will simply depict an "at or above" altitude at the PT fix without a note. Both are there to ensure required obstacle clearance is provided in the procedure turn entry zone (Figure 11.8). Absence of a chart note or a specified minimum altitude adjacent to the PT fix is an indication that descent to the procedure turn altitude can commence immediately upon crossing over the PT fix, regardless of the direction of flight. 
 
 ##### Figure 11.8. PT Fix Altitude.
+![fig11_8](figs/fig11_8.png)
 
 #### 11.7.{#11_7} The 45°/180° and the 80°/260° Course Reversals.
 
@@ -123,10 +131,13 @@ The HILO PT is another common way to execute a low altitude course reversal. The
 11.9.1. Depiction. There is no specific depiction for a procedural track. (Figures 11.9, 11.10 and 11.11) It may employ arcs, radials, courses, turns, etc. When a specific flight path is required, procedural track symbology is used to depict the flight path between the IAF and FAF. The depiction used is a heavy black line showing intended aircraft ground track. 
 
 ##### Figure 11.9. Procedure Track Approach (Straight-in).
+![fig11_9](figs/fig11_9.png)
 
 ##### Figure 11.10. Procedure Track Approach (Arcing Final).
+![fig11_10](figs/fig11_10.png)
 
 ##### Figure 11.11. Procedure Track Approach (Arc to Radial).
+![fig11_11](figs/fig11_11.png)
 
 11.9.2. Entry. When over the IAF, turn immediately in the shorter direction to intercept the published track. If your heading is within 90° of the procedure track course, you may use normal lead points to intercept the course. If your heading is not within 90° of the course, overfly the fix and turn in the shorter direction to intercept the procedure track course.
 
@@ -143,6 +154,7 @@ The HILO PT is another common way to execute a low altitude course reversal. The
 11.9.4.2. Teardrop. (Figure 11.12) Where a teardrop is depicted, do not descend from the turn altitude until you are established on the inbound segment of the procedural track.
 
 ##### Figure 11.12. Procedure Track Approach (Teardrop).
+![fig11_12](figs/fig11_12.png)
 
 #### 11.10.{#11_10} RNAV (GPS) Entry Procedures Via the Terminal Arrival Area (TAA).
 
@@ -155,6 +167,7 @@ Entry for RNAV (GPS) approaches is normally accomplished via the TAA. Entry may 
  threshold (see Figure 11.13). The three IAFs are normally aligned in a straight line perpendicular to the intermediate course, which is an extension of the final course leading to the runway, forming a "T." The initial segment is normally from 3-6 NM in length; the intermediate 5-7 NM, and the final segment 5 NM. Specific segment length may be varied to accommodate specific aircraft categories for which the procedure is designed. However, the published segment lengths will reflect the highest category of aircraft normally expected to use the procedure. 
 
  ##### Figure 11.13. Terminal Arrival Area (TAA).
+![fig11_13](figs/fig11_13.png)
 
 11.10.3. Holding-in-Lieu Entry. A standard racetrack holding pattern may be provided at the center IAF, and if present may be necessary for course reversal and for altitude adjustment for entry into the procedure. In the latter case, the pattern provides an extended distance for the descent required by the procedure. Depiction of this pattern in U.S. Government publications will utilize the "hold-in-lieu-of-PT" holding pattern symbol.
 
@@ -164,54 +177,64 @@ Entry for RNAV (GPS) approaches is normally accomplished via the TAA. Entry may 
 11.10.4.1. Modified "T" designs. The "T" design may be modified by the procedure designers where required by terrain or air traffic control considerations (Figure 11.14). For instance, the "T" design may appear more like a regularly or irregularly shaped "Y", or may even have one or both outboard IAFs eliminated resulting in an upside down "L" or an "I" configuration. Further, the leg lengths associated with the outboard IAFs may differ. 
 
 ##### Figure 11.14. Modified T Design.
+![fig11_14](figs/fig11_14.png)
 
 11.10.4.1.1. Parallel Runway "T". Another modification of the "T" design may be found at airports with parallel runway configurations (Figure 11.15). Each parallel runway may be served by its own "T" IAF, IF (IAF), and FAF combination, resulting in parallel final approach courses. Common IAFs may serve both runways; however, only the intermediate and final approach segments for the landing runway will be shown on the approach chart.
 
 ##### Figure 11.15. Parallel T Design.
+![fig11_15](figs/fig11_15.png)
 
 11.10.5. TAA areas. The standard TAA consists of three areas defined by the extension of the IAF legs and the intermediate segment course (Figure 11.16). These areas are called the straight-in, left-base, and right-base areas. TAA area lateral boundaries are identified by magnetic courses TO the IF (IAF). The straight-in area can be further divided into pie-shaped sectors with the boundaries identified by magnetic courses TO the IF (IAF), and may contain stepdown sections defined by arcs based on RNAV distances (DME or ATD) from the IF (IAF). The right/left-base areas can only be subdivided using arcs based on RNAV distances from the IAFs for those areas. Minimum MSL altitudes are charted within each of these defined areas/subdivisions that provide at least 1,000 feet of obstacle clearance, or more as necessary in mountainous areas.
 
 ##### Figure 11.16. Standard TAA Area.
+![fig11_16](figs/fig11_16.png)
 
-11.10.6. Selecting the Entry IF. Prior to arriving at the TAA boundary, the pilot should determine which area of the TAA the aircraft will enter by selecting the IF (IAF) and determine the magnetic bearing TO the IF (IAF). That bearing should then be compared with the published bearings that define the lateral boundaries of the TAA areas. This is critical when approaching the TAA near the extended boundary between the left and rightbase areas, especially where these areas contain different minimum altitude requirements.
+11.10.6. Selecting the Entry IF. Prior to arriving at the TAA boundary, the pilot should determine which area of the TAA the aircraft will enter by selecting the IF (IAF) and determine the magnetic bearing TO the IF (IAF). That bearing should then be compared with the published bearings that define the lateral boundaries of the TAA areas. This is critical when approaching the TAA near the extended boundary between the left and right-base areas, especially where these areas contain different minimum altitude requirements.
 
 11.10.7. Proceeding Direct to IAF. Pilots entering the TAA and cleared by air traffic control are expected to proceed directly to the IAF associated with that area of the TAA at the altitude depicted, unless otherwise cleared by air traffic control. If in doubt, query ATC. Pilots entering the TAA with two-way radio communications failure must maintain the highest altitude assigned, expected, or filed until arriving at the appropriate IAF.
 
 11.10.8. Depiction of TAA Icons. Depiction of the TAA on U.S. Government charts will be through the use of icons located in the plan view outside the depiction of the actual approach procedure (Figure 11.17). Use of icons is necessary to avoid obscuring any portion of the "T" procedure (altitudes, courses, minimum altitudes, etc.). The icon for each TAA area will be located and oriented on the plan view with respect to the direction of arrival to the approach procedure, and will show all TAA minimum altitudes and sector/radius subdivisions for that area. The IAF for each area of the TAA is included on the icon where it appears on the approach, to help the pilot orient the icon to the approach procedure. The IAF name and the distance of the TAA area boundary from the IAF are included on the outside arc of the TAA area icon. Examples here are shown with the TAA around the approach to aid pilots in visualizing how the TAA corresponds to the approach and should not be confused with the actual approach chart depiction.
 
 ##### Figure 11.17. RNAV GPS Approach With TAA.
+![fig11_17](figs/fig11_17.png)
 
 11.10.9. Waypoint names. Each waypoint on the "T", except the missed approach waypoint, is assigned a pronounceable 5-character name used in air traffic control communications, and which is found in the RNAV databases for the procedure. The missed approach waypoint is assigned a pronounceable name when it is not located at the runway threshold.
 
 11.10.10. Descents. Once cleared to fly the TAA, pilots are expected to obey minimum altitudes depicted within the TAA icons, unless instructed otherwise by air traffic control. In Figure 11.18, pilots within the left or right-base areas are expected to maintain a minimum altitude of 6,000 feet until within 17 NM of the associated IAF. After crossing the 17 NM arc, descent is authorized to the lower charted altitudes. Pilots approaching from the northwest are expected to maintain a minimum altitude of 6,000 feet, and when within 22 NM of the IF (IAF), descend to a minimum altitude of 2,000 feet MSL until reaching the IF (IAF).
 
 ##### Figure 11.18. Descents in TAA.
+![fig11_18](figs/fig11_18.png)
 
 11.10.11. Entry procedures for Modified TAAs. Just as the underlying "T" approach procedure may be modified in shape, the TAA may contain modifications to the defined area shapes and sizes. Some areas may even be eliminated, with other areas expanded as needed. Figure 11.19 is an example of a design limitation where a course reversal is necessary when approaching the IF (IAF) from certain directions due to the amount of turn required at the IF (IAF). Design criteria require a course reversal whenever this turn exceeds 120 degrees. In this generalized example, pilots approaching on a bearing TO the IF (IAF) from 300° clockwise through 060° are expected to execute a course reversal. The term "NoPT" will be annotated on the boundary of the TAA icon for the other portion of the TAA.
 
 ##### Figure 11.19. Entry Procedures for Modified TAAs.
+![fig11_19](figs/fig11_19.png)
 
-11.10.12. Entry Procedures for one-base TAAs. Figure 11.20 depicts another TAA modification that pilots may encounter. In this generalized example, the right-base area has been eliminated. Pilots operating within the TAA between 360° clockwise to 060° bearing TO the IF (IAF) are expected to execute the course reversal in order to properly align the aircraft for entry onto the intermediate segment. Aircraft operating in all other areas from
-060° clockwise to 360° degrees bearing TO the IF (IAF) need not perform the course reversal, and the term "NoPT" will be annotated on the TAA boundary of the icon in these areas.
+11.10.12. Entry Procedures for one-base TAAs. Figure 11.20 depicts another TAA modification that pilots may encounter. In this generalized example, the right-base area has been eliminated. Pilots operating within the TAA between 360° clockwise to 060° bearing TO the IF (IAF) are expected to execute the course reversal in order to properly align the aircraft for entry onto the intermediate segment. Aircraft operating in all other areas from 060° clockwise to 360° degrees bearing TO the IF (IAF) need not perform the course reversal, and the term "NoPT" will be annotated on the TAA boundary of the icon in these areas.
 
 ##### Figure 11.20. Entry Procedures for One-Base TAAs.
+![fig11_20](figs/fig11_20.png)
 
 11.10.13. Feeder Routes. When an airway does not cross the lateral TAA boundaries, a feeder route will be established to provide a transition from the en route structure to the appropriate IAF (Figure 11.21). Each feeder route will terminate at the TAA boundary, and will be aligned along a path pointing to the associated IAF. Pilots should descend to the TAA altitude after crossing the TAA boundary and cleared by air traffic control.
 
 ##### Figure 11.21. TAA with Feeders from an Airway.
+![fig11_21](figs/fig11_21.png)
 
-#### 11.11.{#11_11} Helicopter Only Approaches (Figure 11 22).
+#### 11.11.{#11_11} Helicopter Only Approaches (Figure 11.22).
 
 Helicopter only approaches are identified by the term "COPTER", the type of facility producing final approach course guidance, and a numerical identification of the final approach course; for example, COPTER VOR 336. The criteria for copter only approaches are based on the unique maneuvering capability of the helicopter at airspeeds not exceeding 90 knots (EXCEPT 70 KIAS when on the final approach or missed approach segment and, if annotated, in holding. See AFI 11-202V3). On the basis of this airspeed, these special helicopter only approaches may be used with the helicopter being considered an approach Category A aircraft. These approaches should all be considered "straight-in" and, therefore, a visibility only approach may be accomplished. Once the instrument approach has been accomplished, you should plan to touch down on the threshold of the procedure runway or helipad. If there are several helipads, the designated instrument helipad will be identified using "negative symbology".
 
 ##### Figure 11.22. Copter Only Approach.
+![fig11_22](figs/fig11_22.png)
 
 11.11.1. Low Altitude Approach. In a low altitude approach, a maximum 400 feet per nautical mile descent is normally planned. In copter only approaches, however, the gradient may be as high as 800 feet per nautical mile.
 
 11.11.2. Short Procedures. Looking at Figure 11.23, we can see an example of a very short procedure. The initial approach fix is only .5 miles from the distance measuring equipment (DME) arc procedural track. From the final approach fix (FAF) to the missed approach point (MAP) is 2.3 miles. While this approach should not be difficult to accomplish, careful review could prevent you from becoming rushed during the maneuver.
 
 ##### Figure 11.23. Short Final Approach.
+![fig11_23](figs/fig11_23.png)
 
 11.11.3. Point In Space. While the point in space approach (Figure 11.24) is rare, it does illustrate how approach design takes advantage of helicopter capability. This approach (see AFMAN 11-226 TERPS) places the helicopter up to 2,600 feet from the landing pad, and the pilot is expected to proceed visually, by ground reference, to the pad. If planning to use this type of approach, pay careful attention to weather conditions upon arrival, as VMC conditions are required to maneuver.
 
 ##### Figure 11.24. Point in Space Approach.
+![fig11_24](figs/fig11_24.png)

@@ -1,4 +1,4 @@
-# Chapter 7 IFR DEPARTURE PROCEDURES
+# Chapter 7: IFR DEPARTURE PROCEDURES
 
 #### 7.1.{#7_1} Introduction.
 
@@ -10,7 +10,7 @@ To maximize mission capability, and to preserve that capability by preventing mi
 
 7.2.1. USAF pilots operating under IFR must comply with applicable IFR climb gradients (or Special MAJCOM Certification procedure). Exception: If the mission justifies the increased risk, and when specifically authorized by the MAJCOM/A3, USAF aircraft may depart any location, in VMC, without regard to the IFR climb gradient.
 
-7.2.2. USAF pilots shall comply with takeoff weather minima IAW AFI 11-202V3 and AFI 11-2MDSV3. Pilots of USAF aircraft will not use FAA or civil takeoff weather minima nor fly “see and avoid” in lieu of IFR climb gradients unless specifically authorized by the MAJCOM/A3 or as provided by AFI 11-202V3. Information on VFR departures may be found in AFMAN11-217V2.
+7.2.2. USAF pilots shall comply with takeoff weather minima IAW AFI 11-202V3 and AFI 11-2MDSV3. Pilots of USAF aircraft will not use FAA or civil takeoff weather minima nor fly "see and avoid" in lieu of IFR climb gradients unless specifically authorized by the MAJCOM/A3 or as provided by AFI 11-202V3. Information on VFR departures may be found in AFMAN11-217V2.
 
 7.2.3. USAF pilots flying under IFR will delay all turns until at least 400 feet above the DER elevation unless an early turn is specifically required by the departure procedure. (Reduced Takeoff Runway Length (RTRL) and non-standard weather minimum procedures may require more than 400'.)
 
@@ -18,23 +18,26 @@ To maximize mission capability, and to preserve that capability by preventing mi
 
 #### 7.3.{#7_3} Planning an Instrument Departure.
 
-For USAF pilots, planning a safe IFR departure normally consists of three steps: selection of a valid IFR departure method, determining the minimum required climb gradient, and ensuring aircraft performance meets or exceeds that climb gradient. This chapter is organized along that process, and a summary decision tree is provided at the end (Figure 7.23.) It is important to remember that when TERPS constructs an IFR departure, the obstacle avoidance gradients calculated are absolute, and do not assume a loss of thrust on takeoff. FAA and USAF multi-engine aircraft certification requirements, however, do assume a loss of thrust on takeoff. As a result, USAF multi-engine aircraft must compute obstacle climb gradients assuming the loss of thrust equal to “one engine inoperative” (OEI). Regardless of the type of aircraft flown, on all IFR departures, the minimum climb gradient for any IFR departure will be the higher of: 200 ft/NM, as directed by the MAJCOM, as directed by a departure procedure, or as directed by the aircraft flight manual. When mission priority dictates, in the absence of more restrictive MAJCOM guidance, an operations supervisor (or equivalent mission execution authority supervisor) may authorize the pilot to reduce the required TERPS climb gradient by up to 48'/NM. (See Subtraction of 48'/NM from published climb gradient, later in this chapter, for more procedural guidance on reducing the published required climb gradient.) NOTE: USAF pilots must ensure their pre-mission planning includes review of IFR departure restrictions to ensure they do not arrive at, or divert to, a location they are unable to legally depart.
+For USAF pilots, planning a safe IFR departure normally consists of three steps: selection of a valid IFR departure method, determining the minimum required climb gradient, and ensuring aircraft performance meets or exceeds that climb gradient. This chapter is organized along that process, and a summary decision tree is provided at the end (Figure 7.23.) It is important to remember that when TERPS constructs an IFR departure, the obstacle avoidance gradients calculated are absolute, and do not assume a loss of thrust on takeoff. FAA and USAF multi-engine aircraft certification requirements, however, do assume a loss of thrust on takeoff. As a result, USAF multi-engine aircraft must compute obstacle climb gradients assuming the loss of thrust equal to "one engine inoperative" (OEI). Regardless of the type of aircraft flown, on all IFR departures, the minimum climb gradient for any IFR departure will be the higher of: 200 ft/NM, as directed by the MAJCOM, as directed by a departure procedure, or as directed by the aircraft flight manual. When mission priority dictates, in the absence of more restrictive MAJCOM guidance, an operations supervisor (or equivalent mission execution authority supervisor) may authorize the pilot to reduce the required TERPS climb gradient by up to 48'/NM. (See Subtraction of 48'/NM from published climb gradient, later in this chapter, for more procedural guidance on reducing the published required climb gradient.) NOTE: USAF pilots must ensure their pre-mission planning includes review of IFR departure restrictions to ensure they do not arrive at, or divert to, a location they are unable to legally depart.
 
 7.3.1. Diverse Departure Assessment. When an instrument approach is constructed, the TERPS specialist determines the need for a departure procedure (DP). If no obstacle or terrain penetrates a 40:1 slope (termed the obstacle clearance surface (OCS) or obstacle identification surface (OIS)) from the departure end of the runway (DER), an aircraft may turn in any direction and remain clear of obstacles while climbing at 200‗/NM. That runway has passed a diverse departure assessment (Figure 7.1) and no obstacle departure procedure (ODP) is required.
 
 7.3.1.1. If low, close-in obstacles (published in the ODP section of the approach plate book) penetrate the 40:1 OCS, a diverse departure may still be flown but the pilot must comply with the Low close-in obstacles section of this chapter.
 
 ##### Figure 7.1. Diverse Departure Obstacle Assessment to 25 / 46 NM.
+![fig7_1](figs/fig7_1.png)
 
 7.3.2. Surrounding Areas. The pilot must be aware that beyond the diverse departure obstacle assessment area, there may be significant obstacles/terrain that must be avoided. For this reason, when planning ANY instrument departure or arrival, pilots must check terrain and obstacle information for areas surrounding the immediate terminal area. In many cases, this can be done by checking the MSA/ESA from the IAP or asking the radar controller the height of the minimum vectoring altitude (MVA) for the area of concern (beyond the 25 NM, non-mountainous and 46 NM mountainous diverse departure obstacle assessment area). In other cases, such as non-radar environments, a thorough study of terrain charts, nearby airport IAPs, or IFR enroute charts may provide the pilot with this data in the form of MSAs, ESAs, MCAs, MEAs, MOCAs, etc. Regardless of the departure/arrival method chosen, pilots must be aware of their surroundings, especially in terminal areas.
 
 7.3.3. Runway End Crossing Height. Runway End Crossing Height or Screen Height is the aircraft's required AGL altitude at the Departure End of the Runway (DER). The OCS slope begins at the DER at the runway end crossing height. Determining and complying with the proper runway end crossing height is crucial to preventing unsafe operations below the OCS. Runway end crossing heights vary depending on location of the airport, who designed the procedure, terrain, obstacles, etc. The parenthetical notation at the top of DoD approach plates cannot reliably be used to determine what rules were used to produce a departure procedure and screen heights are not consistently published in the ODP section of the approach plates. USAF pilots will only consider the type of airfield when determining runway end crossing height: USAF/USN non-joint-use and all others (Civil/Joint Use/ICAO/NATO/etc.) Consult the IFR Supplement or other appropriate FLIP for this information. Joint use airfields will be annotated as "MIL/CIV" (Figure 7.2). If an airport is listed as an AFB or NAS and does not include "MIL/CIV" in the listing, then it is non-joint use.
 
 ##### Figure 7.2. Joint Use Designation From IFR Supplement.
+![fig7_2](figs/fig7_2.png)
 
 7.3.3.1. USAF/USN non-joint-use bases. The OCS at USAF and USN bases normally begins at zero feet AGL at the DER, but the OCS may be raised as much as 35 feet in order to clear obstacles. If the TERPS specialist raises the OCS, it will be published in the ODP (Figure 7.3.) At non-joint-use USAF or USN bases, assume a zero foot runway end crossing height unless a higher altitude is published.
 
 ##### Figure 7.3. Specific Runway End Crossing Height.
+![fig7_3](figs/fig7_3.png)
 
 7.3.3.2. Other than USAF/USN non-joint-use bases (Civil/ICAO/NATO/etc. ) If civil aircraft certification standards mandate, or obstacles penetrate the OCS, TERPS may raise the runway end crossing height up to 35 feet to maintain a normal 200'/NM climb gradient. There is no reliable way, from looking at the DoD/NACO FLIP, to know if TERPS raised the OCS or not. Therefore, for any departure at other than non-joint-use USAF or USN bases, if the screen height is not published in the ODP or other reliable source, pilots will plan to cross the DER at or above 35 feet.
 
@@ -47,6 +50,7 @@ For USAF pilots, planning a safe IFR departure normally consists of three steps:
 7.3.5. Low close-in obstacles (Figure 7.4) are those that would generate an excessive climb gradient (>200 ft/NM) that terminates at or below 200 feet above the departure end of the runway. Instead of publishing a steep climb gradient or complicated routing, the TERPS specialist will publish the height and location of the obstacles (this information can also appear in NOTAMS). Low close-in obstacles must be accounted for no matter what IFR departure method a pilot chooses. Pilots will calculate their aircraft performance to ensure they can vertically clear applicable low close-in obstacles on all departures. One technique for determining what obstacles are applicable might be to consider all within 500 feet, laterally, of the planned departure (or emergency return) ground track. Additionally, in order to ensure vertical clearance of those obstacles (valid only for low-close in takeoff obstacles) compare the aircraft's calculated height at the obstacle's distance from liftoff to the height of the offending obstacle. Pilots may conclude after careful analysis of low closein obstacles that a safe IFR departure cannot be made. In this case, select an alternate departure runway or ground track, or consult your MAJCOM for guidance.
 
 ##### Figure 7.4. Low Close-in Obstacles. AMARILLO, TX RICK HUSBAND AMARILLO INTL DEPARTURE PROCEDURE: Rwy 22, climb heading 218° to 4100 before turning northbound. Rwy 31, climbing right turn heading 360° to 5400 before turning westbound. NOTE: Rwy 31, sign 23' from departure end of runway, 257' right of centerline, 6' AGL/3605' MSL.
+![fig7_4](figs/fig7_4.png)
 
 #### 7.4.{#7_4} IFR Departure Procedures (DP).
 
@@ -56,33 +60,40 @@ There are two types of DPs: Obstacle Departure Procedures (ODP), printed either 
 
 7.4.1.1. ODP Notification. On U.S. Government produced instrument procedures, the pilot is notified that runway specific departure information exists by the placement of a special symbol on all of the IAPs and SIDs for the airport. (Figure 7.5.) The symbol is a white "T" on a black inverted triangle ( ), referred to by some as the "Trouble T" because it indicates potential trouble for departing aircraft. This "Trouble T" should be published in the upper left corner of Volpe-format approach plates, but may be printed elsewhere on the IAP—for this reason, pilots should carefully check for the "Trouble T" on every instrument procedure for that airfield. The presence of the "Trouble T" means IFR takeoff minima and departure procedures are prescribed for specific airports/runways. USAF pilots will comply with applicable departure procedures.
 
-##### Figure 7.5. “Trouble T”.
+##### Figure 7.5. "Trouble T".
+![fig7_5](figs/fig7_5.png)
 
-7.4.1.1.1. Non-Standard Takeoff Weather Minima. (Figure 7.6.) When obstacles penetrate the 40:1 OCS, non-standard takeoff weather minima are provided for commercial civil pilots to "see-and-avoid" obstacles during departure. Unless specifically authorized by the MAJCOM/A3, USAF aircraft are not authorized to flight plan using “see and avoid” operations in lieu of meeting standard or published climb gradients. USAF pilots may only use non-standard weather minima for takeoff if aircraft performance (if multi-engine, OEI) will allow the aircraft to climb to the non-standard ceiling requirement by the DER and comply with published (or standard if none published) climb gradient requirements thereafter to an appropriate IFR altitude. In the example in Figure 7.6., the pilot must climb to 500' AGL by the DER in order to takeoff under IFR from either Runway at Orangeburg. For situational awareness purposes, the visibility portion of the non-standard weather minima provides a clue to the proximity of the obstacle(s). The lower the required visibility, the closer the obstacle(s).
+7.4.1.1.1. Non-Standard Takeoff Weather Minima. (Figure 7.6.) When obstacles penetrate the 40:1 OCS, non-standard takeoff weather minima are provided for commercial civil pilots to "see-and-avoid" obstacles during departure. Unless specifically authorized by the MAJCOM/A3, USAF aircraft are not authorized to flight plan using "see and avoid" operations in lieu of meeting standard or published climb gradients. USAF pilots may only use non-standard weather minima for takeoff if aircraft performance (if multi-engine, OEI) will allow the aircraft to climb to the non-standard ceiling requirement by the DER and comply with published (or standard if none published) climb gradient requirements thereafter to an appropriate IFR altitude. In the example in Figure 7.6., the pilot must climb to 500' AGL by the DER in order to takeoff under IFR from either Runway at Orangeburg. For situational awareness purposes, the visibility portion of the non-standard weather minima provides a clue to the proximity of the obstacle(s). The lower the required visibility, the closer the obstacle(s).
 
 ##### Figure 7.6. Non-Standard Weather Minima. ORANGEBURG, SC ORANGEBURG MUNI TAKE-OFF MINIMUMS: Rwys 5, 31 500-1
+![fig7_6](figs/fig7_6.png)
 
 7.4.1.1.2. Aircraft Category. Occasionally, a departure procedure will be published that is specific to a certain category of aircraft. (Figure 7.7.) On procedures that specify an aircraft category, use the aircraft approach category from the aircraft flight manual or AFI 11-2MDSV3 to determine which procedure(s) to apply.
 
 ##### Figure 7.7. ODP Specific to Aircraft Category.
+![fig7_7](figs/fig7_7.png)
 
-7.4.1.1.3. Minimum Climb Gradient. (Figure 7.8.) TERPS may provide a minimum climb gradient with or without takeoff weather minima. Some nonstandard takeoff weather minima may have an asterisk (*) referring to a note that lists a specific climb gradient that may be used with standard weather minima. When using this type of IFR departure, USAF pilots will substitute MAJCOM-directed takeoff weather minima in place of the word “standard.”
+7.4.1.1.3. Minimum Climb Gradient. (Figure 7.8.) TERPS may provide a minimum climb gradient with or without takeoff weather minima. Some nonstandard takeoff weather minima may have an asterisk (*) referring to a note that lists a specific climb gradient that may be used with standard weather minima. When using this type of IFR departure, USAF pilots will substitute MAJCOM-directed takeoff weather minima in place of the word "standard."
 
 ##### Figure 7.8. Minimum Climb Gradient In Lieu of Non-Standard Weather Minima.
+![fig7_8](figs/fig7_8.png)
 
 7.4.1.1.3.1. Occasionally, the terrain or obstacles surrounding an airport are such that the TERPS specialist has no choice but to restrict departures to weather suitable for see-and-avoid operations. In Figure 7.9. below, notice that BOTH non-standard weather minima AND a minimum climb gradient are specified. In this example, to depart IFR from Runway 7 at Eagle County Regional, a USAF pilot must be able to (if multi-engine, OEI) either: climb to 5100' AGL by the departure end of the runway in any weather down to MAJCOM minima, and continue the climb at 200'/NM thereafter, OR climb to 700' AGL by the departure end of the runway, then climb at 480‗/NM to 11,800 MSL, then climb at 200'/NM thereafter.
 
 ##### Figure 7.9. Non-Standard takeoff minima AND a required climb gradient:
+![fig7_9](figs/fig7_9.png)
 
 7.4.1.1.4. Specific Routing. (Figure 7.10.) Another ODP method used by TERPS provides a specific route of flight. You must be careful when using this type of IFR departure as a requirement may exist to use non-standard takeoff weather minima in order to execute the procedure. This situation could indicate more than one obstacle along the departure path and would not be allowed unless you comply with paragraph
 
 7.4.1.1.3.1. Pilots must comply with the assigned routing to be assured of obstacle clearance during a Specific Routing departure.
 
 ##### Figure 7.10. ODP with specific routing. ROANOKE, VA ROANOKE REGIONAL/WOODRUM FIELD TAKE-OFF MINIMUMS: Rwys 6, 33 NAobstacles. DEPARTURE PROCEDURE: Rwy 15, climb runway heading to intercept the ROA VORTAC R-122 to 4000 before proceeding on course. Rwy 24, use DIXXY DEPARTURE.
+![fig7_10](figs/fig7_10.png)
 
 7.4.1.1.5. Combination ODP. In Figure 7.11. the TERPS specialist used a combination of the above methods to delineate a safe departure. In this example, the pilot must comply with each requirement: the routing dictated by the procedure along with any required climb gradient.
 
 ##### Figure 7.11. Combination of Methods. RICHMOND, VA CHESTERFIELD COUNTY TAKE-OFF MINIMUMS: Rwy 15, 800-1 or std. with a min. climb of 280' per NM to 1200'. Rwy 33, 1200-1, or std. with min. climb of 220' per NM to 1700. DEPARTURE PROCEDURE: Rwy 15, climb runway heading to 1200' before proceeding on course. Rwy 33, climb runway heading to 1700' before proceeding on course.
+![fig7_11](figs/fig7_11.png)
 
 7.4.1.2. Visual Climb Over the Airport (VCOA) is an ODP that requires a climb in visual conditions over the airfield or an on-airport NAVAID to an altitude where the aircraft enters the standard obstacle protection area of the ODP. (VCOAs may also be termed as Visual Climb to Instrument Departure and abbreviated as either VCTID or VCID.) The standard 200'/NM climb gradient applies while flying the VCOA as do low close-in obstacles, if listed. While this departure is an authorized ODP, USAF pilots must complete MAJCOM- developed, MDS-specific training before flying VCOA departures. Except for MAJCOM- approved NVD trained and equipped aircrew, USAF pilots will not fly VCOA procedures at night.
 
@@ -93,6 +104,7 @@ There are two types of DPs: Obstacle Departure Procedures (ODP), printed either 
 7.4.1.2.2.1. In the example below (Figure 7.12.), a pilot departing from runway 19 must remain within 3 SM of the center of Stevens Field and visually avoiding any obstacles while climbing to 1900' AGL, then turn southbound over the field continuing the climb to 9400' MSL at 200'/NM, then via the DRO 066° radial towards DRO VOR/DME. Obviously, this is a complex maneuver that requires a thorough study of the airfield and surroundings as well as significant predeparture planning for safe accomplishment. It is also worth noting that some obstacles may be inside the visibility radius and, due to the nature of "prevailing visibility," may not be continuously visible during the maneuver. Pilots must maintain constant situational awareness throughout the maneuver to preclude an unsafe position in relation to any obstacles within the VCOA maneuver area.
 
 ##### Figure 7.12. Visual Climb Over the Airport (VCOA) Procedure.
+![fig7_12](figs/fig7_12.png)
 
 7.4.1.2.3. TERPS specialists construct VCOAs assuming an airspeed of 250 KIAS and a bank angle of 23 degrees unless a different airspeed is published. A bank angle of 30 degrees is recommended to remain within the published visibility radius. The geographic center of the airfield is not a precisely defined point on any published diagram and must be estimated based on the layout of the runways. It is important to remember that USAF pilots must not exceed the published distance (or visibility requirement substituted as a distance) until above the altitude specified in the procedure. Aircraft turn radius at climbout speed, or aircraft flight manual takeoff procedures, may render this procedure unusable.
 
@@ -105,12 +117,15 @@ There are two types of DPs: Obstacle Departure Procedures (ODP), printed either 
 7.14.), USAF pilots are prohibited from creating their own RTRL procedure.
 
 ##### Figure 7.13. RTRL Procedure. HOBBS, NM LEA COUNTY RGNL TAKE-OFF MINIMUMS: Rwy 8, std. w/ a min. climb of 218' per NM to 4300', or alternatively, with standard takeoff minimums and a normal 200' per NM climb gradient, takeoff must occur no later than 1600' prior to the departure end of the runway.
+![fig7_13](figs/fig7_13.png)
 
 ##### Figure 7.14. RTRL Changing Controlling Obstacle.
+![fig7_14](figs/fig7_14.png)
 
 7.4.2. Sector Departures. (Figure 7.15) Published "sector" diverse departures (i.e.-Diverse Departure authorized 145° CW to 278° with min climb gradient of…) are authorized as an ODP. Pilots must ensure that they can meet or exceed any published climb gradient for the departure to be flown.
 
 ##### Figure 7.15. Sector Diverse Departure.
+![fig7_15](figs/fig7_15.png)
 
 7.4.3. Standard Instrument Departure (SID). A SID is a departure procedure in graphic and/or textual form established at certain airports to simplify clearance delivery procedures, and assist in meeting environmental, capacity, and air traffic control requirements. SIDs may be requested by specific ATC facilities, the military services, or other proponents to enhance operations. SIDs also provide protection from obstacles and are depicted graphically; however, they will not contain the "(OBSTACLE)" designation following the procedure title on the chart, and may not be flown unless approved by ATC. A heavy black line on the graphic version depicts the SID; thin black lines on the graphic version show transition routings. The departure route description should be complete enough that the pilot can fly the SID without the graphic depiction. If a higher than standard climb gradient is required, it will be published on the SID.
 
@@ -125,10 +140,12 @@ There are two types of DPs: Obstacle Departure Procedures (ODP), printed either 
 7.4.3.2.3. Pilot Navigation (NAV) SIDs. (Figure 7.16) The pilot is responsible for following the SID routing. These SIDs are established for airports when terrain and safety related factors indicate the necessity for a Pilot NAV SID. Some Pilot NAV SIDs may contain vector instructions which pilots are expected to comply with until instructed to resume normal navigation on the filed/assigned route or SID procedure. Pilot NAV SIDs normally have a graphic depiction of the departure routing (thick black lines) followed by transition routing (thin black lines). Multiple routings from multiple runways may be depicted on the same SID.
 
 ##### Figure 7.16. Pilot-Nav SID.
+![fig7_16](figs/fig7_16.png)
 
 7.4.3.2.4. Vector SIDs. (Figure 7.17) Vector SIDs are established where ATC will provide radar navigational guidance to a filed/assigned route or to a fix depicted on the SID. Typically, a vector SID will depict only area navaids or fixes with some simple textual departure instructions. As on all SIDs, pilots will comply with the ODP, if published for that runway, prior to accepting radar vectors, unless otherwise directed by ATC.
 
 ##### Figure 7.17. Vector SID.
+![fig7_17](figs/fig7_17.png)
 
 7.4.3.3. Climb Rate Chart Usage. The climb rates published on military SIDs give vertical velocities for given groundspeeds. The easiest way to use this information is to look at the 60 knot column. Using the 60 to 1 rule, 60 knots is 1 NM/min so the vertical velocity for this speed provides the required obstacle climb gradient in ft/NM. (If there is no 60 knot block, simply divide the 120 knot block by 2, the 180 knot block by 3, etc.) (Tech order climb profiles still apply.)
 
@@ -146,7 +163,7 @@ There are two types of DPs: Obstacle Departure Procedures (ODP), printed either 
 
 7.4.3.5.3. Radar DP. Radar may be used for navigation guidance for SID design. Radar SIDs are established when ATC has a need to vector aircraft on departure to a particular ATS Route, NAVAID, or Fix. Radar vectors may also be used to join conventional or RNAV navigation SIDs. SIDs requiring radar vectors must be annotated "RADAR REQUIRED."
 
-7.4.4. Specific ATC Departure Instructions. Specific ATC departure instructions include a heading and an altitude. Though a controller assumes shared responsibility for terrain and obstacle clearance once he or she begins to provide navigational guidance, ultimate responsibility always rests with the pilot. When told to “fly runway heading,” do not apply wind drift corrections.
+7.4.4. Specific ATC Departure Instructions. Specific ATC departure instructions include a heading and an altitude. Though a controller assumes shared responsibility for terrain and obstacle clearance once he or she begins to provide navigational guidance, ultimate responsibility always rests with the pilot. When told to "fly runway heading," do not apply wind drift corrections.
 
 7.4.4.1. If the departure instructions do not contain a climb gradient and there are no published gradients for the runway utilized for departure, pilots are required to maintain 200 ft/NM. Controllers are required to issue climb gradients in excess of 200ft/NM with the departure instructions. If terrain or obstacles in the direction of departure appear to require a higher than standard climb gradient or if your specific departure instructions conflict with information published in an ODP, query the controller. Except in a Diverse Vector Area (DVA), USAF pilots must fly the ODP prior to the departure instructions. However, as a pilot there is nothing to inform you that you are in a DVA. Therefore, if the airport has a "Trouble T" and the departure instructions seem to conflict with the ODP or there is any question about which procedure to fly, query the controller for clarification.
 
@@ -155,14 +172,16 @@ There are two types of DPs: Obstacle Departure Procedures (ODP), printed either 
 7.4.5. Diverse Departures (ICAO: Omni-Directional Departures). If no obstacles (other than low, close-in obstacles) penetrate the 40:1 Obstacle Clearance Surface (OCS) for a particular runway, then a minimum climb gradient of 200'/NM will ensure proper obstacle clearance. If a runway does not have a published DP and does not have an ODP in the IFR Takeoff Minimums and Departure Procedures section of FLIP specifically stating, "Diverse Departure Not Authorized" (Figure 7.19.), then a diverse departure is an acceptable IFR departure procedure for that runway (Figure 7.18.) A diverse departure allows the pilot to execute a turn in any direction from the runway and remain clear of obstacles. There is no special way to file a diverse departure; simply list a fix or NAVAID as the first point on the route of flight IAW FLIP GP. To fly a diverse departure, fly the extended runway centerline ground track until 400 feet above DER elevation before executing any turns. Maintain a minimum climb gradient of 200'/NM until reaching a minimum IFR altitude.
 
 ##### Figure 7.18. Diverse Departure Authorized (for Runway 10 ONLY!). HUNTER AAF (KSVN) SAVANNAH, GA
+![fig7_18](figs/fig7_18.png)
 ………Rwy 28, 300-1*
 *Or standard with minimum climb of 340 per NM to 400. Rwy 28, climbing left turn hdg 230° to 1700 before proceeding on course.
 
-7.4.5.1. ATC will not specifically clear you for a diverse departure. Do not mistake the words "cleared as filed" as clearance for a diverse departure. This is only the case if the required climb gradient is 200'/NM or less and there is no ODP published for the departure runway. If there is an ODP for the departure runway, USAF pilots will fly the ODP before beginning the “cleared as filed” portion of the departure.
+7.4.5.1. ATC will not specifically clear you for a diverse departure. Do not mistake the words "cleared as filed" as clearance for a diverse departure. This is only the case if the required climb gradient is 200'/NM or less and there is no ODP published for the departure runway. If there is an ODP for the departure runway, USAF pilots will fly the ODP before beginning the "cleared as filed" portion of the departure.
 
 7.4.5.2. There are airports around the world where a diverse departure obstacle assessment has not been performed or completed to US TERPS standards. At these airports, a diverse departure may not be authorized for certain runways. The pilot should be notified via NOTAM, or in the case of DoD/NACO FLIP books, by a statement in the front of the book under the section titled, "IFR Takeoff Minima and (Obstacle) Departure Procedures." The statement will say, "Diverse Departure Not Authorized." (Figure 7.19.) Commercial or foreign government products may not follow this convention.
 
 ##### Figure 7.19. Diverse Departure Not Authorized. OCEANA NAS (KNTU) VIRGINIA BEACH, VA Diverse Departure not Authorized.
+![fig7_19](figs/fig7_19.png)
 
 7.4.5.3. When a diverse departure is not authorized, it indicates penetration of the 40:1 OCS and there should be at least one SID or IFR Departure Procedure published for that airport. However, this is not always true in DoD FLIP. There are cases where a commercial or host nation procedure will contain a climb gradient not annotated in DoD FLIP. Consequently, where diverse departures are not authorized, absence of a SID or IFR Departure Procedures does NOT indicate a radar departure with a 200'/NM climb gradient is appropriate. Therefore, if there is no SID or IFR Departure Procedure AND diverse departures are NOT authorized, coordination with MAJCOM TERPS specialists is required to determine the best departure method and required climb gradient prior to an IFR departure. MAJCOM TERPS will assist in coordinating a solution with the agency responsible for the airfield's airspace.
 
@@ -178,18 +197,22 @@ As previously covered, USAF aircraft must meet or exceed published climb gradien
 7.5.1.1. Subtraction of 48'/NM from published climb gradient. (Requires operations supervisor or equivalent mission execution authority supervisor approval.) If there is no SDP for the departure runway, the only other approved method to reduce the required climb gradient is to subtract 48'/NM from the published minimum climb gradient. In
 
 ##### Figure 7.20. the resultant climb gradient the pilot must comply with is 322'/NM to 1700' MSL (370 – 48 = 322).
+![fig7_20](figs/fig7_20.png)
 
 ##### Figure 7.20. Subtracting 48'/NM. HUTCHINSON, KS HUTCHINSON MUNI TAKE-OFF MINIMUMS: Rwys 4, 22, 300-1 or std. with a min. climb of 370' per NM to 1700'. DEPARTURE PROCEDURE: All Rwys, eastbound departures (030° CW 130°) climb runway heading to 3300' before turning.
+![fig7_20](figs/fig7_20.png)
 
 7.5.1.2. Special Departure Procedure (SDP) (Figure 7.22.) SDPs are MDS-specific, commercially designed and published procedures, that require MAJCOM training and certification before use. SDPs are especially useful for multi-engine aircraft, as the procedure often increases the allowable takeoff gross weight while simultaneously providing the pilot an "escape" routing he or she can use in the event the aircraft loses thrust on takeoff. One example (Figure 7.21.) at Albuquerque Int'l Sunport, reveals that a takeoff on Runway 8 commands an excessive climb gradient (515'/NM). A comparison with Figure 7.22. shows the SDP for runway 8 at KABQ gives maximum gross weights and temperatures which, if adhered to, allow the multi-engine aircraft to depart Rwy 8 without meeting the 515'/NM climb gradient OEI. Notice the SDP routing differs from the ODP routing. USAF pilots shall fly SDP routing that differs from ATC routing only in an emergency.
 
 ##### Figure 7.21. KABQ Normal Obstacle Departure Procedures.
+![fig7_21](figs/fig7_21.png)
 
 7.5.1.2.1. If the mission justifies the increased risk, and the aircraft cannot meet or exceed the published climb gradient, and a current SDP exists for your aircraft and departure runway, consider using that SDP for departure planning. MAJCOMS may authorize SDP use when operationally necessary. Proper use of the SDP for OEI departure planning requires careful preflight review of the procedure. If flying the filed or cleared routing and an engine failure occurs, the pilot must be ready to immediately transition to the SDP routing and climb profile. This preflight review must also recognize that at a certain point, transition to the SDP may not be feasible (e.g. a turn during the departure takes the aircraft away from the SDP ground track.) MAJCOMs must train and certify their pilots prior to use of an SDP. Training will include detailed information about SDPs from the OpsData User's Guide. This guide is available from the vendor at https://www.jeppesen.com/main/shared/account/login.jsp. Once logged in, under Support select Support Center and click on the User Guide link under the OpsData User Guide section.
 
 ##### Figure 7.22. KABQ Special Departure Procedure.
+![fig7_22](figs/fig7_22.png)
 
-#### 7.6.{#7_6} RNAV Departure Procedures (Figure 7 23).
+#### 7.6.{#7_6} RNAV Departure Procedures (Figure 7.23).
 
 RNAV Departure Procedures take advantage of RNAV system capabilities to provide more accurate and reliable position information than traditional NAVAID-based systems.
 
@@ -239,9 +262,11 @@ RNAV Departure Procedures take advantage of RNAV system capabilities to provide 
 7.6.4.11. RNAV Off-the-Ground Phraseology. At certain large commercial airports (i.e., CLT, DFW and ATL), the FAA is evaluating new phraseology for SIDs from parallel runways. The evaluation may result in system-wide implementation in the future. The phraseology, to be issued with the takeoff clearance, requires aircrew action to validate correct programming of runway and departure in the Flight Management System (FMS) prior to takeoff. Pilots are expected to associate the instruction with the flight path to their planned route of flight. Pilots can expect a takeoff clearance from ATC that will provide instructions to depart the runway either via an RNAV path or via an assigned heading to be maintained. An RNAV path takeoff clearance will direct aircraft to fly the required RNAV path to the initial waypoint on the SID in the ATC clearance. A typical takeoff clearance will state, for example, "REACH 55, RNAV to GIRGY, Runway 18C, Cleared for takeoff". After verifying that the correct runway and departure are loaded and that the correct lateral navigation mode is available and ready for use after takeoff, the expected pilot response is, "REACH 55, RNAV to GIRGY, Runway 18C, Cleared for takeoff". All read-backs must be verbatim. Pilots must immediately advise ATC if unable to comply with the RNAV SID or if a different RNAV SID is entered in the aircraft FMS. If the takeoff clearance does not match the planned/loaded procedure, either request an initial heading from tower or refuse the takeoff clearance until the discrepancy is resolved. Unless ATC has issued a heading to fly in place of the off-theground phraseology, engage lateral navigation flight guidance as soon as practical and fly the departure precisely. Strict compliance with the lateral and vertical tracks is imperative.
 
 ##### Figure 7.23. RNAV DP.
+![fig7_23](figs/fig7_23.png)
 
 #### 7.7.{#7_7} Decision Tree For Departures.
 
 The Departure Decision Tree (Figure 7.24) is an aid to ensure compliance with both IFR and VFR departure rules. It is important to remember that climb gradients must be taken into account when departing any airfield under any rules. Airfields with a published approach have undergone a TERPS review and obstacle assessment. So, although this chapter is specific to IFR departure procedures, it is worth noting that a climb gradient check must also be done in order to depart VFR. Hence, Figure 7.24 applies to both IFR and VFR departures. Bottom line: Even when VFR flight is an option, pilots must be aware of climb gradients, and if OEI aircraft performance makes a successful departure doubtful, then the decision to depart and the method used should be scrutinized at the proper risk mitigation level, which may be unit leadership, or as high as the MAJCOM staff.
 
 ##### Figure 7.24. Departure Decision Tree.
+![fig7_24](figs/fig7_24.png)

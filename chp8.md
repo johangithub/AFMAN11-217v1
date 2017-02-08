@@ -1,10 +1,11 @@
-# Chapter 8 HOLDING
+# Chapter 8: HOLDING
 
 #### 8.1.{#8_1} Definition.
 
 8.1.1. Basic. Holding is maneuvering an aircraft in relation to a navigation fix while awaiting further clearance. The standard no-wind holding pattern is flown by following a specified holding course inbound to the holding fix, making a 180° turn to the right, flying a heading outbound to parallel the holding course, and making another 180° turn to the right to intercept and follow the holding course to the fix (Figure 8.1). The holding pattern is nonstandard when the turns are made to the left. Unless otherwise instructed by ATC, pilots are expected to hold in a standard pattern. The standard no-wind length of the inbound leg of the holding pattern is 1 minute when holding at or below 14,000 feet MSL and 1½ minutes when holding above 14,000 feet MSL. DME holding patterns specify the outbound leg length. If holding at a DME fix without specified outbound leg length, use timing procedures listed above.
 
 ##### Figure 8.1. Holding Pattern.
+![fig8_1](figs/fig8_1.png)
 
 8.1.2. Course Guidance. Holding patterns have inbound course guidance provided by a VOR, TACAN, NDB, localizer, or RNAV/GPS. While in holding, the localizer signal is the most accurate method of determining aircraft position. However, if a VOR, TACAN or NDB also defines the holding pattern, it's the pilot's option as to which NAVAID to use.
 
@@ -39,10 +40,19 @@
 8.2.2.6.1. Example: Hold Northwest of the 106 radial, 40 DME fix, 10-mile legs, left turns. Expect further clearance at 1725Z, time now 1710Z.
 
 ##### Figure 8.2. Charted Holding Pattern.
+![fig8_2](figs/fig8_2.png)
 
 8.2.3. Clearance Limit. ATC should issue holding instructions at least 5 minutes before reaching a clearance limit fix. When an aircraft is 3 minutes or less from a clearance limit and a clearance beyond the fix has not been received, the pilot is expected to start a speed reduction so that the aircraft will cross the fix at or below the maximum holding airspeed. If holding instructions have not been received upon arrival at the fix, hold in accordance with procedures in FLIP. For two-way radio failure holding procedures, refer to the FIH.
 
-8.2.4. Maximum Holding Speeds. Maximum holding airspeeds are defined by TERPS and have nothing to do with the holding speed specified in the aircraft flight manual. Holding speeds in the aircraft flight manual are typically minimum speeds that correspond to a maximum endurance speed. Do not exceed the maximum holding airspeeds listed below. (Table 8.1) ATC may be able to approve holding speeds in excess of these maximums, if aircraft performance considerations require. Adherence to the maximum speeds shown below, or the published maximum holding speed, whichever is lower, will ensure you remain within protected airspace. For ICAO holding airspeeds, refer to Chapter 17. Table 8.1. Maximum Holding Airspeeds. ALTITUDE (MSL) MHA through 6,000' Above 6,000' through Maximum Speed 200 KIAS 230 KIAS 14,000' Above 14,000' 265 KIAS
+8.2.4. Maximum Holding Speeds. Maximum holding airspeeds are defined by TERPS and have nothing to do with the holding speed specified in the aircraft flight manual. Holding speeds in the aircraft flight manual are typically minimum speeds that correspond to a maximum endurance speed. Do not exceed the maximum holding airspeeds listed below. (Table 8.1) ATC may be able to approve holding speeds in excess of these maximums, if aircraft performance considerations require. Adherence to the maximum speeds shown below, or the published maximum holding speed, whichever is lower, will ensure you remain within protected airspace. For ICAO holding airspeeds, refer to Chapter 17.
+
+##### Table 8.1. Maximum Holding Airspeeds. 
+
+|ALTITUDE (MSL) | Maximum Speed|
+|:---:|:---:|
+|MHA through 6,000'| 200 KIAS |
+|Above 6,000' through 14,000'| 230 KIAS |
+|Above 14,000'| 265 KIAS | 
 
 8.2.4.1. NOTE: At USAF airfields, the maximum holding airspeed is 310 KIAS unless otherwise noted. At USN airfields, the maximum holding airspeed is 230 KIAS unless otherwise noted.
 
@@ -65,6 +75,7 @@
 8.3.4.1.3. Teardrop. The teardrop entry may be used at pilot discretion when entering holding on a heading conveniently aligned with the selected teardrop course. As a guide, consider yourself conveniently aligned when your aircraft heading is within 45° of the selected teardrop course. Upon reaching the holding fix, turn on the holding side and proceed on an outbound track not to exceed 45° from the outbound course. (Depending on your offset requirements, a teardrop course of less than 45° may be desired.) If course guidance is available, attempt to intercept the selected teardrop course outbound. Upon completion of the outbound teardrop course/heading, turn toward the holding course to intercept the holding course inbound.
 
 ##### Figure 8.3. 70 degree Method.
+![fig8_3](figs/fig8_3.png)
 
 8.3.4.2. Technique B ("AIM Method"): Enter the holding pattern based on your heading (±5°) relative to the three entry sectors depicted in Figure 8.4. Upon reaching the holding fix, follow the appropriate procedure for your entry sector:
 
@@ -75,6 +86,7 @@
 8.3.4.2.3. Sector C (Direct). Turn to follow the holding pattern.
 
 ##### Figure 8.4. AIM Method.
+![fig8_4](figs/fig8_4.png)
 
 8.3.5. Timing. The maximum inbound leg time is 1 minute at or below 14,000 feet MSL and 1½ minutes above 14,000 feet MSL. On the initial outbound leg do not exceed the appropriate time for the altitude. Adjust subsequent outbound legs as necessary to meet the required inbound time. When a specific DME or RNAV distance is specified, commence the inbound turn at that distance. ATC expects pilots to fly the complete holding pattern as published. Therefore, do not shorten the holding pattern without clearance from ATC.
 
@@ -109,6 +121,7 @@ Here are some suggestions and points to consider when flying holding patterns (F
 8.5.2.2. Adjustments. Knowing the time it takes you to fly a holding pattern will allow you to meet an EFC. As an approximation, 1/100th of TAS will give the number of minutes to fly a 360° turn at 30° of bank. (For example, at 350 knots true airspeed (KTAS), a 360° turn takes about 3.5 minutes.) Aircraft flying standard rate turns cover 360° in 2 minutes. Add to the time for turning the number of minutes to fly the inbound and outbound legs.
 
 ##### Figure 8.5. Copying Holding Instructions.
+![fig8_5](figs/fig8_5.png)
 
 #### 8.6.{#8_6} Drift Corrections.
 

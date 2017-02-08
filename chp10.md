@@ -1,4 +1,4 @@
-# Chapter 10 HIGH ALTITUDE APPROACHES 
+# Chapter 10: HIGH ALTITUDE APPROACHES 
 
 #### 10.1.{#10_1} Application.
 
@@ -21,6 +21,7 @@ Teardrop approaches are usually associated with VOR or NDB facilities (Figure 10
 10.2.4. Descent. Continue descent to FAF altitude. Establish approach configuration and airspeed prior to the final approach fix unless the aircraft flight manual procedures require otherwise.
 
 ##### Figure 10.1. Non-DME Teardrop-High Altitude Approach. 
+![fig10_1](figs/fig10_1.png)
 
 #### 10.3.{#10_3} Radial Approaches.
 
@@ -31,16 +32,18 @@ These approaches are associated with TACAN or VORTAC facilities (Figure 10.2). O
 10.3.2. Descent. Start the descent when the aircraft is abeam or past the IAF on a parallel or intercept heading to the approach course. For DME approaches, crossing the arc is considered abeam the IAF. Intercept the course and comply with the altitudes depicted on the approach chart. Aircraft configuration and airspeed requirements prior to the FAF are the same as for non-DME teardrop.
 
 ##### Figure 10.2. Radial - High Altitude Approach.
+![fig10_2](figs/fig10_2.png)
 
 ##### Figure 10.3. Radial and Arc Combination Approach. 
+![fig10_3](figs/fig10_3.png)
 
-#### 10.4.{#10_4} Radial and Arc Combination Approaches (Figure 10 3).
+#### 10.4.{#10_4} Radial and Arc Combination Approaches (Figure 10.3).
 
 These require the use of arc intercept procedures. Flight procedures are the same as for a radial approach. However, if established in a holding pattern and the IAF is located on an arc or on a radial at a distance less than that required for a normal lead point, you may turn early to intercept the arc. Start the descent when you are established on an intercept to the arc and abeam or past the IAF in relation to the initial approach track. Aircraft configuration and airspeed requirements prior to the FAF are the same as for non-DME teardrop. An arc or radial altitude restriction only applies while established on that segment of the approach to which the altitude restriction applies. Once a lead point is reached, and a turn to the next segment is initiated, the pilot may descend to the next applicable altitude restriction. This may be especially important to facilitate a reasonable rate of descent to final approach fix altitude. 
 
 10.4.1. NOTE: When an altitude restriction is depicted at a fix defined as an intersection of a radial and an ARC the restriction must be complied with no later than the completion of the lead turn associated with that fix. If the restriction is met during the lead turn, consider yourself established on the next segment and continue to descend to the next applicable altitude restriction. 
 
-#### 10.5.{#10_5} Multiple Facility Approaches (Figure 10 4).
+#### 10.5.{#10_5} Multiple Facility Approaches (Figure 10.4).
 
 The multiple facility type approach normally uses a combination of two or more VORs, NDB, TACANs, etc., to provide the track. 
 
@@ -49,6 +52,7 @@ The multiple facility type approach normally uses a combination of two or more V
 10.5.2. Restriction. The entire approach must be flown as depicted to comply with all course and altitude restrictions. Aircraft configuration and airspeed requirements prior to the FAF are the same as for non-DME teardrop approaches.
 
 ##### Figure 10.4. Multiple Facility Approach. 
+![fig10_4](figs/fig10_4.png)
 
 #### 10.6.{#10_6} Approach With Dead Reckoning (DR) Courses.
 
@@ -59,3 +63,4 @@ Many IAPs utilize DR courses (Figure 10.5). Course guidance is not available; ho
 10.6.2. Ground track. Attempt to fly the depicted ground track by correcting for wind.
 
 ##### Figure 10.5. Dead Reckoning Courses.
+![fig10_5](figs/fig10_5.png)

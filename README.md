@@ -13,15 +13,29 @@ Download ePub [here](https://www.gitbook.com/download/epub/book/johangithub/afma
 
 See typos or Issues? Create Issues [here](https://github.com/johangithub/AFMAN11-217v1/issues) or send me an email at **joe** dot **han0212**  at **gmail**
 
+----
+
 TODO: 
 
-- [ ] Download and add Figures
+- [X] Download and add Figures
 
-- [ ] Fix equations using LaTex
+- [ ] Fix sparse figures in Chapter 7
+
+- [ ] Symbols
+
+- [ ] Add bold/italics that match the document
+
+- [ ] Fix Sections and Subsection indents, add triple-dash between three-digit sections
 
 - [ ] Fix Sidebar navigation and pagination
 
 - [ ] Test pdf, ePub and mobi
+
+- [X] Fix equations using LaTex
+
+- [X] Fix Tables
+
+----
 
 # Table of Contents
 ### [Chapter 1](./chp1.md) BASIC INSTRUMENT FLYING

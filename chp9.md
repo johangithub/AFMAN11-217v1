@@ -1,4 +1,4 @@
-# Chapter 9 ARRIVAL
+# Chapter 9: ARRIVAL
 
 #### 9.1.{#9_1} En Route Descent Procedure/Technique.
 
@@ -18,8 +18,7 @@ ATC requirements probably have more influence over when to begin the descent tha
 
 9.2.1.2. CAUTION: Descent gradients in excess of 10° (1,000 ft/nm) in IMC may induce spatial disorientation. In addition, exceeding a 10° descent gradient below 15,000 feet AGL substantially decreases margin for error in avoiding obstacles and terrain, and may not provide effective radar monitoring.
 
-9.2.2. Starting Descent. Before starting descent, review the IAP, recheck the weather (if appropriate), check the heading and attitude systems, and coordinate lost communication procedures (if required). Review of the IAP should include, but is not limited to, the following: minimum and/or emergency safe altitudes, navigation frequencies, descent rates,
- approach minimums, missed approach departure instructions, and aerodrome sketch. The IAP shall be readily available to the pilot for reference throughout the procedure.
+9.2.2. Starting Descent. Before starting descent, review the IAP, recheck the weather (if appropriate), check the heading and attitude systems, and coordinate lost communication procedures (if required). Review of the IAP should include, but is not limited to, the following: minimum and/or emergency safe altitudes, navigation frequencies, descent rates, approach minimums, missed approach departure instructions, and aerodrome sketch. The IAP shall be readily available to the pilot for reference throughout the procedure.
 
 9.2.3. During Descent.
 
@@ -31,25 +30,26 @@ ATC requirements probably have more influence over when to begin the descent tha
 
 #### 9.3.{#9_3} Established on Course.
 
-Established on course is defined as being within half full-scale deflection for a VOR/TACAN/RNAV/GPS course, within ± 5° of the required bearing for an NDB and within full scale deflection for a LOC based course. Therefore, do not consider yourself “established on course” until you are within these limits.
+Established on course is defined as being within half full-scale deflection for a VOR/TACAN/RNAV/GPS course, within ± 5° of the required bearing for an NDB and within full scale deflection for a LOC based course. Therefore, do not consider yourself "established on course" until you are within these limits.
 
 #### 9.4.{#9_4} High Altitude Procedures.
 
 9.4.1. Terminal Routings (Figure 9.1). Terminal routings from en route or feeder facilities normally provide a course and range in nautical miles (not DME) to the IAF but may take you to a point other than the IAF.
 
 ##### Figure 9.1. Feeder Routes (High Altitude).
+![fig9_1](figs/fig9_1.png)
 
 9.4.2. Before the IAF. Before reaching the IAF, review the IAP, recheck the weather (if appropriate), check the heading and attitude systems, and obtain clearance for the approach. If holding is not required, reduce to penetration airspeed or below before reaching the IAF. Accomplish appropriate checklists in accordance with the aircraft flight manual.
 
 9.4.3. En route Approach Clearance. If cleared for an approach while en route to holding fix that is not collocated with the IAF, proceed to the IAF via the holding fix, unless specifically cleared to proceed direct to the IAF. However, if the IAF is located along the route of flight to the holding fix, begin the approach at the IAF. If in doubt as to the clearance, query the controller.
 
-9.4.4. Approach Clearance (Figure 9.2). When ATC issues an approach clearance, proceed to the IAF then turn immediately in the shortest direction to intercept the approach course. Clearance for the approach does not include clearance to use holding airspace. However, if you are established in holding and cleared for the approach, complete the holding pattern to the IAF unless an early turn is approved by ATC. If aircraft heading to the IAF is within 90° of the approach course, pilots may use normal lead points to intercept the course (Figure
-
-9.3). If aircraft heading is not within 90° of the approach course and you desire to maneuver the aircraft into a more favorable alignment prior to starting the approach, obtain clearance from ATC.
+9.4.4. Approach Clearance (Figure 9.2). When ATC issues an approach clearance, proceed to the IAF then turn immediately in the shortest direction to intercept the approach course. Clearance for the approach does not include clearance to use holding airspace. However, if you are established in holding and cleared for the approach, complete the holding pattern to the IAF unless an early turn is approved by ATC. If aircraft heading to the IAF is within 90° of the approach course, pilots may use normal lead points to intercept the course (Figure 9.3). If aircraft heading is not within 90° of the approach course and you desire to maneuver the aircraft into a more favorable alignment prior to starting the approach, obtain clearance from ATC.
 
 ##### Figure 9.2. Cleared for the Approach While En Route to the Holding Fix.
+![fig9_2](figs/fig9_2.png)
 
 ##### Figure 9.3. Leading the Turn at the IAF.
+![fig9_3](figs/fig9_3.png)
 
 9.4.5. Altitude. When cleared for the approach, maintain the last assigned altitude until established on a segment of the published routing or IAP. Once on the published routing or a segment on the IAP, do not descend below the minimum safe altitude for that segment. High altitude penetration descent may be initiated when abeam or past the IAF with a parallel or intercept heading to the course. The controller should assign you the depicted IAF altitude. If you are not assigned the IAF altitude and cannot make the descent gradient by starting the penetration from your last assigned altitude, request a lower altitude.
 
@@ -69,11 +69,12 @@ Established on course is defined as being within half full-scale deflection for 
 
 9.5.6. Approach Clearance. When clearance for the approach is issued, ATC expects an immediate turn in the shortest direction to intercept the procedural course upon reaching the IAF. Clearance for the approach does not include clearance for the holding airspace. However, if established in holding and cleared for the approach, complete the holding pattern to the IAF unless an early turn is approved by ATC. If your heading is within 90° of the procedural course, you may use normal lead points to intercept the course. If your heading is not within 90° of the approach course and you desire to maneuver the aircraft into a more favorable alignment prior to starting the approach, obtain clearance from ATC.
 
-#### 9.6.{#9_6} Radar Vectors (Figure 9 4).
+#### 9.6.{#9_6} Radar Vectors (Figure 9.4).
 
 The use of radar vectors is the simplest and most convenient way to position an aircraft for an approach. Using radar, air traffic controllers can position an aircraft at almost any desired point, provide obstacle clearance by the use of minimum vectoring altitudes (MVAs), and ensure traffic separation. This flexibility allows an aircraft to be vectored to any segment of a published routing shown on the IAP or to a radar final. Radar controllers use MVA charts that are prepared by the air traffic facilities at locations where there are numerous different minimum IFR altitudes. The MVA chart is divided into sectors that are large enough to accommodate vectoring of aircraft within the sector at the MVA. Minimum altitudes are established at 1,000 feet or 2,000 feet in designated mountainous areas (in mountainous areas, MVAs may be authorized at 1,000 feet in order to achieve compatibility with terminal routes or IAPs). When being radar vectored, IFR altitude assignments will be at or above MVA.
 
 ##### Figure 9.4. Minimum Vector Altitude (MVA) Chart.
+![fig9_4](figs/fig9_4.png)
 
 9.6.1. "Traffic Advisories" is an additional service that the controller may provide to you if the workload permits. Traffic information while on a PAR final is almost nil due to narrow azimuth scan of the PAR equipment. "Radar monitoring" during a nonprecision instrument approach will not provide altitude warning information if the aircraft descends below a safe altitude. The controller may vector the aircraft to any segment of an IAP prior to the FAF and clear an aircraft for an approach from that point. The controller will issue an approach clearance only after you are established on a segment of the IAP; or you will be assigned an altitude to maintain until you are established on a segment of the IAP. The following general guidance applies to the radar controller when positioning an aircraft for a final approach:
 
@@ -83,9 +84,7 @@ The use of radar vectors is the simplest and most convenient way to position an 
 
 9.6.2.2. At least 3 miles from the FAF at a maximum intercept angle of 30°.
 
-9.6.3. Final Approach Intercept Requirements. At all other times, unless specifically requested by the pilot, aircraft will be vectored to intercept the final approach course at least
-
-3 miles from the FAF at a maximum intercept angle of 30°.
+9.6.3. Final Approach Intercept Requirements. At all other times, unless specifically requested by the pilot, aircraft will be vectored to intercept the final approach course at least 3 miles from the FAF at a maximum intercept angle of 30°.
 
 9.6.4. Vectoring Requirements. In either case, aircraft will be vectored:
 
@@ -105,7 +104,7 @@ The use of radar vectors is the simplest and most convenient way to position an 
 
 9.7.3.1. CAUTION: If at any time there is doubt as to whether adequate obstacle clearance is provided, or controller instructions are unclear, query the controller. The controller should inform you if radar contact is lost and give a new clearance or instructions. If you are advised that radar contact is lost and there is a delay in receiving new instructions, ask the controller for a new clearance or advise the controller of your intentions. This is particularly important if below minimum sector, or emergency safe altitude.
 
-#### 9.8.{#9_8} Standard Terminal Arrivals (STARs) (Figure 9 5).
+#### 9.8.{#9_8} Standard Terminal Arrivals (STARs) (Figure 9.5).
 
 9.8.1. Definition. A STAR is an ATC coded IFR arrival route established for assignment to arriving IFR aircraft for certain airports. The purpose of a STAR is to simplify clearance delivery procedures and facilitate transition between enroute and instrument approach procedures.
 
@@ -119,7 +118,7 @@ The use of radar vectors is the simplest and most convenient way to position an 
 
 9.8.1.1.2.2. Example of Routing with Assigned Altitude. "Fame 22, cleared EAU CLAIRE SIX arrival; descend and maintain flight level two four zero." In this situation, you are cleared via the EAU CLAIRE SIX routing and cleared to descend to FL240.
 
-9.8.1.1.2.3. "DESCEND VIA" Clearances. A "DESCEND VIA" clearance authorizes pilots to vertically and laterally navigate, in accordance with the depicted procedure, to meet published restrictions. Vertical navigation is at pilot's discretion; however, adherence to published altitude crossing restrictions and speeds is mandatory unless otherwise cleared. MEAs are not considered restrictions; however, pilots are expected to remain above MEAs. Pilots cleared for vertical navigation using the phraseology “Descend Via” shall inform ATC upon initial contact with a new frequency. For example, "Track 32, descending via the EAU CLAIRE SIX ARRIVAL."
+9.8.1.1.2.3. "DESCEND VIA" Clearances. A "DESCEND VIA" clearance authorizes pilots to vertically and laterally navigate, in accordance with the depicted procedure, to meet published restrictions. Vertical navigation is at pilot's discretion; however, adherence to published altitude crossing restrictions and speeds is mandatory unless otherwise cleared. MEAs are not considered restrictions; however, pilots are expected to remain above MEAs. Pilots cleared for vertical navigation using the phraseology "Descend Via" shall inform ATC upon initial contact with a new frequency. For example, "Track 32, descending via the EAU CLAIRE SIX ARRIVAL."
 
 9.8.1.1.2.4. Example of "DESCEND VIA" Clearance. "Track 66, Descend Via the EAU CLAIRE SIX arrival." If you receive this "DESCEND VIA" clearance, you are expected to vertically and laterally navigate in accordance with the EAU CLAIRE SIX arrival.
 
@@ -132,6 +131,7 @@ The use of radar vectors is the simplest and most convenient way to position an 
 9.8.1.1.6. Where STARs Are Published. The DoD FLIP STAR book contains many, but not all of the CONUS STARs. Its contents are determined by military requirements.
 
 ##### Figure 9.5. Standard Terminal Arrival (STAR).
+![fig9_5](figs/fig9_5.png)
 
 9.8.1.2. RNAV STARs (Figure 9.6). RNAV STARs can be stand-alone or "overlay". In order to fly a STAR using RNAV (either stand-alone or "overlay"), the pilot must comply with the following:
 
@@ -164,6 +164,7 @@ The use of radar vectors is the simplest and most convenient way to position an 
 9.8.1.2.8. Manually selecting aircraft bank limiting functions may reduce the aircraft's ability to maintain its desired track and are not recommended. Pilots should recognize manually selectable aircraft bank-limiting functions might reduce their ability to satisfy ATC path expectations, especially when executing large angle turns. This should not be construed as a requirement to deviate from Airplane Flight Manual procedures; rather, pilots should limit the selection of such functions within accepted procedures.
 
 ##### Figure 9.6. RNAV STAR.
+![fig9_6](figs/fig9_6.png)
 
 #### 9.9.{#9_9} Flight Management System Procedures (FMSP) for Arrivals.
 

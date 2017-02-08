@@ -1,10 +1,11 @@
-#Chapter 2 INSTRUMENT FLIGHT MANEUVERS
+# Chapter 2: INSTRUMENT FLIGHT MANEUVERS
 
 #### 2.1.{#2_1} Basic Maneuvers.
 
 The procedures described in this section are those most commonly used during instrument flight (Figure 2.1). A high level of proficiency employing these procedures is necessary to avoid the hazards of instrument flight. Additional procedures may be required for specific training requirements or helicopter operations. Refer to applicable sections of your flight manual. (The ability of the helicopter to maneuver in a smaller amount of airspace has led to some differences between fixed-wing and helicopter instrument procedure obstacle clearance criteria. AFMAN 11-226 United States Standard for Terminal Instrument Procedures (TERPS) outlines these differences as they apply to the rotary-wing environment. Except where specifically addressed in this chapter, helicopters should apply normal procedures to flying instrument approaches, departures, and enroute operations.)
 
 ##### Figure 2.1. Typical Instrument Flight.
+![fig2_1](figs/fig2_1.png)
 
 #### 2.2.{#2_2} The Instrument Takeoff (ITO).
 
@@ -29,6 +30,7 @@ The procedures described in this section are those most commonly used during ins
 2.3.1.1.2.1. As a rule of thumb, when making pitch corrections, a VVI one to two times the amount of the altitude deviation will prevent overshoots. (e.g. If you are 100 feet off altitude, set a pitch that will produce a 100 to 200 foot per minute climb or descent on the VVI.) Refer to AFMAN 11-217V3 for a discussion of the 60:1 rule and its use for setting a VVI. Approaching the desired altitude, begin the pitch change to level off approximately 10% of your vertical rate. (e.g. If VVI shows 100 feet per minute, level off 10 feet prior to your altitude. Figure 2.2)
 
 ##### Figure 2.2. Leading the Level Off.
+![fig2_2](figs/fig2_2.png)
 
 2.3.1.2. Maintaining a Desired Heading.
 
@@ -43,6 +45,7 @@ The procedures described in this section are those most commonly used during ins
 2.3.1.3.1.1. An airspeed deviation may be the result of a pitch change, not an incorrect power setting. (See Figure 2.3) Check all other flight parameters when an airspeed deviation occurs. Conversely, if in level flight and a power change is necessary to correct airspeed, the new power setting or the employment of drag devices coupled with a change in airspeed may induce a climb or descent. This relationship between airspeed and aircraft attitude further illustrates the importance of a good instrument crosscheck.
 
 ##### Figure 2.3. Airspeed Deviation.
+![fig2_3](figs/fig2_3.png)
 
 2.3.2. Level Turns. Many of the pitch, bank, and power principles discussed in maintaining straight and level flight apply while performing level turns. Performing a level turn requires an understanding of several factors: how to enter the turn, how to maintain bank, altitude, and airspeed during the turn; and how to return to level flight. A standard rate turn is defined as a rate at which the aircraft will make a 360 degree turn in two minutes (120 seconds).
 
@@ -51,6 +54,7 @@ The procedures described in this section are those most commonly used during ins
 2.3.2.2. To enter a turn, refer to the ADI while applying smooth and coordinated control pressures to establish the desired angle of bank. It will normally be necessary to increase pitch slightly to counteract the loss of vertical lift due to the bank. The increased pitch in prolonged turns will require consistent back pressure on the elevator control. Trimming off the pressure on the elevator will aid in smooth aircraft control and enhance crosscheck capability in the turn. Additionally, to maintain airspeed, an increase in power will be required to counteract the induced drag produced by the elevator inputs. The bank, pitch change and power increase should all be applied smoothly as the aircraft enters the turn to prevent the need for large corrections during the turn.
 
 ##### Figure 2.4. Level Turns.
+![fig2_4](figs/fig2_4.png)
 
 2.3.2.3. To roll out of a turn on a desired heading, calculate a lead point that is, as a guide, approximately one-third the angle of bank used in the turn. (Figure 2.4) When the lead point is reached, simply reverse the bank, pitch, trim and power inputs used to roll into the turn, smoothly and simultaneously. Once on the new heading, check for deviations from straight and level flight and apply corrections as needed.
 
@@ -91,26 +95,31 @@ The procedures described in this section are those most commonly used during ins
 2.4.1.1. The vertical "S"-A maneuver (Figure 2.5). The vertical S-A is a continuous series of rate climbs and descents flown on a constant heading utilizing a vertical velocity compatible with aircraft performance.
 
 ##### Figure 2.5. Vertical "S"- A.
+![fig2_5](figs/fig2_5.png)
 
 2.4.1.2. The vertical "S"- B (Figure 2.6). The vertical "S"-B is the same as the vertical "S"- A except that a constant angle of bank is maintained during the climb and descent. The angle of bank used should be compatible with aircraft performance (usually that required for a normal turn). The turn is established simultaneously with the initial climb or descent.
 
 ##### Figure 2.6. Vertical "S"- B.
+![fig2_6](figs/fig2_6.png)
 
 2.4.1.3. The vertical "S"- C (Figure 2.7). The vertical "S"-C is the same as vertical "S"B, except that the direction of turn is reversed at the beginning of each descent. Enter the vertical "S" - C in the same manner as the vertical "S"- B.
 
 2.4.1.4. Vertical "S"- D. (Figure 2.7). The vertical "S"- D is the same as the vertical "S"- C, except that the direction of turn is reversed simultaneously with each change of vertical direction. Enter the vertical "S"- D in the same manner as the vertical "S"- B or C.
 
 ##### Figure 2.7. Vertical "S"- C and "S"- D.
+![fig2_7](figs/fig2_7.png)
 
 2.4.2. Confidence Maneuvers. Present missions require some aircraft to be flown in all attitudes under instrument conditions. Such aircraft have ADIs capable of indicating these attitudes. Confidence maneuvers are basic aerobatic maneuvers designed to gain confidence in the use of the ADI in extreme pitch and bank attitudes. Mastering these maneuvers will be helpful when recovering from unusual attitudes. The pilot should consult the aircraft flight manual for performance characteristics and limitations before practicing these maneuvers.
 
 2.4.2.1. Wingover (Figure 2.8). Begin the maneuver from straight and level flight. After obtaining the desired airspeed, start a climbing turn in either direction while maintaining the wing tip of the miniature aircraft on the horizon bar until reaching 60° of bank. Allow the nose of the aircraft to start down while continuing to increase the angle of bank, planning to arrive at 90° of bank as the fuselage dot of the miniature aircraft reaches the horizon bar. Begin decreasing the angle of bank as the fuselage dot of the miniature aircraft reaches the horizon bar so that the wing tip of the miniature aircraft reaches the horizon bar as 60° of bank is reached. Maintain the wing tip on the horizon bar while rolling to a wings level attitude. The rate of roll during the recovery should be the same as the rate of roll used during the entry. Control pitch and bank throughout the maneuver by reference to the ADI.
 
 ##### Figure 2.8. Attitude Indications During Wingover.
+![fig2_8](figs/fig2_8.png)
 
 2.4.2.2. Aileron Roll (Figure 2.9). Begin the maneuver from straight and level flight. After obtaining the desired airspeed, smoothly increase the pitch attitude with the wings level 15° to 25° nose up on the ADI. Start a roll in either direction and adjust the rate of roll so that, when inverted, the wings will be level as the fuselage dot of the miniature aircraft passes through the horizon bar. Continue the roll and recover to level flight. The entire maneuver should be accomplished by reference to the ADI. Use sufficient back pressure to maintain normal seat pressures (approximately 1 g) throughout the maneuver.
 
 ##### Figure 2.9. Attitude Indications During Aileron Roll.
+![fig2_9](figs/fig2_9.png)
 
 #### 2.5.{#2_5} Unusual Attitudes.
 
@@ -135,6 +144,7 @@ The procedures described in this section are those most commonly used during ins
 2.5.4. Recognizing an Unusual Attitude is critical to a successful recovery. Normally, an unusual attitude is recognized in one of two ways -- an unusual attitude "picture" on the ADI or unusual performance on the performance instruments. Regardless of how the attitude is recognized, verify that an unusual attitude exists by comparing control and performance instrument indications prior to initiating recovery on the ADI (Figure 2.10). This precludes entering an unusual attitude as a result of correcting for erroneous instrument indications. Additional independent attitude indicating sources (standby ADI, copilot's ADI, etc.) should be used to verify the actual aircraft attitude. If there is any doubt as to proper ADI operation, then recover using ADI inoperative procedures.
 
 ##### Figure 2.10. Verify That an Unusual Attitude Exists.
+![fig2_10](figs/fig2_10.png)
 
 2.5.5. Fixed Wing Recovery Procedures--ADIs Operative. For fixed-wing aircraft, use the following procedures if specific unusual attitude recovery procedures are not in the flight manual.
 

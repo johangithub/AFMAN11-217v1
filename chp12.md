@@ -1,4 +1,4 @@
-# Chapter 12 FINAL APPROACH
+# Chapter 12: FINAL APPROACH
 
 #### 12.1.{#12_1} Final Approach Guidance.
 
@@ -19,24 +19,27 @@ There are several types of final approach guidance. For the purposes of this cha
 12.1.1.3.3. On approaches with no distance reference (i.e. DME), another technique involves making a calculation based on final approach timing. For most aircraft in the USAF inventory, about 10 percent of the HAT in seconds is the approximate amount of time needed to descend from the HAT to the runway on a normal glidepath. Using the numbers in the previous example, 10 percent of the 450 foot HAT would put the VDP 45 seconds prior to the end of the runway. For a final approach that is six miles long and a groundspeed of 180 knots (3 miles per minute), total time from FAF to the runway is 2 minutes. Subtracting 45 seconds from 2 minutes, the VDP would occur 1 minute and 15 seconds past the FAF.
 
 ##### Figure 12.1. Visual Descent Point (VDP).
+![fig12_1](figs/fig12_1.png)
 
 12.1.1.4. The MAP is the point on non-precision approaches where an aircraft will execute a missed approach if the runway environment is not in sight or a safe landing cannot be accomplished. A more detailed description of the MAP and associated procedures is found in Chapter 14. CAUTION: Depending on the location of the MAP, the descent from the MDA (once the runway environment is in sight) will often have to be initiated prior to reaching the MAP in order to execute a normal (approximately 3°) descent to landing. (See previous discussion on VDPs.) On precision approaches there is no MAP. Rather, the pilot executes the missed approach upon reaching the Decision Altitude (DA).
 
 12.1.2. Flying the approach. In general: Avoid rapid descents on final by crossing the FAF at the published altitude. When a turn is required over the FAF, turn immediately and intercept the final approach course to ensure that obstruction clearance airspace is not exceeded. Do not descend to the minimum descent altitude (MDA) or step down fix altitude until past the FAF (if published). Note that when the FAF is the NAVAID for the approach, a course change of up to 30 degrees may be required and the approach still be considered a straight-in approach. The Instrument Procedure Designer (TERPS) accounts for turns and designs the procedure to ensure obstacle clearance with a descent commencing at the FAF. Arrive at the MDA with enough time and distance remaining to identify and descend to the runway environment at a normal rate for your aircraft (i.e. At or prior to the VDP.) To determine the approximate initial descent rate required on final approach by referring to the VVI chart in the IAP books or by using one of the formulas for two of the most common glideslopes:
 
-3° glideslope VVI
 
-=
 
-2½° glideslope VVI =
- Groundspeed x 10
+{% math %}
 
-2 Groundspeed x 10 - 200
+3° \text{ glideslope VVI} = \frac{\text{Groundspeed}\times 10}{2}
+\\
+2½° \text{ glideslope VVI} = \frac{\text{Groundspeed}\times 10-200}{2}
 
-2
- Example: For a final approach groundspeed of 180 knots and a 3° glideslope: VVI = 180 x 10 = 900 fpm
+{% endmath %}
 
-2
+Example: For a final approach groundspeed of 180 knots and a 3° glideslope: 
+
+{% math %}
+\text{VVI} = 180 \times 10 = 900 \text{ fpm}
+{% endmath %}
 
 12.1.2.1. Timing is required when the final approach does not terminate at a published fix. If timing is required to identify the missed approach point, begin timing when passing the FAF or the starting point designated in the timing block of the approach plate. This point is usually the FAF but it may be a fix not co-located with the FAF such as a LOM, NDB, crossing radial, or DME fix. Time and distance tables on the approach chart are based on groundspeed; therefore, the existing wind and TAS must be factored when computing final approach timing.
 
@@ -105,8 +108,10 @@ Defined as approaches that do not require radar vectoring or radar services on f
 12.2.2. MLS. There are two types of MLS approaches: non-computed and computed (Figures 12.2 and 12.3). These approaches may be flown in the automatic mode (preferred) or the manual mode. MLS approaches are assumed to be non-computed unless noted on the approach procedure. Computed MLS approaches will have the following note in the plan view of the approach plate: "COMPUTED APPROACH: FOR USE BY AIRCRAFT CAPABLE OF COMPUTING OFFSET RUNWAY CENTERLINE ONLY." An example of a computed approach is provided in Figure 12.2.
 
 ##### Figure 12.2. Computed MLS Approach.
+![fig12_2](figs/fig12_2.png)
 
 ##### Figure 12.3. Non-Computed MLS Approach at Boise, ID.
+![fig12_3](figs/fig12_3.png)
 
 12.2.2.1. Non-Computed (Figure 12.4). When flying a non-computed MLS approach, the azimuth signal steers your aircraft to the azimuth antenna just as approaches to traditional NAVAIDs such as VOR or TACAN do. Consequently, it is important for you to know where the azimuth antenna is located on the airfield. In the most common MLS installation, the antenna is located along the runway centerline between 1,000 and 1,500 feet from the departure end of the runway. When flying a non-computed approach to this type of installation, your final approach will normally be lined up along the extended runway centerline. Non-computed approaches should be flown using the default settings (AUTO and NON-COMP) of your MLS equipment.
 
@@ -129,6 +134,7 @@ Defined as approaches that do not require radar vectoring or radar services on f
 12.2.2.3.3. WARNING: If operating in manual mode, selecting an azimuth and/or elevation angle different from the published procedure invalidates the approach and obstacle clearance. Follow MAJCOM directives regarding flying MLS approaches in the manual mode.
 
 ##### Figure 12.4. Non-Computed Mode/Computed Mode.
+![fig12_4](figs/fig12_4.png)
 
 12.2.2.4. Tune the MLS as soon as practicable during the transition to final and monitor the MLS identifier during the entire approach. The MLS is identified by a four-letter identifier always beginning with the letter "M." The four-letter ident is transmitted at least six times per minute by the approach azimuth (or back azimuth) ground equipment. Some aircraft installations do not include the audible identification feature; in this case, observing the correct 4-letter identifier on the aircraft's avionics display can identify the MLS.
 
@@ -299,6 +305,7 @@ Pilots operating on an IFR flight plan, when clear of clouds with at least 1-mil
 Some IAPs contain a published visual segment (Figure 12.5). In general, when the distance from the MAP to the end of the runway exceeds 3SM, the words "fly visual " will appear in the profile view of the IAP. A long dashed line in the profile view with an approximate heading and distance to the end of the runway will be depicted. The depicted ground track associated with the visual segment should be flown as "DR" course. When executing the visual segment, remain clear of clouds and proceed to the airport maintaining visual contact with the ground. Since missed approach obstacle clearance is assured only if the missed approach is commenced at the published MAP or above the MDA, the pilot should have preplanned climbout options based on aircraft performance and terrain features.
 
 ##### Figure 12.5. IAP with Visual Segment.
+![fig12_5](figs/fig12_5.png)
 
 #### 12.7.{#12_7} Charted Visual Flight Procedures (CVFPs).
 
@@ -313,8 +320,9 @@ Charted Visual Flight Procedures (CVFPs) are published visual approaches where a
 12.7.4. Climb-outs. CVFPs are not instrument approaches and do not have missed approach segments. Missed approaches are handled as a go-around (IAW FLIP, GP). The pilot should have preplanned climb-out options based on aircraft performance and terrain features.
 
 ##### Figure 12.6. Charted Visual Flight Procedure.
+![fig12_6](figs/fig12_6.png)
 
-#### 12.8.{#12_8} Converging Approaches (Figure 12 7).
+#### 12.8.{#12_8} Converging Approaches (Figure 12.7).
 
 Converging approaches provide procedures for conducting simultaneous precision instrument approaches (normally ILS) to converging runways. Converging runways are defined as runways having a 15° to 100° angle between them. In simpler terms, if the runways are pointed at each other (extended centerlines intersect) they are converging runways and procedures must be established to de-conflict possible simultaneous missed approaches.
 
@@ -327,12 +335,14 @@ Converging approaches provide procedures for conducting simultaneous precision i
 12.8.4. Decision Altitude. Since converging approaches must provide precision approach guidance (normally ILS) the only way to adjust the missed approach point is to increase the decision altitude. Therefore, normally the primary difference between the converging approach and the regular approach to the same runway will be the approach minimums and the missed approach departure instruction. This increase in approach minimums will also result in an increase in the weather minimums required for the approach.
 
 ##### Figure 12.7. Converging ILS Approach.
+![fig12_7](figs/fig12_7.png)
 
-#### 12.9.{#12_9} ILS Precision Runway Monitor (ILS/PRM) Approaches (Figure 12 8).
+#### 12.9.{#12_9} ILS Precision Runway Monitor (ILS/PRM) Approaches (Figure 12.8).
 
 12.9.1. ILS/PRM approaches are authorized at selected airports where parallel runways are separated by less than 4300 feet. Specialized equipment, procedures and training for both air traffic controllers and pilots are required prior to conducting an ILS/PRM approach at these airports. All USAF aircrews must be cognizant of the requirements for operations at these airports when ILS/PRM approaches are in use. ILS/PRM approaches allow for increased arrival operations at airports with closely spaced parallel runways. All pilots flying into these airports must be able to accept a clearance for the ILS/PRM approach when the services are offered or risk extensive delays.
 
 ##### Figure 12.8. ILS/PRM Approach.
+![fig12_8](figs/fig12_8.png)
 
 12.9.2. Simultaneous close parallel ILS/PRM approaches are published on a separate Approach Procedure Chart titled ILS/PRM Rwy XXX (Simultaneous Close Parallel) (Figure 12.9).
 
@@ -377,6 +387,8 @@ Converging approaches provide procedures for conducting simultaneous precision i
 12.9.5.1.5.1. The TCAS provides only vertical resolution of aircraft conflicts, while the ATC breakout instruction provides both vertical and horizontal guidance for conflict resolutions. Should a TCAS RA be received, the pilot should immediately respond to the RA. Adhering to these procedures assures the pilot that acceptable "breakout" separation margins will always be provided, even in the face of a normal procedural or system failure.
 
 ##### Figure 12.9. ILS/PRM Approach with Attention All Users Page.
+![fig12_9_1](figs/fig12_9_1.png)
+![fig12_9_2](figs/fig12_9_2.png)
 
 #### 12.10.{#12_10} Simultaneous Offset Instrument Approaches (SOIA).
 
@@ -387,6 +399,8 @@ Simultaneous Offset Instrument Approaches (SOIA) are procedures used to conduct 
 12.10.2. Final monitor controllers use the Precision Runway Monitor system to ensure prescribed separation standards are met. Procedures and communications phraseology are described in paragraph 12.9 ILS/PRM Approaches. PRM monitoring is provided to the LDA MAP or when the pilot has accepted visual separation responsibility. Final monitor controllers will not notify pilots when radar monitoring is terminated.
 
 ##### Figure 12.10. SOIA Approaches.
+![fig12_10_1](figs/fig12_10_1.png)
+![fig12_10_2](figs/fig12_10_2.png)
 
 #### 12.11.{#12_11} Transponder Landing Systems (TLS).
 

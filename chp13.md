@@ -1,4 +1,4 @@
-# Chapter 13 LANDING FROM INSTRUMENT APPROACHES
+# Chapter 13: LANDING FROM INSTRUMENT APPROACHES
 
 #### 13.1.{#13_1} Planning the Approach and Landing.
 
@@ -41,6 +41,7 @@ The transition from instrument to visual flight conditions varies with each appr
 13.2.4.2.2. Duck-under. Another potential duck-under situation occurs when you attempt to land within the first 500 to 1,000 feet of the runway after breaking out of an overcast condition. In this case, you may attempt to establish a visual profile similar to the one you use most often. Establishing the visual profile usually involves reducing power and changing attitude to aim the aircraft at some spot short of the end of the runway. In this maneuver you may attempt to use as much of the available runway as possible because of a short runway or due to poor braking conditions. The duck-under is not recommended since high sink rates and poor thrust/lift relationships can develop which may cause undershoots or hard landings. Base your landing decision upon the normal touchdown point from the instrument approach, and if stopping distances are insufficient, proceed to an alternate.
 
 ##### Figure 13.1. Downward Vision Angle.
+![fig13_1](figs/fig13_1.png)
 
 13.2.4.3. Downward Vision Angle (Figure 13.1). There is an area hidden by the nose of an aircraft that cannot be seen from the cockpit. The downward vision line from the pilot's eye projected over the nose of the aircraft forms an angle with the horizontal vision line. This angle is called the "downward vision angle." An aircraft with a 14° downward vision angle 100 feet above the surface will conceal about 400 feet beneath its nose. Consider an approach in 1,600-foot visibility. This means your visual segment at 100foot elevation with a 14° downward vision will be reduced to about 1,200 feet. Other factors, such as a nose-high pitch attitude and a slant range visibility less than the RVR, can further reduce your visual segment.
 
@@ -76,13 +77,14 @@ The transition from instrument to visual flight conditions varies with each appr
 
 13.3.3.1.1. Depending upon which approach is flown, the visual glide path indicator may not guide the aircraft to the same point on the runway as the instrument approach being flown. This is depicted on many approach procedures with a note such as, "PAPI and ILS RPI not coincident." This is common at airports with frequent jumbojet operations (C-5, 747, 777, etc). The VGSI at these airports is frequently adjusted to compensate for the greater vertical distance between the ground and the cockpit in these large aircraft. A smaller aircraft (KC-135, C-130, fighter, etc) that follows these VGSI indications to touchdown will touchdown beyond their normal touchdown point.
 
-#### 13.4.{#13_4} Runway Lighting Systems (Figure 13 2).
+#### 13.4.{#13_4} Runway Lighting Systems (Figure 13.2).
 
 Two basic runway lighting systems are used to aid the pilot in defining the usable landing area of the runway. These systems are Runway Edge Lights and Runway Centerline and Touchdown Zone Lights. For discussion of airport markings and signs used during ground operations, see AFI 11-218, Aircraft Operations and Movement on the Ground.
 
 13.4.1. Runway Edge Lighting. The runway edge lighting system is a configuration of lights that defines the limits of the usable landing area. The lateral limits are defined by a row of white lights on either side of the runway. The longitudinal limits are defined at each end by the threshold lighting configuration. This configuration includes threshold lights, a prethreshold light bar, and a terminating bar. The threshold lights emit green light toward the approach end of the runway and red light toward the rollout end of the runway.
 
 ##### Figure 13.2. Runway Lighting Systems.
+![fig13_2](figs/fig13_2.png)
 
 13.4.1.1. HIRL. The High Intensity Runway Lighting (HIRL) system is the basic type of installation used by the Air Force. These elevated bi-directional lights, which extend the length of the runway, emit a white light the entire length of the runway at some military fields. Most military and all civil field HIRLs also emit a white light except in the caution zone, which is the last 2,000 feet (610m) of an instrument runway or one-half the runway length, whichever is less. The lights in the caution zone emit a yellow light in the direction of the approach end and white light in the opposite direction. The yellow lights are intended for rollout information after landing and are sometimes used in place of runway remaining markers.
 
@@ -109,6 +111,7 @@ Runway markings are designed to make the landing area more conspicuous and to ad
 13.6.2.1. NOTE: Obstruction clearance areas are determined by aircraft category. Maneuver the aircraft to remain within the circling area for your aircraft category (see AFMAN 11-217V3 for radii of circling approaches). If it is necessary to maneuver at speeds in excess of the upper limit of the speed range authorized for your aircraft's category, use the landing minima for the category appropriate to the maneuvering speed. When you request circling MDA from the controller for a circling ASR approach, state your aircraft category.
 
 ##### Figure 13.3. The Circling Approach.
+![fig13_3](figs/fig13_3.png)
 
 13.6.3. Accomplishing the Approach (Figure 13.3).
 

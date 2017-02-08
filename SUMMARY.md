@@ -1,6 +1,5 @@
 * [Table of Contents](README.md)
 
-
 ----
 
 * [BASIC INSTRUMENT FLYING](chp1.md)
@@ -10,8 +9,7 @@
 
 ----
 
-* INSTRUMENT FLIGHT MANEUVERS
-
+* [INSTRUMENT FLIGHT MANEUVERS](chp2.md)
 * [2.1. Basic Maneuvers](./chp2.md#2_1)
 * [2.2. The Instrument Takeoff (ITO)](./chp2.md#2_2)
 * [2.3. Individual Maneuvers](./chp2.md#2_3)
@@ -20,7 +18,7 @@
 
 ----
 
-* NAVIGATION INSTRUMENTS
+* [NAVIGATION INSTRUMENTS](chp3.md)
 * [3.1. Application](./chp3.md#3_1)
 * [3.2. Basic Systems](./chp3.md#3_2)
 * [3.3. Flight Director](./chp3.md#3_3)
@@ -29,8 +27,7 @@
 
 ----
 
-* NAVIGATION AIDS
-
+* [NAVIGATION AIDS](chp4.md)
 * [4.1. Precautions](./chp4.md#4_1)
 * [4.2. VHF Omni-Directional Range (VOR)](./chp4.md#4_2)
 * [4.3. Tactical Air Navigation (TACAN)](./chp4.md#4_3)
@@ -47,8 +44,7 @@
 
 ----
 
-* NAVIGATION TECHNIQUES AND PROCEDURES
-
+* [NAVIGATION TECHNIQUES AND PROCEDURES](chp5.md)
 * [5.1. Application](./chp5.md#5_1)
 * [5.2. Homing to a Station](./chp5.md#5_2)
 * [5.3. Proceeding Direct to a Station](./chp5.md#5_3)
@@ -63,8 +59,7 @@
 
 ----
 
-* PLANNING AN INSTRUMENT FLIGHT
-
+* [PLANNING AN INSTRUMENT FLIGHT](chp6.md)
 * [6.1. Preflight Planning](./chp6.md#6_1)
 * [6.2. NOTAMS](./chp6.md#6_2)
 * [6.3. Weather](./chp6.md#6_3)
@@ -78,8 +73,7 @@
 
 ----
 
-* IFR DEPARTURE PROCEDURES
-
+* [IFR DEPARTURE PROCEDURES](chp7.md)
 * [7.1. Introduction](./chp7.md#7_1)
 * [7.2. IFR Departure Philosophy](./chp7.md#7_2)
 * [7.3. Planning an Instrument Departure](./chp7.md#7_3)
@@ -90,8 +84,7 @@
 
 ----
 
-* HOLDING
-
+* [HOLDING](chp8.md)
 * [8.1. Definition](./chp8.md#8_1)
 * [8.2. Holding Instruction](./chp8.md#8_2)
 * [8.3. Holding Pattern Procedures](./chp8.md#8_3)
@@ -103,8 +96,7 @@
 
 ----
 
-* ARRIVAL
-
+* [ARRIVAL](chp9.md)
 * [9.1. En Route Descent Procedure/Technique](./chp9.md#9_1)
 * [9.2. Descent](./chp9.md#9_2)
 * [9.3. Established on Course](./chp9.md#9_3)
@@ -117,8 +109,7 @@
 
 ----
 
-* HIGH ALTITUDE APPROACHES
-
+* [HIGH ALTITUDE APPROACHES](chp10.md)
 * [10.1. Application](./chp10.md#10_1)
 * [10.2. Non-DME Teardrop Approaches](./chp10.md#10_2)
 * [10.3. Radial Approaches](./chp10.md#10_3)
@@ -128,8 +119,7 @@
 
 ----
 
-* LOW ALTITUDE APPROACHES
-
+* [LOW ALTITUDE APPROACHES](chp11.md)
 * [11.1. Introduction](./chp11.md#11_1)
 * [11.2. Overview](./chp11.md#11_2)
 * [11.3. Types of Course Reversals](./chp11.md#11_3)
@@ -144,8 +134,7 @@
 
 ----
 
-* FINAL APPROACH
-
+* [FINAL APPROACH](chp12.md)
 * [12.1. Final Approach Guidance](./chp12.md#12_1)
 * [12.2. Non-radar Approaches](./chp12.md#12_2)
 * [12.3. Radar](./chp12.md#12_3)
@@ -160,7 +149,7 @@
 
 ----
 
-* LANDING FROM INSTRUMENT APPROACHES
+* [LANDING FROM INSTRUMENT APPROACHES](chp13.md)
 * [13.1. Planning the Approach and Landing](./chp13.md#13_1)
 * [13.2. Transitioning From Instrument to Visual Flight Conditions](./chp13.md#13_2)
 * [13.3. Approach Lighting Systems](./chp13.md#13_3)
@@ -171,8 +160,7 @@
 
 ----
 
-* MISSED APPROACH
-
+* [MISSED APPROACH](chp14.md)
 * [14.1. Planning](./chp14.md#14_1)
 * [14.2. Missed Approach Point (MAP)](./chp14.md#14_2)
 * [14.3. Missed Approach/Departure Instructions](./chp14.md#14_3)
@@ -180,7 +168,7 @@
 
 ----
 
-* PROCEDURES INTERNATIONAL CIVIL AVIATION ORGANIZATION (ICAO)
+* [PROCEDURES INTERNATIONAL CIVIL AVIATION ORGANIZATION](chp15.md)
 * [15.1. Introduction](./chp15.md#15_1)
 * [15.2. Definitions](./chp15.md#15_2)
 * [15.3. Departure Procedures](./chp15.md#15_3)
@@ -191,8 +179,10 @@
 
 ----
 
-* CATEGORY II AND III ILS
-
+* [CATEGORY II AND III ILS](chp16.md)
 * [16.1. Category II ILS Approach (Airport, Aircraft, and Aircrew Certification Required)](./chp16.md#16_1)
 * [16.2. Category III ILS (Airport, Aircraft, & Aircrew Certification Required) (Figure 16.2)](./chp16.md#16_2)
+
+----
+
 * [GLOSSARY](./attachment1.md)
