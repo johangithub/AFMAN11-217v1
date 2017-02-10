@@ -20,9 +20,9 @@ The missed approach point for a nonprecision straightin approach is located alon
 
 + 14.2.4.1. Note: For copter only approaches, the missed approach is based on a climb gradient of at least 400 feet per mile; twice the angle used for fixed-wing instrument approach procedures. If a 90 knot (no wind) missed approach is performed, then this climb gradient equates to a 600 foot per minute minimum rate of climb.
 
-14.2.5. Initiation. When the missed approach is initiated prior to the MAP, the pilot shall, unless otherwise cleared by ATC, fly the IAP as specified on the approach plate to the MAP at or above the DA/DH before executing a turning maneuver.
+14.2.5. Initiation. <strong><em>When the missed approach is initiated prior to the MAP, the pilot shall, unless otherwise cleared by ATC, fly the IAP as specified on the approach plate to the MAP at or above the DA/DH before executing a turning maneuver.</em></strong>
 
-14.2.6. Delayed Decision. If on arrival at the MAP or DH/DA (or at any time thereafter) any of the requirements in paragraph 12.1.2.2 are not met, the pilot shall immediately execute the appropriate missed approach procedure, ATC issued climb out instructions or other ATC clearance. Missed approach obstacle clearance is predicated on beginning the missed approach procedure at the MAP from DA/DH and then climbing 200 ft/NM or greater. Initiating a go-around after passing the published MAP may result in loss of obstacle clearance. See 14.2.4.
+14.2.6. Delayed Decision. <strong><em>If on arrival at the MAP or DH/DA (or at any time thereafter) any of the requirements in paragraph 12.1.2.2 are not met, the pilot shall immediately execute the appropriate missed approach procedure, ATC issued climb out instructions or other ATC clearance.</em></strong> Missed approach obstacle clearance is predicated on beginning the missed approach procedure at the MAP from DA/DH and then climbing 200 ft/NM or greater. Initiating a go-around after passing the published MAP may result in loss of obstacle clearance. See 14.2.4.
 
 14.2.7. Radar Approach. When flying a radar approach, missed approach departure instructions will be given if weather reports indicate that any portion of the final approach will be conducted in IFR conditions. At USAF bases where missed approach instructions are published in base flying regulations, controllers may not issue missed approach instructions to locally assigned aircraft.
 
@@ -32,18 +32,18 @@ The missed approach point for a nonprecision straightin approach is located alon
 
 A clearance for an approach includes clearance for the missed approach published on the IAP, unless ATC issues alternate missed approach instructions.
 
-14.3.1. Multiple Approaches. Prior to the FAF, the controller is required to issue appropriate departure instructions to be followed upon completion of approaches that are not to full stop landings. The pilot should tell the controller how the approach will terminate prior to beginning the approach. The controller will state, "After completion of your low approach/touch-and-go/stop-and-go/option, climb and maintain (altitude), turn right/left heading (degrees)." These instructions are often referred to as "climb out instructions" and are designed to return you to the traffic pattern. At locations where ATC radar service is provided, the pilot should conform to radar vectors when provided by ATC in lieu of the published missed approach procedure. Unless otherwise instructed, initiate an immediate climb to the assigned altitude. Delay any turns until past the departure end of the runway, if visible, and 400 feet AGL. If the departure end is not visible, climb on runway heading until 400 feet AGL before beginning your turn. If you are unable to comply with previously issued climb out instructions, comply with the published missed approach procedure and inform ATC immediately. This will ensure ATC is aware of your intentions and can issue alternative instructions if necessary.
+14.3.1. Multiple Approaches. Prior to the FAF, the controller is required to issue appropriate departure instructions to be followed upon completion of approaches that are not to full stop landings. The pilot should tell the controller how the approach will terminate prior to beginning the approach. The controller will state, "After completion of your low approach/touch-and-go/stop-and-go/option, climb and maintain (altitude), turn right/left heading (degrees)." These instructions are often referred to as "climb out instructions" and are designed to return you to the traffic pattern. <strong><em>At locations where ATC radar service is provided, the pilot should conform to radar vectors when provided by ATC in lieu of the published missed approach procedure. Unless otherwise instructed, initiate an immediate climb to the assigned altitude. Delay any turns until past the departure end of the runway, if visible, and 400 feet AGL. If the departure end is not visible, climb on runway heading until 400 feet AGL before beginning your turn. If you are unable to comply with previously issued climb out instructions, comply with the published missed approach procedure and inform ATC immediately.</em></strong> This will ensure ATC is aware of your intentions and can issue alternative instructions if necessary.
 
-+ 14.3.1.1. When practicing instrument approaches under VFR IAW AFI 11-202V3, you are expected to comply with climb out instructions and are NOT automatically cleared for the published missed approach procedure if you cannot comply with the climb out instructions. When practicing instrument approaches under VFR, the pilot must request and receive a specific clearance to execute the published missed approach procedure.
++ 14.3.1.1. When practicing instrument approaches under VFR IAW AFI 11-202V3, you are expected to comply with climb out instructions and are NOT automatically cleared for the published missed approach procedure if you cannot comply with the climb out instructions. <strong><em>When practicing instrument approaches under VFR, the pilot must request and receive a specific clearance to execute the published missed approach procedure.</em></strong>
 
 
-14.3.2. Circling Approaches. Executing climb out instructions in conjunction with a circling approach is more complicated. If upon reaching the missed approach point the airport environment is not in sight, execute the climb out instructions from the missed approach point. If the circling maneuver has begun and the airport environment is visually lost, begin an initial climbing turn toward the landing runway to ensure the aircraft remains within the obstruction clearance area. Continue this turn until established on the climb out instructions.
+14.3.2. Circling Approaches. Executing climb out instructions in conjunction with a circling approach is more complicated. <strong><em>If upon reaching the missed approach point the airport environment is not in sight, execute the climb out instructions from the missed approach point. If the circling maneuver has begun and the airport environment is visually lost, begin an initial climbing turn toward the landing runway to ensure the aircraft remains within the obstruction clearance area. Continue this turn until established on the climb out instructions.</em></strong>
 
 ----
 
 #### 14.4.{#14_4} Actual Missed Approach.
 
-If you have been cleared to land (full stop), ATC expects you to land; therefore, if you have been cleared to land and must subsequently execute a missed approach, the pilot shall notify ATC as soon as possible and execute the published missed approach unless issued alternate climb out instructions.
+If you have been cleared to land (full stop), ATC expects you to land; therefore, <strong><em>if you have been cleared to land and must subsequently execute a missed approach, the pilot shall notify ATC as soon as possible and execute the published missed approach unless issued alternate climb out instructions.</em></strong>
 
 14.4.1. Various Terms. There are various terms in the missed approach departure instruction written on the IAP that have specific meanings with respect to climbing to an altitude, executing a turn for obstruction avoidance and other reasons. Here are some examples:
 
@@ -55,26 +55,26 @@ If you have been cleared to land (full stop), ATC expects you to land; therefore
 
 14.4.2. Accomplishing the Missed Approach.
 
-+ 14.4.2.1. When to do the Missed Approach. The pilot shall perform the missed approach when the missed approach point, decision height (DH), or decision altitude (DA) is reached and any of the 3 following conditions exists:
++ 14.4.2.1. When to do the Missed Approach. <strong><em>The pilot shall perform the missed approach when the missed approach point, decision height (DH), or decision altitude (DA) is reached and any of the 3 following conditions exists:</em></strong>
 
-	+ 14.4.2.1.1. The runway environment is not in sight.
+	+ 14.4.2.1.1. <strong><em>The runway environment is not in sight.</em></strong>
 
-	+ 14.4.2.1.2. You are unable to make a safe landing.
+	+ 14.4.2.1.2. <strong><em>You are unable to make a safe landing.</em></strong>
 
-	+ 14.4.2.1.3. You are directed by the controlling agency.
+	+ 14.4.2.1.3. <strong><em>You are directed by the controlling agency.</em></strong>
 
 + 14.4.2.2. Fly the Aircraft. When you decide to execute the missed approach, fly the aircraft in accordance with the flight manual missed approach procedures.
 
 + 14.4.2.3. Transition. Transition from the approach to the missed approach in a positive manner using precise attitude and power control changes. Establish the missed approach attitude, power setting, and configuration prescribed in the flight manual. Crosscheck the vertical velocity indicator and altimeter for positive climb indications before retracting the gear and wing flaps. Since aircraft control will require almost total attention, you should have the first heading, course, and altitude in mind before reaching the missed approach point.
 
-	+ 14.4.2.3.1. If you decide to execute a missed approach prior to reaching the missed approach point, continue along the IAP routing at or above the DA/DH until reaching the missed approach point. You may climb to the missed approach altitude while following the IAP routing. Do not initiate any turns on the missed approach until reaching the missed approach point. If ATC issues you a vector on the missed approach, consider this your new clearance.
+	+ 14.4.2.3.1. If you decide to execute a missed approach prior to reaching the missed approach point, <strong><em>continue along the IAP routing at or above the DA/DH until reaching the missed approach point.</em></strong> You may climb to the missed approach altitude while following the IAP routing. <strong><em>Do not initiate any turns on the missed approach until reaching the missed approach point.</em></strong> If ATC issues you a vector on the missed approach, consider this your new clearance.
 
-+ 14.4.2.4. Lose Visual Reference. If visual reference is lost while circling to land, the pilot shall follow the missed approach specified for the approach procedure just flown, unless otherwise directed. An initial climbing turn toward the landing runway will ensure that the aircraft remains within the circling obstruction clearance area. Continue to turn until established on the missed approach course (Figure 14.1). An immediate climb must be initiated to ensure climb gradient requirements are met.
++ 14.4.2.4. Lose Visual Reference. <strong><em>If visual reference is lost while circling to land, the pilot shall follow the missed approach specified for the approach procedure just flown, unless otherwise directed.</em></strong> An initial climbing turn toward the landing runway will ensure that the aircraft remains within the circling obstruction clearance area. Continue to turn until established on the missed approach course (Figure 14.1). An immediate climb must be initiated to ensure climb gradient requirements are met.
 
 ##### Figure 14.1. Missed Approach from the Circling Approach.
 ![fig14_1](figs/fig14_1.png)
 
-14.4.3. Climb Gradient. The pilot shall ensure that the aircraft can achieve the published climb gradient. When the gradient is not published, climb at least 200 feet per nautical mile in order to clear obstructions. See AFI 11-202V3, for engine out performance requirements.
+14.4.3. Climb Gradient. <strong><em>The pilot shall ensure that the aircraft can achieve the published climb gradient. When the gradient is not published, climb at least 200 feet per nautical mile in order to clear obstructions. See AFI 11-202V3, for engine out performance requirements.</em></strong>
 
 14.4.4. Request clearance. As soon as practical after initiating the missed approach, advise ATC and request clearance for specific action; that is, to an alternate airport, another approach, or holding. Do not sacrifice aircraft control for the sake of a voice transmission.
 

@@ -11,7 +11,7 @@ The procedures described in this section are those most commonly used during ins
 
 #### 2.2.{#2_2} The Instrument Takeoff (ITO).
 
-2.2.1. The ITO is accomplished by referring to both outside visual references and the flight instruments (composite cross-check). The amount of attention given to each reference will vary depending on the existing weather conditions. ITO procedures and techniques are invaluable aids at night, toward and over water or deserted areas, and during periods of reduced visibility. The pilot shall immediately transition to instrument references any time he or she becomes disoriented or when outside visual references become unreliable.
+2.2.1. The ITO is accomplished by referring to both outside visual references and the flight instruments (composite cross-check). The amount of attention given to each reference will vary depending on the existing weather conditions. ITO procedures and techniques are invaluable aids at night, toward and over water or deserted areas, and during periods of reduced visibility. <strong><em>The pilot shall immediately transition to instrument references any time he or she becomes disoriented or when outside visual references become unreliable.</em></strong>
 
 2.2.2. Before performing an ITO, accomplish a thorough before-takeoff check of all flight and navigation instruments and publications. Select the appropriate navigational aids to be used for the departure and set the navigation instruments and switches as required based on the departure assigned by Air Traffic Control (ATC). Thoroughly review, have available and brief crewmembers on the appropriate emergency return approach procedures.
 
@@ -133,7 +133,7 @@ The procedures described in this section are those most commonly used during ins
 
 2.5.1. Definition. An unusual attitude is an aircraft attitude occurring inadvertently. It may result from one factor or a combination of several factors such as turbulence, channelized attention, instrument failure, inattention, spatial disorientation, lost wingman, or transition from VMC to IMC. In most instances these attitudes are mild enough to recover by reestablishing the proper attitude for the desired flight condition and resuming a normal crosscheck. As a result of extensive tactical maneuvering, the pilot may experience unusual attitudes even in VMC. This may be aggravated by the lack of a definite horizon or by lack of contrast between the sky and ground or water.
 
-+ 2.5.1.1. WARNING: The pilot will immediately transition to instrument references any time he or she becomes disoriented or when outside visual references become unreliable.
++ 2.5.1.1. WARNING: <strong><em>The pilot will immediately transition to instrument references any time he or she becomes disoriented or when outside visual references become unreliable.</em></strong>
 
 + 2.5.1.2. WARNING: NVGs may be distracting during unusual attitude recoveries. Once transition to instruments has occurred, do not rely on outside NVG cues until the aircraft is recovered.
 
@@ -194,6 +194,6 @@ The procedures described in this section are those most commonly used during ins
 
 + 2.5.8.4. Level off. Upon reaching level flight, center the turn needle. The aircraft is level when the altimeter stops. The vertical velocity indicator lag error may cause it not to indicate level until the aircraft passes level flight.
 
-2.5.9. WARNING: Spatial disorientation may become severe during the recovery from unusual attitudes with inoperative ADI's. Extreme attitudes may result in an excessive loss of altitude and possible loss of aircraft control. If a minimum safe altitude for unusual attitude recovery is not in the flight manual, if applicable, the pilot shall decide upon an altitude at which recovery attempts will be discontinued and the aircraft abandoned.
+2.5.9. WARNING: Spatial disorientation may become severe during the recovery from unusual attitudes with inoperative ADI's. Extreme attitudes may result in an excessive loss of altitude and possible loss of aircraft control. <strong><em>If a minimum safe altitude for unusual attitude recovery is not in the flight manual, if applicable, the pilot shall decide upon an altitude at which recovery attempts will be discontinued and the aircraft abandoned.</em></strong>
 
 2.5.10. CAUTION: Due to limited attitude information, recovery from unusual attitudes using a HUD may be difficult or impossible.

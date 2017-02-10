@@ -4,13 +4,13 @@
 
 The ICAO is composed of over 180 member nations and is a part of the United Nations. Unlike the FAA, whose regulations are directive, ICAO is an advisory organization that jointly agrees on procedural criteria. Although the ICAO does not have any enforcement authority, ICAO member nations do undertake an obligation to adopt the annexes and procedures adopted as standard by the ICAO. These are published in a document called Procedures for Air Navigation Services-Aircraft Operations (PANS-OPS), in the Annexes to the Convention, and Standards and Recommended Practices (SARPS). Member nations are required to publish their exceptions to PANS-OPS and SARPS in their individual Aeronautical Information Publication (AIP). Most nations do this and follow the ICAO publication of aeronautical information SARPS in Annex 15. These procedures are intended to be strictly adhered to by flight crews in order to achieve and maintain an acceptable level of safety in flight operations. USAF aircrews will find pertinent information extracted from the AIPs in FLIP AP and the Foreign Clearance Guide (FCG).
 
-15.1.1. The ICAO Convention does contain an exemption for state aircraft. However, there should be a due regard exercised for the safety of navigation of civil aircraft. USAF crews shall comply with guidance in AFI 11-202V3 regarding compliance with ICAO procedures.
+15.1.1. The ICAO Convention does contain an exemption for state aircraft. However, there should be a due regard exercised for the safety of navigation of civil aircraft. <strong><em>USAF crews shall comply with guidance in AFI 11-202V3 regarding compliance with ICAO procedures.</em></strong>
 
 + 15.1.1.1. NOTE: Although an ICAO signatory, the United States uses none of the PANS-OPS procedures. We use the Federal Aviation Regulations for procedural guidance instead as an equivalent to an AIP.
 
 15.1.2. The Continuum of Safety. Even more so than in the United States, international flying requires good judgment on the part of the pilot. The Air Force expects and encourages you to apply it. No book of hard and fast rules could ever hope to cover all the various situations you may encounter everywhere in the world. The global mission of the USAF means that you may well be required to operate in countries without a well developed aviation system, or into airfields where the ICAO rules have been ignored, replaced or poorly applied. The PIC must necessarily be the final judge of what is safe and prudent for any given mission on any given day. A thorough review of all flight planning documents prior to departure is critical.
 
-+ 15.1.2.1. While English is the standard language of aviation, in many parts of the world you will hear native languages being spoken over ATC frequencies. Knowing, and using, standard terms from FLIP GP, AIM, the ICAO nation's AIP, and the Pilot-Controller glossary reduces the chance of misinterpreting a clearance or misunderstanding information from controllers with heavy accents. At all times, and especially when working with ATC controllers whose native language is not English, USAF pilots shall use standard aviation terminology and phraseology. USAF pilots are required to clarify with ATC any clearance that is not completely understood.
++ 15.1.2.1. While English is the standard language of aviation, in many parts of the world you will hear native languages being spoken over ATC frequencies. Knowing, and using, standard terms from FLIP GP, AIM, the ICAO nation's AIP, and the Pilot-Controller glossary reduces the chance of misinterpreting a clearance or misunderstanding information from controllers with heavy accents. At all times, and especially when working with ATC controllers whose native language is not English, <strong><em>USAF pilots shall use standard aviation terminology and phraseology. USAF pilots are required to clarify with ATC any clearance that is not completely understood.</em></strong>
 
 + 15.1.2.2. While most terminology has been standardized between the FAA and ICAO, there are minor differences that should be known to aircrews. Five of the most common verbiage differences include:
 
@@ -38,7 +38,7 @@ The ICAO is composed of over 180 member nations and is a part of the United Nati
 
 15.1.3. Applicability. Procedures described in this chapter apply only in airspace not under FAA control. These procedures are ICAO standard procedures and may be modified by each country (as the U.S. has).
 
-+ 15.1.3.1. When determining whether to apply FAA or ICAO procedures in flying an instrument procedure, the nationality of the air traffic controller or who produced the procedure is not relevant. The geographic location of the aircraft is the determining factor, unless local procedures (detailed in FLIP and/or local directives) are in place. Regardless of the nationality of the air traffic controller and/or the origin of the instrument procedure you are using, if you are flying outside US National Airspace, apply ICAO instrument procedures unless otherwise published.
++ 15.1.3.1. When determining whether to apply FAA or ICAO procedures in flying an instrument procedure, the nationality of the air traffic controller or who produced the procedure is not relevant. The geographic location of the aircraft is the determining factor, unless local procedures (detailed in FLIP and/or local directives) are in place. Regardless of the nationality of the air traffic controller and/or the origin of the instrument procedure you are using, <strong><em>if you are flying outside US National Airspace, apply ICAO instrument procedures unless otherwise published.</em></strong>
 
 + 15.1.3.2. US National Airspace is defined as airspace controlled by the FAA. This airspace is defined geographically as overlying the 50 United States, the District of Columbia, the Commonwealth of Puerto Rico, and the several territories and possessions (ex. Marianas Islands, etc.) of the United States. By Presidential proclamation in December 1988, this airspace also overlies the waters up to 12 miles from the coast.
 
@@ -46,7 +46,7 @@ The ICAO is composed of over 180 member nations and is a part of the United Nati
 
 15.1.4. Finding Current Information and Procedures. Changes to ICAO standard procedures can be numerous and may even vary from airfield to airfield within a country. FLIP Area Planning (AP) generally contains a comprehensive consolidation of procedural requirements, but a thorough review of all applicable preflight planning sources is essential to ensuring compliance with ICAO, host nation, and USAF requirements. Other preflight planning sources include, but are not limited to: NOTAMS, the ASRR, Specific Theatre Information Files (STIF), and MAJCOM/Unit Flight Crew Information File (FCIF).
 
-15.1.5. Terminal IAPs. There are many different kinds of approaches published in the DoD FLIP books for regions outside the United States. You may find approaches designed using U.S. TERPS at overseas bases. You may also find approaches designed under the civil PANS-OPS criteria. Or you may find procedures that use host nation criteria that are different from PANS-OPS. Aircraft executing maneuvers other than those intended by the host nation approach design could exceed the boundaries of the protected airspace or may cause overflight of unauthorized areas. All ICAO procedures must be flown as they are depicted.
+15.1.5. Terminal IAPs. There are many different kinds of approaches published in the DoD FLIP books for regions outside the United States. You may find approaches designed using U.S. TERPS at overseas bases. You may also find approaches designed under the civil PANS-OPS criteria. Or you may find procedures that use host nation criteria that are different from PANS-OPS. Aircraft executing maneuvers other than those intended by the host nation approach design could exceed the boundaries of the protected airspace or may cause overflight of unauthorized areas. <strong><em>All ICAO procedures must be flown as they are depicted.</em></strong>
 
 + 15.1.5.1. NOTE: For procedures designed in accordance with host nation or PANS-OPS criteria, the original foreign procedures may have been modified or edited as a result of the DoD TERPS review, which is conducted before these procedures are published in DoD FLIP.
 
@@ -64,7 +64,7 @@ Here are a few ICAO definitions that differ from those commonly used in the Unit
 
 15.2.4. Bank Angle. Procedures are based on average achieved bank angle of 25 degrees, or the bank angle giving a rate of turn of 3 degrees per second, whichever is less.
 
-15.2.5. Established on Course. Established on course is defined as being within half fullscale deflection for an ILS or VOR/DME and within ± 5° of the required bearing for an NDB. Do not consider yourself "established on course" until you are within these limits. ICAO obstacle clearance surfaces assume that the pilot does not normally deviate from the centerline more than one-half scale deflection after being established on track. Despite the fact that there is a range of "acceptable" variation, make every attempt to fly the aircraft on the course centerline and on the glide path. Allowing a more than half-scale deflection (or a more than half-scale fly-up deflection on glideslope) combined with other system tolerances could place the aircraft near the edge or at the bottom of the protected airspace where loss of protection from obstacles can occur.
+15.2.5. Established on Course. Established on course is defined as being within half fullscale deflection for an ILS or VOR/DME and within ± 5° of the required bearing for an NDB. <strong><em>Do not consider yourself "established on course" until you are within these limits.</em></strong> ICAO obstacle clearance surfaces assume that the pilot does not normally deviate from the centerline more than one-half scale deflection after being established on track. Despite the fact that there is a range of "acceptable" variation, make every attempt to fly the aircraft on the course centerline and on the glide path. Allowing a more than half-scale deflection (or a more than half-scale fly-up deflection on glideslope) combined with other system tolerances could place the aircraft near the edge or at the bottom of the protected airspace where loss of protection from obstacles can occur.
 
 ----
 
@@ -74,7 +74,7 @@ Here are a few ICAO definitions that differ from those commonly used in the Unit
 
 15.3.2. Climb Gradient. ICAO does not apply the FAA 24% ROC formula and has retained the traditional 48 ft/nm (0.8%) ROC for departures. ICAO obstacle clearance during departures is based on a 2.5% gradient obstacle clearance (152 feet/NM) and an increasing 0.8% obstacle clearance (48 feet/NM). This equates to a minimum climb gradient of 3.3% (200 feet/NM). Minimum climb gradients exceeding 3.3% will be specified to an altitude/height after which the 3.3% will be used.
 
-15.3.3. Basic Rules for All Departures. Unless the procedure specifies otherwise, you must climb on runway heading at a minimum of 200 feet/NM (3.3%) until reaching 400 feet above the DER. Continue to climb at a minimum of 200 feet/NM until reaching a safe enroute altitude.
+15.3.3. Basic Rules for All Departures. Unless the procedure specifies otherwise, <strong><em>you must climb on runway heading at a minimum of 200 feet/NM (3.3%) until reaching 400 feet above the DER. Continue to climb at a minimum of 200 feet/NM until reaching a safe enroute altitude.</em></strong>
 
 15.3.4. Omnidirectional Departures. The PANS-OPS "Omnidirectional Departure" is somewhat similar to the FAA's "Diverse Departure." It is a departure procedure without any track guidance provided. There are some very important differences, though, because an Omnidirectional Departure may be published even though obstacles penetrate the 40:1 Obstacle Identification Surface. If this is the case, PANS-OPS gives the departure designer a number of ways to publish departure restrictions. These restrictions may be published singly, or in any combination.
 
@@ -92,7 +92,7 @@ Here are a few ICAO definitions that differ from those commonly used in the Unit
 
 + 15.3.5.2. Turning departures. Where a departure route requires a turn of more than 15°, a turning departure may be constructed. Turns may be specified at an altitude/height, at a fix or at a facility. If an obstacle prohibits turning before the departure end of the runway or prior to reaching an altitude/height, an earliest turning point or a minimum turning altitude/height will be specified. When it is necessary, after a turn, to fly a heading to intercept a specified radial/bearing, the procedure will specify the turning point, the track to be made good and the radial/bearing to be intercepted.
 
-	+ 15.3.5.2.1. Turning departures are designed with maximum speed limits. These maximum speeds may be published by category or by a note. For example, these procedures may be annotated, "Departure limited to CAT C Aircraft" or "Departure turn limited to 220 KIAS maximum." You must comply with the speed limit published on the departure to remain within protected airspace. If you require a higher speed, ATC may approve the higher speed or assign an alternative departure procedure.
+	+ 15.3.5.2.1. Turning departures are designed with maximum speed limits. These maximum speeds may be published by category or by a note. For example, these procedures may be annotated, "Departure limited to CAT C Aircraft" or "Departure turn limited to 220 KIAS maximum." <strong><em>You must comply with the speed limit published on the departure to remain within protected airspace. If you require a higher speed, ATC may approve the higher speed or assign an alternative departure procedure.</em></strong>
 
 	+ 15.3.5.2.2. If the departure is limited to specific aircraft categories, the applicable speeds are found in Table 15.1. 
 
@@ -118,7 +118,7 @@ Here are a few ICAO definitions that differ from those commonly used in the Unit
 
 	+ 15.4.2.1.1. Entry is restricted to a specific direction or sector. To remain within the airspace provided requires strict adherence to the directions and timing specified.
 
-		+ 15.4.2.1.1.1. NOTE: The protected airspace for "reversal procedures" does not permit a racetrack or holding maneuver to be conducted unless so specified. You may not enter an ICAO procedure turn using the "Holding Technique" described in Chapter 11. Instead, refer to the entry procedures below.
+		+ 15.4.2.1.1.1. NOTE: The protected airspace for "reversal procedures" does not permit a racetrack or holding maneuver to be conducted unless so specified. <strong><em>You may not enter an ICAO procedure turn using the "Holding Technique" described in Chapter 11.</em></strong> Instead, refer to the entry procedures below.
 
 	+ 15.4.2.1.2. The 45°/180° Procedure Turn. This procedure starts at a facility or fix and consists of:
 
@@ -146,7 +146,7 @@ Here are a few ICAO definitions that differ from those commonly used in the Unit
 
 	+ 15.4.2.1.4. The Base Turn. This procedure consists of intercepting and maintaining a specified outbound track, timing from the facility or proceeding to a specified fix, followed by a turn to intercept the inbound track.
 
-		+ 15.4.2.1.4.1. NOTE: The base turn procedure is not optional. You may not fly one of the "procedure turns" described above instead of the depicted base turn. More than one track may be depicted depending on aircraft category.
+		+ 15.4.2.1.4.1. NOTE: The base turn procedure is not optional. <strong><em>You may not fly one of the "procedure turns" described above instead of the depicted base turn.</em></strong> More than one track may be depicted depending on aircraft category.
 
 ##### Figure 15.1. 45°/180° Course Reversal.
 ![fig15_1](figs/fig15_1.png)
@@ -161,7 +161,7 @@ Here are a few ICAO definitions that differ from those commonly used in the Unit
 
 	+ 15.4.2.2.1. The 30° Entry Sector. The reason PANS-OPS specifies this entry sector is because, unlike in the U. S., the course reversal protected airspace may not include any airspace except that on the outbound side of the procedure turn fix. In the U.S., protected airspace includes a large "entry zone" surrounding the fix.
 
-	+ 15.4.2.2.2. Unless the procedure specifies particular entry restrictions, the 45°/180°, 80°/260°, and base turn reversal procedures must be entered from a track within ± 30° of the outbound reversal track (Figure 15.5). There is a special rule for base turns: for base turns where the ± 30° entry sector does not include the reciprocal of the inbound track, the entry sector is expanded to include the reciprocal. (Figure 15.6). If the aircraft's arrival track is not within the entry sector:
+	+ 15.4.2.2.2. <strong><em>Unless the procedure specifies particular entry restrictions, the 45°/180°, 80°/260°, and base turn reversal procedures must be entered from a track within ± 30° of the outbound reversal track</em></strong> (Figure 15.5). There is a special rule for base turns: for base turns where the ± 30° entry sector does not include the reciprocal of the inbound track, the entry sector is expanded to include the reciprocal. (Figure 15.6). If the aircraft's arrival track is not within the entry sector:
 
 		+ 15.4.2.2.2.1. Comply with the published entry restrictions or arrival routing; or
 
@@ -188,6 +188,7 @@ Here are a few ICAO definitions that differ from those commonly used in the Unit
 ##### Figure 15.6. Base Turn Entry.
 ![fig15_6](figs/fig15_6.png)
 
++ 
 	+ 15.4.2.2.4. Timing. Begin timing to comply with published times or "remain within" distances when outbound abeam the facility or fix. If the abeam position cannot be determined while in a turn, start timing after completing the turn.
 
 	+ 15.4.2.2.5. Descent. A descent can be depicted at any point along a course reversal. When a descent is depicted at the IAF, start descent when abeam or past the IAF and on a parallel or intercept heading to the depicted outbound track. For descents past the IAF, be established on a segment of the IAP before beginning a descent to the altitude associated with that segment.
@@ -198,17 +199,18 @@ Here are a few ICAO definitions that differ from those commonly used in the Unit
 
 		+ 15.4.2.2.7.1. Fly no faster than the maximum speed for your category in Table 15.2 or the maximum airspeed published on the procedure, whichever is lower;
 
-		+ 15.4.2.2.7.2. Comply with the entry sector requirements of paragraph 15 4.2 (i.e. 30° entry sector);
+		+ 15.4.2.2.7.2. <strong><em>Comply with the entry sector requirements of paragraph 15 4.2 (i.e. 30° entry sector);</em></strong>
 
-		+ 15.4.2.2.7.3. Begin the course reversal at the fix specified in the procedure;
+		+ 15.4.2.2.7.3. <strong><em>Begin the course reversal at the fix specified in the procedure;</em></strong>
 
-		+ 15.4.2.2.7.4. Comply with the bank angle restrictions in paragraph 15 2.4;
+		+ 15.4.2.2.7.4. <strong><em>Comply with the bank angle restrictions in paragraph 15 2.4;</em></strong>
 
-		+ 15.4.2.2.7.5. Begin required timing at the appropriate location;
+		+ 15.4.2.2.7.5. <strong><em>Begin required timing at the appropriate location;</em></strong>
 
-		+ 15.4.2.2.7.6. Apply drift corrections to track the published ground track.
+		+ 15.4.2.2.7.6. <strong><em>Apply drift corrections to track the published ground track.</em></strong>
 
-	+ 15.4.2.2.8. Airspeed Restrictions. Before reaching the IAF, reduce to maneuvering airspeed. Use holding speed if maneuvering speed is not specified for your aircraft.
++ 
+	+ 15.4.2.2.8. A<strong><em>irspeed Restrictions. Before reaching the IAF, reduce to maneuvering airspeed. Use holding speed if maneuvering speed is not specified for your aircraft.</em></strong>
 
 ##### Table 15.2. Maximum Approach Speeds.
 
@@ -220,7 +222,11 @@ Here are a few ICAO definitions that differ from those commonly used in the Unit
 |D|250|
 |E|250| 
 
-		+ 15.4.2.2.8.1. Additional speed restrictions may be charted on individual IAPs and must be complied with. However, the maximum speeds by category, as shown above, will not be exceeded without approval of the appropriate ATC agency.
++ 
+
+	+ 
+
+		+ 15.4.2.2.8.1. Additional speed restrictions may be charted on individual IAPs and must be complied with. <strong><em>However, the maximum speeds by category, as shown above, will not be exceeded without approval of the appropriate ATC agency.</em></strong>
 
 ##### Figure 15.7. Racetrack Procedure.
 ![fig15_7](figs/fig15_7.png)
@@ -237,13 +243,15 @@ Here are a few ICAO definitions that differ from those commonly used in the Unit
 
 		+ 15.4.2.3.1.4. All maneuvering will be done as much as practical on the maneuvering side of the inbound track.
 
-15.4.2.3.1.4.1. NOTE: When necessary due to airspace limitations, entry into the racetrack procedure may be restricted to specified routes. When so restricted, the entry routes will be depicted on the IAP. Racetrack procedures are used where sufficient distance is not available in a straight segment to accommodate the required loss of altitude and when entry into a reversal maneuver is not practical. They may also be specified as alternatives to reversal procedures to increase operational flexibility.
+			+ 15.4.2.3.1.4.1. NOTE: When necessary due to airspace limitations, entry into the racetrack procedure may be restricted to specified routes. When so restricted, the entry routes will be depicted on the IAP. Racetrack procedures are used where sufficient distance is not available in a straight segment to accommodate the required loss of altitude and when entry into a reversal maneuver is not practical. They may also be specified as alternatives to reversal procedures to increase operational flexibility.
+
++ 
 
 	+ 15.4.2.3.2. Shuttle Procedure. A "Shuttle" is a descent or climb conducted in a holding pattern. A shuttle is normally specified where the descent required between the end of the initial approach and the beginning of the final approach exceeds standard ICAO approach design limits.
 
-	+ 15.4.2.3.3. Alternate Procedures: There may be alternate procedures specified to any of the procedures described above. IAPs will contain the appropriate depiction and the words "alternative procedure." Pilots should be prepared to execute either procedure. Prior to accepting clearance for an approach that depicts an alternative procedure, determine which procedure the controlling agency expects.
+	+ 15.4.2.3.3. Alternate Procedures: There may be alternate procedures specified to any of the procedures described above. IAPs will contain the appropriate depiction and the words "alternative procedure." Pilots should be prepared to execute either procedure. <strong><em>Prior to accepting clearance for an approach that depicts an alternative procedure, determine which procedure the controlling agency expects.</em></strong>
 
-	+ 15.4.2.3.4. Circling Procedures. ICAO circling protected airspace is typically larger than US TERPS and the ROC is higher. One important distinction to make is between the terms "runway environment" and "airport environment." While circling using an ICAO-designed procedure, you must maintain visual contact with the runway environment (as defined in paragraph 12.1.2.2) throughout the entire circling maneuver. In the United States, you are only required to maintain visual contact with the airport environment while circling to land, but cannot descend out of the circling MDA until the runway environment is in sight. Use Table 15.3 to determine maximum airspeeds for circling. 
+	+ 15.4.2.3.4. Circling Procedures. ICAO circling protected airspace is typically larger than US TERPS and the ROC is higher. One important distinction to make is between the terms "runway environment" and "airport environment." <strong><em>While circling using an ICAO-designed procedure, you must maintain visual contact with the runway environment (as defined in paragraph 12.1.2.2) throughout the entire circling maneuver.</em></strong> In the United States, you are only required to maintain visual contact with the airport environment while circling to land, but cannot descend out of the circling MDA until the runway environment is in sight. Use Table 15.3 to determine maximum airspeeds for circling. 
 
 ##### Table 15.3. Maximum Airspeeds for Circling Approaches. 
 |APPROACH CATEGORY | MAXIMUM SPEED|
@@ -275,17 +283,17 @@ Here are a few ICAO definitions that differ from those commonly used in the Unit
 
 15.5.1. Bank Angle. Make all turns at a bank angle IAW paragraph 15.2.4. ICAO procedures do not allow correcting for winds by adjusting bank angle. The "triple-drift" technique described in Chapter 8 is a good way to correct for winds without varying your bank angle.
 
-15.5.2. Tracks. All procedures depict tracks. Attempt to maintain the track by allowing for known winds and applying corrections to heading and timing during entry and while flying in the holding pattern.
+15.5.2. Tracks. All procedures depict tracks. <strong><em>Attempt to maintain the track by allowing for known winds and applying corrections to heading and timing during entry and while flying in the holding pattern.</em></strong>
 
 15.5.3. Limiting Radial. When holding away from a NAVAID, where the distance from the holding fix to the NAVAID is short, a limiting radial may be specified. A limiting radial may also be specified where airspace conservation is essential. If you encounter the limiting radial first, initiate a turn onto the radial until you turn inbound. Do not exceed the limiting DME distance, if published.
 
-15.5.4. Holding Entry Procedure. The ICAO holding entry procedure is a mandatory procedure. All timing, distances, and limiting radials must be complied with. Enter the holding pattern based on your heading (±5°) relative to the three entry sectors depicted in Figure 15.9 Upon reaching the holding fix, follow the appropriate procedure for your entry sector:
+15.5.4. Holding Entry Procedure. <strong><em>The ICAO holding entry procedure is a mandatory procedure. All timing, distances, and limiting radials must be complied with. Enter the holding pattern based on your heading (±5°) relative to the three entry sectors depicted in Figure 15.9 Upon reaching the holding fix, follow the appropriate procedure for your entry sector:</em></strong>
 
-+ 15.5.4.1. Sector 1 (Parallel). Turn onto an outbound heading for the appropriate time or distance, and then turn towards the holding side to intercept the inbound track or to return to the fix.
++ 15.5.4.1. <strong><em>Sector 1 (Parallel). Turn onto an outbound heading for the appropriate time or distance, and then turn towards the holding side to intercept the inbound track or to return to the fix.</em></strong>
 
-+ 15.5.4.2. Sector 2 (Offset). Turn to a heading to make good a track making an angle of 30° from the reciprocal of the inbound track on the holding side. Fly outbound for the appropriate period of time described in paragraph 15.4.2.3.1.2, until the appropriate limiting DME is attained, or where a limiting radial (paragraph 15.5.3) is also specified, either until the limiting DME is attained or until the limiting radial is encountered, whichever occurs first, then turn right to intercept the inbound holding track.
++ 15.5.4.2. <strong><em>Sector 2 (Offset). Turn to a heading to make good a track making an angle of 30° from the reciprocal of the inbound track on the holding side. Fly outbound for the appropriate period of time described in paragraph 15.4.2.3.1.2, until the appropriate limiting DME is attained, or where a limiting radial (paragraph 15.5.3) is also specified, either until the limiting DME is attained or until the limiting radial is encountered, whichever occurs first, then turn right to intercept the inbound holding track.</em></strong>
 
-+ 15.5.4.3. Sector 3 (Direct). Turn and follow the holding pattern.
++ 15.5.4.3. <strong><em>Sector 3 (Direct). Turn and follow the holding pattern.</em></strong>
 
 ##### Figure 15.9. ICAO Holding Pattern Entry Sectors.
 ![fig15_9](figs/fig15_9.png)
@@ -315,9 +323,9 @@ There are three different methods of reporting the altimeter measurements and fo
 
 15.6.1. Methods of Reporting Altimeter Settings.
 
-+ 15.6.1.1. QNH Settings. A QNH altimeter setting represents the pressure that would, in theory, exist at sea level at that location by measuring the surface pressure and correcting it to sea level pressure for a standard day. Set the reported QNH when descending through, or operating below, the published MSL Transition Level. With the proper QNH set, the altimeter will indicate your height above MSL. All DOD approach criteria are based upon using QNH altimeter settings. Some also provide QFE altitudes in parenthesis.
++ 15.6.1.1. QNH Settings. A QNH altimeter setting represents the pressure that would, in theory, exist at sea level at that location by measuring the surface pressure and correcting it to sea level pressure for a standard day. <strong><em>Set the reported QNH when descending through, or operating below, the published MSL Transition Level.</em></strong> With the proper QNH set, the altimeter will indicate your height above MSL. All DOD approach criteria are based upon using QNH altimeter settings. Some also provide QFE altitudes in parenthesis.
 
-+ 15.6.1.2. QNE Settings. QNE is used to indicate your height above an imaginary plane called the "standard datum plane," also known as "FL 0". The established altimeter setting at FL 0 is 29.92 inches of Mercury (IN HG), or 1013.2 millibars or hectopascals. Set QNE (29.92) when climbing through, or operating above the Transition Altitude.
++ 15.6.1.2. QNE Settings. QNE is used to indicate your height above an imaginary plane called the "standard datum plane," also known as "FL 0". The established altimeter setting at FL 0 is 29.92 inches of Mercury (IN HG), or 1013.2 millibars or hectopascals. <strong><em>Set QNE (29.92) when climbing through, or operating above the Transition Altitude.</em></strong>
 
 + 15.6.1.3. QFE Settings. QFE is the altimeter setting issued to aircraft to indicate the AGL height above the airport. With the proper QFE set, your altimeter should indicate "0" on the ground. The Royal Air Force and the Royal Navy in the United Kingdom, and in many parts of the Pacific and Eastern Europe commonly use QFE.
 
@@ -343,7 +351,7 @@ There are three different methods of reporting the altimeter measurements and fo
 
 15.6.6. Transition Between Flight Levels and Altitudes. The vertical position of an aircraft at or below transition altitude shall be expressed in altitude (QNH or QFE as appropriate). Vertical position at or above the transition level shall be expressed in terms of flight levels (QNE). When passing through the transition layer, vertical position shall be expressed in terms of flight levels (QNE) when climbing and in terms of altitudes (QNH or QFE as appropriate) when descending. After an approach clearance has been issued and the descent to land is commenced, the vertical positioning of an aircraft above the transition level may be by reference to altitude (QNH or QFE as appropriate) provided that level flight above the transition altitude is not indicated or anticipated. This is intended for turbo jet aircraft where an uninterrupted descent from high altitude is desired and for airfields equipped to reference altitudes throughout the descent.
 
-15.6.7. Altimeter Errors. The allowable altimeter errors at a ground checkpoint in ICAO are different than in the US and vary by airport elevation and atmospheric pressure. Use Tables 15.5, 15.6, and 15.7 to determine allowable altimeter errors. If your aircraft flight manual is more restrictive than the values shown in these tables, comply with the guidance in your aircraft flight manual. 
+15.6.7. Altimeter Errors. The allowable altimeter errors at a ground checkpoint in ICAO are different than in the US and vary by airport elevation and atmospheric pressure. <strong><em>Use Tables 15.5, 15.6, and 15.7 to determine allowable altimeter errors. If your aircraft flight manual is more restrictive than the values shown in these tables, comply with the guidance in your aircraft flight manual.</em></strong> 
 
 ##### Table 15.5. Allowable Altimeter Errors at Ground Checkpoint for Airports Up to 3500 Feet Elevation With Atmospheric Pressure at or Above Standard. 
 
@@ -390,7 +398,7 @@ There are three different methods of reporting the altimeter measurements and fo
 | 14000 Feet |±215 Feet|
 | 15000 Feet |±225 Feet|
 
-15.6.8. Altimeter Use in Flight. Prior to take-off at least one altimeter will be set to the latest QNH/QFE altimeter setting. Set the altimeter to QNE (29.92) climbing through transition altitude. Prior to commencing the initial approach to an airfield, the number of the transition level should be obtained from the appropriate air traffic services unit. Obtain the latest QNH/QFE before descending below the transition level.
+15.6.8. Altimeter Use in Flight. <strong><em>Prior to take-off at least one altimeter will be set to the latest QNH/QFE altimeter setting. Set the altimeter to QNE (29.92) climbing through transition altitude. Prior to commencing the initial approach to an airfield, the number of the transition level should be obtained from the appropriate air traffic services unit. Obtain the latest QNH/QFE before descending below the transition level.</em></strong>
 
 ----
 

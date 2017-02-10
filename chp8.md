@@ -2,15 +2,15 @@
 
 #### 8.1.{#8_1} Definition.
 
-8.1.1. Basic. Holding is maneuvering an aircraft in relation to a navigation fix while awaiting further clearance. The standard no-wind holding pattern is flown by following a specified holding course inbound to the holding fix, making a 180° turn to the right, flying a heading outbound to parallel the holding course, and making another 180° turn to the right to intercept and follow the holding course to the fix (Figure 8.1). The holding pattern is nonstandard when the turns are made to the left. Unless otherwise instructed by ATC, pilots are expected to hold in a standard pattern. The standard no-wind length of the inbound leg of the holding pattern is 1 minute when holding at or below 14,000 feet MSL and 1½ minutes when holding above 14,000 feet MSL. DME holding patterns specify the outbound leg length. If holding at a DME fix without specified outbound leg length, use timing procedures listed above.
+8.1.1. Basic. Holding is maneuvering an aircraft in relation to a navigation fix while awaiting further clearance. The standard no-wind holding pattern is flown by following a specified holding course inbound to the holding fix, making a 180° turn to the right, flying a heading outbound to parallel the holding course, and making another 180° turn to the right to intercept and follow the holding course to the fix (Figure 8.1). The holding pattern is nonstandard when the turns are made to the left. <strong><em>Unless otherwise instructed by ATC, pilots are expected to hold in a standard pattern.</em></strong> The standard no-wind length of the inbound leg of the holding pattern is 1 minute when holding at or below 14,000 feet MSL and 1½ minutes when holding above 14,000 feet MSL. DME holding patterns specify the outbound leg length. If holding at a DME fix without specified outbound leg length, use timing procedures listed above.
 
 ##### Figure 8.1. Holding Pattern.
 ![fig8_1](figs/fig8_1.png)
 
 8.1.2. Course Guidance. Holding patterns have inbound course guidance provided by a VOR, TACAN, NDB, localizer, or RNAV/GPS. While in holding, the localizer signal is the most accurate method of determining aircraft position. However, if a VOR, TACAN or NDB also defines the holding pattern, it's the pilot's option as to which NAVAID to use.
 
-+ 8.1.2.1. NOTE: AFMAN 11-226 (TERPS), states that the use of TACAN station passage as a fix is not acceptable for holding fixes (regardless of altitude) or high altitude initial approach fixes (those IAFs which are at or above FL180). This restriction is driven by the TACAN fix error involved in station passage. Therefore, if the aircraft is TACAN-only equipped, do not hold directly over a TACAN or VORTAC facility or plan to use these facilities as high altitude IAFs. TACAN station passage can be used to identify an IAF below FL180 regardless of whether the approach is published as a Low or High altitude approach.
-
++ 8.1.2.1. NOTE: AFMAN 11-226 (TERPS), states that the use of TACAN station passage as a fix is not acceptable for holding fixes (regardless of altitude) or high altitude initial approach fixes (those IAFs which are at or above FL180). This restriction is driven by the TACAN fix error involved in station passage. <strong><em>Therefore, if the aircraft is TACAN-only equipped, do not hold directly over a TACAN or VORTAC facility or plan to use these facilities as high altitude IAFs. TACAN station passage can be used to identify an IAF below FL180 regardless of whether the approach is published as a Low or High altitude approach.
+</em></strong>
 ----
 
 #### 8.2.{#8_2} Holding Instruction.
@@ -44,9 +44,9 @@
 ##### Figure 8.2. Charted Holding Pattern.
 ![fig8_2](figs/fig8_2.png)
 
-8.2.3. Clearance Limit. ATC should issue holding instructions at least 5 minutes before reaching a clearance limit fix. When an aircraft is 3 minutes or less from a clearance limit and a clearance beyond the fix has not been received, the pilot is expected to start a speed reduction so that the aircraft will cross the fix at or below the maximum holding airspeed. If holding instructions have not been received upon arrival at the fix, hold in accordance with procedures in FLIP. For two-way radio failure holding procedures, refer to the FIH.
+8.2.3. Clearance Limit. ATC should issue holding instructions at least 5 minutes before reaching a clearance limit fix. When an aircraft is 3 minutes or less from a clearance limit and a clearance beyond the fix has not been received, the pilot is expected to start a speed reduction so that <strong><em>the aircraft will cross the fix at or below the maximum holding airspeed. If holding instructions have not been received upon arrival at the fix, hold in accordance with procedures in FLIP. For two-way radio failure holding procedures, refer to the FIH.</em></strong>
 
-8.2.4. Maximum Holding Speeds. Maximum holding airspeeds are defined by TERPS and have nothing to do with the holding speed specified in the aircraft flight manual. Holding speeds in the aircraft flight manual are typically minimum speeds that correspond to a maximum endurance speed. Do not exceed the maximum holding airspeeds listed below. (Table 8.1) ATC may be able to approve holding speeds in excess of these maximums, if aircraft performance considerations require. Adherence to the maximum speeds shown below, or the published maximum holding speed, whichever is lower, will ensure you remain within protected airspace. For ICAO holding airspeeds, refer to Chapter 17.
+8.2.4. Maximum Holding Speeds. Maximum holding airspeeds are defined by TERPS and have nothing to do with the holding speed specified in the aircraft flight manual. Holding speeds in the aircraft flight manual are typically minimum speeds that correspond to a maximum endurance speed. <strong><em>Do not exceed the maximum holding airspeeds listed below.</em></strong> (Table 8.1) ATC may be able to approve holding speeds in excess of these maximums, if aircraft performance considerations require. Adherence to the maximum speeds shown below, or the published maximum holding speed, whichever is lower, will ensure you remain within protected airspace. For ICAO holding airspeeds, refer to Chapter 17.
 
 ##### Table 8.1. Maximum Holding Airspeeds. 
 
@@ -66,7 +66,7 @@
 
 8.3.2. Established in Holding. You are considered established in the holding pattern upon initial passage of the holding fix.
 
-8.3.3. Bank Angle. Unless correcting for known winds, make all turns during entry and while holding at: 3 degrees per second, or 30 degree bank angle, or bank angle commanded by the flight director system, whichever requires the least bank angle. The bank angle on the entry turn may be varied (up to 30 degrees maximum) to obtain the desired displacement in the holding pattern.
+8.3.3. Bank Angle. <strong><em>Unless correcting for known winds, make all turns during entry and while holding at: 3 degrees per second, or 30 degree bank angle, or bank angle commanded by the flight director system, whichever requires the least bank angle. The bank angle on the entry turn may be varied (up to 30 degrees maximum) to obtain the desired displacement in the holding pattern.</em></strong>
 
 8.3.4. Entry Turns. There are a number of techniques to enter holding which should keep you within holding airspace. Although any technique may be used to enter holding, using the commonly accepted ones described below will keep you within holding airspace and insure your actions are predictable to the air traffic controller. Therefore, it is recommended that you use one of the described techniques.
 
@@ -92,15 +92,15 @@
 ##### Figure 8.4. AIM Method.
 ![fig8_4](figs/fig8_4.png)
 
-8.3.5. Timing. The maximum inbound leg time is 1 minute at or below 14,000 feet MSL and 1½ minutes above 14,000 feet MSL. On the initial outbound leg do not exceed the appropriate time for the altitude. Adjust subsequent outbound legs as necessary to meet the required inbound time. When a specific DME or RNAV distance is specified, commence the inbound turn at that distance. ATC expects pilots to fly the complete holding pattern as published. Therefore, do not shorten the holding pattern without clearance from ATC.
+8.3.5. Timing. <strong><em>The maximum inbound leg time is 1 minute at or below 14,000 feet MSL and 1½ minutes above 14,000 feet MSL. On the initial outbound leg do not exceed the appropriate time for the altitude. Adjust subsequent outbound legs as necessary to meet the required inbound time. When a specific DME or RNAV distance is specified, commence the inbound turn at that distance. ATC expects pilots to fly the complete holding pattern as published. Therefore, do not shorten the holding pattern without clearance from ATC.</em></strong>
 
-+ 8.3.5.1. Outbound. Begin outbound timing when over or abeam the fix. If you cannot determine the abeam position, start timing when wings level outbound.
++ 8.3.5.1. Outbound. <strong><em>Begin outbound timing when over or abeam the fix. If you cannot determine the abeam position, start timing when wings level outbound.</em></strong>
 
-+ 8.3.5.2. Inbound. Begin inbound timing when wings level inbound.
++ 8.3.5.2. Inbound. <strong><em>Begin inbound timing when wings level inbound.</em></strong>
 
-+ 8.3.5.3. TACAN/DME/RNAV. For TACAN, charted DME holding, or RNAV holding; start turns at the specified DME limit or RNAV distance.
++ 8.3.5.3. TACAN/DME/RNAV. <strong><em>For TACAN, charted DME holding, or RNAV holding; start turns at the specified DME limit or RNAV distance.</em></strong>
 
-+ 8.3.5.4. Timed Approaches. When pilots receive a clearance specifying the time to depart a holding pattern, adjust the pattern within the limits of the established holding procedure so as to depart at the time specified.
++ 8.3.5.4. Timed Approaches. <strong><em>When pilots receive a clearance specifying the time to depart a holding pattern, adjust the pattern within the limits of the established holding procedure so as to depart at the time specified.</em></strong>
 
 ----
 

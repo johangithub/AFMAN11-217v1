@@ -4,13 +4,13 @@
 
 Various types of navigation aids are in use today, each serving a special purpose. Although operating principles and cockpit displays will vary among navigation systems, there are several precautionary actions that must be taken to prevent in-flight use of erroneous navigation signals:
 
-4.1.1. Identification. The pilot will check the identification of any navigation aid and monitor it during flight IAW Chapter 7 of this manual.
+4.1.1. Identification. <strong><em>The pilot will check the identification of any navigation aid and monitor it during flight IAW Chapter 7 of this manual.</em></strong>
 
 4.1.2. Crosscheck Information. Use all suitable navigation equipment aboard the aircraft and crosscheck heading and bearing information.
 
 4.1.3. Estimated Time of Arrival. Never overfly an estimated time of arrival (ETA) without a careful crosscheck of navigation aids and ground checkpoints.
 
-4.1.4. Notices to Airmen. The pilot will check notices to airmen (NOTAM) and flight information publication (FLIP) before flight for possible malfunctions or limitations to navigation aids.
+4.1.4. Notices to Airmen. <strong><em>The pilot will check notices to airmen (NOTAM) and flight information publication (FLIP) before flight for possible malfunctions or limitations to navigation aids.</em></strong>
 
 4.1.5. Suspect Navigation Aid. Discontinue use of any suspect navigation aid and confirm aircraft position with radar (ground or airborne) or other equipment. Advise ATC of any problems receiving NAVAIDs. The problem may be the ground station and not the aircraft equipment.
 
@@ -48,7 +48,7 @@ The theoretical and technical principles of operation of ILS equipment are discu
 
 4.6.2. ILS System on Each End of Runway. Some locations have a complete ILS system installed on opposite ends of a runway. Such ILS systems should not be operating simultaneously. In most cases, each ILS will have its own frequency. Sometimes the frequency for both runways will be the same, however each runway will have its own unique Morse code identifier.
 
-+ 4.6.2.1. WARNING: The pilot shall listen to the Morse code identifier or monitor the alphanumeric display IAW Chapter 7, especially when flying an ILS where the same frequency is used for two runways. If both ILSs are inadvertently left on, or the incorrect ILS is turned on, it is possible to receive back course and false glide slope indications.
++ 4.6.2.1. WARNING: <strong><em>The pilot shall listen to the Morse code identifier or monitor the alphanumeric display IAW Chapter 7, especially when flying an ILS where the same frequency is used for two runways.</em></strong> If both ILSs are inadvertently left on, or the incorrect ILS is turned on, it is possible to receive back course and false glide slope indications.
 
 4.6.3. False Course Indications. False course indications may be received when the aircraft is not within the depicted area of coverage. Therefore, localizer course information received outside the area depicted in Figure 4.2 should be considered invalid unless the procedure is published otherwise (for example, localizer type directional aid or back course localizer). There is also a remote chance electromagnetic interference may cause false course indications within the depicted area of coverage. For these reasons, it is essential to confirm the localizer on course indication by reference to aircraft heading and any other available navigation aids, such as an ADF bearing pointer, before commencing final descent. Any abnormal indications experienced within 35 degrees of the published front course or back course centerline of an ILS localizer should be reported immediately to the appropriate ATC facility.
 
@@ -110,7 +110,7 @@ The SDF provides a final approach course that is similar to that of the ILS loca
 
 4.11.5. Disturbances. Radio beacons are subject to disturbances that may result in erroneous bearing information. Such disturbances result from intermittent or unpredictable signal propagation due to such factors as lightning, precipitation, static, etc. At night, radio beacons are vulnerable to interference from distant stations. Nearly all disturbances that affect the ADF bearing also affect the facility's identification. Noisy identification usually occurs when the ADF needle is erratic. Voice, music, or erroneous identification will usually be heard when a steady false bearing is being displayed.
 
-+ 4.11.5.1. WARNING: Since ADF receivers do not have a "flag" to warn the pilot when erroneous bearing information is being displayed, the pilot must continuously monitor the NDBs identification.
++ 4.11.5.1. WARNING: <strong><em>Since ADF receivers do not have a "flag" to warn the pilot when erroneous bearing information is being displayed, the pilot must continuously monitor the NDBs identification.</em></strong>
 
 ----
 

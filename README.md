@@ -16,7 +16,9 @@ See typos or Issues? Create Issues [here](https://github.com/johangithub/AFMAN11
 
 TODO: 
 
-- [ ] Add bold/italics that match the document
+- [ ] Add crosslink to figures, sections, paragraphs
+
+- [X] Add bold/italics that match the document
 
 - [ ] Fix Sidebar navigation and pagination. (Gitbook devs are investigating [this](https://github.com/GitbookIO/feedback/issues/187))
 

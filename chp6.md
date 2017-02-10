@@ -22,7 +22,7 @@ NOTAM is defined in AFJMAN 11-208, DoD Notice to Airmen (NOTAM) System, as an un
 
 Aircrew can obtain departure, enroute and arrival weather information from a number of sources. For authorized weather sources, see FLIP IFG. At military airfields, the normal source is the DD 175-1 filled out and briefed by a military weather briefer from one of the regional Operational Weather Squadrons. At civil fields, aircrew may obtain weather by contacting the Operational Weather Squadron serving the area, or a FSS and getting a weather brief over the phone by calling 1 800 WX-BRIEF.
 
-6.3.1. Cold Weather Altimeter Corrections. Pressure altimeters are calibrated to indicate true altitude under International Standard Atmospheric (ISA) conditions. Any deviation from these standard conditions will result in an erroneous reading on the altimeter. This error becomes important when considering obstacle clearances in temperatures lower than standard since the aircraft's altitude is below the figure indicated by the altimeter. The error is proportional to the difference between actual and ISA temperature and the height of the aircraft above the altimeter setting source. The amount of error is approximately 4 feet per thousand feet for each degree Celsius of difference. Corrections will only be made for DAs, MDAs, and other altitudes inside, but not including, the FAF. The same correction made to DAs and MDAs can be applied to other altitudes inside the FAF. For the current cold weather altimeter correction procedure, you must refer to the Flight Information Handbook (FIH). The following guidance is provided as an example of how to accomplish the procedure found in the FIH.
+6.3.1. Cold Weather Altimeter Corrections. Pressure altimeters are calibrated to indicate true altitude under International Standard Atmospheric (ISA) conditions. Any deviation from these standard conditions will result in an erroneous reading on the altimeter. This error becomes important when considering obstacle clearances in temperatures lower than standard since the aircraft's altitude is below the figure indicated by the altimeter. The error is proportional to the difference between actual and ISA temperature and the height of the aircraft above the altimeter setting source. The amount of error is approximately 4 feet per thousand feet for each degree Celsius of difference. Corrections will only be made for DAs, MDAs, and other altitudes inside, but not including, the FAF. The same correction made to DAs and MDAs can be applied to other altitudes inside the FAF. <strong><em>For the current cold weather altimeter correction procedure, you must refer to the Flight Information Handbook (FIH).</em></strong> The following guidance is provided as an example of how to accomplish the procedure found in the FIH.
 
 + 6.3.1.1. To ensure adequate obstacle clearance the values derived from the chart below will be:
 
@@ -65,28 +65,29 @@ Preflight planning of the enroute portion should be adequate to enseure safe and
 
 + 6.4.7.2. Normally, navigation north of 70°North latitude or south of 60°South latitude is conducted with reference to true north or grid north. Specific procedures vary greatly depending on aircraft type, avionics capabilities, and crew complement. Unless otherwise annotated, where there is a reference to true north, the text also applies in southern latitudes and applies to navigation with reference to grid north/south.
 
-	+ 6.4.7.2.1. There are areas officially designated Areas of Magnetic Unreliability (AMU). Aircraft capable of displaying only magnetic heading are prohibited from operating in designated AMUs. For areas north of 70°North and south of 60° South that are not officially designated as AMUs, MAJCOMs will determine the highest allowable latitude for aircraftcapable of displaying only magnetic heading (Figure 6.2).
+	+ 6.4.7.2.1. There are areas officially designated Areas of Magnetic Unreliability (AMU). <strong><em>Aircraft capable of displaying only magnetic heading are prohibited from operating in designated AMUs.</em></strong> For areas north of 70°North and south of 60° South that are not officially designated as AMUs, MAJCOMs will determine the highest allowable latitude for aircraft capable of displaying only magnetic heading (Figure 6.2).
 
 		+ 6.4.7.2.1.1. NOTE: Although partly south of 70° North, the entire Canadian Northern and Arctic Control Areas and areas of Northern Domestic Airspace are designated as AMUs.
 
-	+ 6.4.7.2.2. MAJCOMs must provide aircraft-specific operational approval prior to enroute and terminal area operations using navigation aids oriented to true or grid. Operational approval shall be based on development of aircraft specific procedures and training. As a minimum, procedures and training should address: identification of areas where reference to true or grid north is required, procedures for displaying true or grid heading reference, procedures for verifying magnetic variation information from the aircraft navigation computer, procedures for inputting manual magnetic variation information, procedures for returning to automatic magnetic variation computation, minimum equipment requirements, and emergency procedures in the event of true or grid navigation equipment failure while operating in the AMU.
+	+ 6.4.7.2.2. <strong><em>MAJCOMs must provide aircraft-specific operational approval prior to enroute and terminal area operations using navigation aids oriented to true or grid.</em></strong> Operational approval shall be based on development of aircraft specific procedures and training. As a minimum, procedures and training should address: identification of areas where reference to true or grid north is required, procedures for displaying true or grid heading reference, procedures for verifying magnetic variation information from the aircraft navigation computer, procedures for inputting manual magnetic variation information, procedures for returning to automatic magnetic variation computation, minimum equipment requirements, and emergency procedures in the event of true or grid navigation equipment failure while operating in the AMU.
 
-+ 6.4.7.3. Aircraft navigation displays must be set to display true north prior to flying true headings or courses. Suitably equipped aircraft may also use grid reference if applicable.
++ 6.4.7.3. <strong><em>Aircraft navigation displays must be set to display true north prior to flying true headings or courses. Suitably equipped aircraft may also use grid reference if applicable.</em></strong>
 
-+ 6.4.7.4. Outside of designated AMUs, aircraft unable to display true or grid heading may use navigation aids oriented to true north for enroute navigation provided procedures listed below are followed.
++ 6.4.7.4. <strong><em>Outside of designated AMUs, aircraft unable to display true or grid heading may use navigation aids oriented to true north for enroute navigation provided procedures listed below are followed.</em></strong>
 
 ##### Figure 6.2. Canadian Northern Control Area Boundaries (Areas South of 70°N Where True Tracks
 ![fig6_2](figs/fig6_2.png)
 
-	+ 6.4.7.4.1. Enroute navigation using approved RNAV equipment backed up by display of VOR/TAC/NDB data is recommended. Depending on system architecture, aircraft navigation computers (flight management systems) automatically provide magnetic variation information. Accuracy of this magnetic variation depends on the period of time since the last magnetic variation update. Some systems contain magnetic variation information that cannot be updated. Also, some navigation systems provide magnetic variation information for only a limited portion of the globe. Thus, when true or grid heading information cannot be displayed, aircraft magnetic variation information must be verified with current aeronautical charts prior to use of RNAV equipment to fly true or grid courses. For navigation using FMS or other RNAV system, procedures and system limitations vary widely among aircraft and avionics installations. Consult your aircraft flight manual and MAJCOM directives for specific FMS and RNAV procedures for navigation where reference to true or grid north is required.
++ 
+	+ 6.4.7.4.1. Enroute navigation using approved RNAV equipment backed up by display of VOR/TAC/NDB data is recommended. Depending on system architecture, aircraft navigation computers (flight management systems) automatically provide magnetic variation information. Accuracy of this magnetic variation depends on the period of time since the last magnetic variation update. Some systems contain magnetic variation information that cannot be updated. Also, some navigation systems provide magnetic variation information for only a limited portion of the globe. Thus, when true or grid heading information cannot be displayed, aircraft magnetic variation information must be verified with current aeronautical charts prior to use of RNAV equipment to fly true or grid courses. For navigation using FMS or other RNAV system, procedures and system limitations vary widely among aircraft and avionics installations. <strong><em>Consult your aircraft flight manual and MAJCOM directives for specific FMS and RNAV procedures for navigation where reference to true or grid north is required.</em></strong>
 
 + 6.4.7.5. For navigation using VOR or TACAN, if the NAVAID is oriented to true north, use the following procedures for enroute navigation:
 
 	+ 6.4.7.5.1. NOTE: Only VORs and TACANs can be oriented to true north. NDBs cannot be oriented to true north. ADF needles always display relative bearing to the station.
 
-	+ 6.4.7.5.2. If your aircraft allows selection of true north as a heading reference, select true north. No additional corrections are required for courses or headings.
+	+ 6.4.7.5.2. <strong><em>If your aircraft allows selection of true north as a heading reference, select true north.</em></strong> No additional corrections are required for courses or headings.
 
-	+ 6.4.7.5.3. If your aircraft does not allow selection of true north as a heading reference, use the following procedures:
+	+ 6.4.7.5.3. <strong><em>If your aircraft does not allow selection of true north as a heading reference, use the following procedures:</em></strong>
 
 		+ 6.4.7.5.3.1. VOR and TACAN courses do not require correction for magnetic variation.
 
@@ -98,9 +99,9 @@ Preflight planning of the enroute portion should be adequate to enseure safe and
 
 	+ 6.4.7.6.1. NOTE: Only VORs and TACANs can be oriented to true north. NDBs cannot be oriented to true north. ADF needles always display relative bearing to the station.
 
-	+ 6.4.7.6.2. If your aircraft allows selection of true north as a heading reference, select true north. No additional corrections are required for relative bearings.
+	+ 6.4.7.6.2. <strong><em>If your aircraft allows selection of true north as a heading reference, select true north. No additional corrections are required for relative bearings.</em></strong>
 
-	+ 6.4.7.6.3. If your aircraft does not allow selection of true north as a heading reference, all relative bearings require correction for magnetic variation.
+	+ 6.4.7.6.3. <strong><em>If your aircraft does not allow selection of true north as a heading reference, all relative bearings require correction for magnetic variation.</em></strong>
 
 		+ 6.4.7.6.3.1. Crews should compute and fly the appropriate magnetic course by correcting the desired true course for the magnetic variation at the current aircraft location. Use the magnetic variation at your current location. This correction should be updated at least every 5° of magnetic variation or every 30 nm, whichever occurs first.
 
@@ -108,11 +109,11 @@ Preflight planning of the enroute portion should be adequate to enseure safe and
 
 + 6.4.8.1. Altitude Clearances. Ensure altitude clearances received en route do not conflict with minimum en route altitudes (MEA), minimum obstruction clearance altitudes (MOCA), minimum reception altitudes (MRA), or minimum crossing altitudes (MCA) shown on en route charts.
 
-+ 6.4.8.2. Controlled Airspace. In controlled airspace, the air traffic controller will assign altitudes that provide obstacle clearance. You should use all available navigation aids to remain position-oriented and immediately query the controller if there is any uncertainty of the obstacle clearance provided by the assigned altitude. When flying via published routing (a route with minimum altitudes depicted), compliance with the minimum altitude published on the routing ensures obstacle clearance. If a published minimum altitude is not available, aircrews must determine minimum altitudes in accordance with AFI 11202V3.
++ 6.4.8.2. Controlled Airspace. In controlled airspace, the air traffic controller will assign altitudes that provide obstacle clearance. You should use all available navigation aids to remain position-oriented and immediately query the controller if there is any uncertainty of the obstacle clearance provided by the assigned altitude. When flying via published routing (a route with minimum altitudes depicted), compliance with the minimum altitude published on the routing ensures obstacle clearance. <strong><em>If a published minimum altitude is not available, aircrews must determine minimum altitudes in accordance with AFI 11202V3.</em></strong>
 
-+ 6.4.8.3. Uncontrolled Airspace. In uncontrolled airspace, you must ensure the altitudes flown will provide obstacle clearance during all phases of flight.
++ 6.4.8.3. Uncontrolled Airspace. <strong><em>In uncontrolled airspace, you must ensure the altitudes flown will provide obstacle clearance during all phases of flight.</em></strong>
 
-+ 6.4.8.4. Radio Failure. In case of radio failure, you are responsible for minimum altitude selection. Comply with published radio failure procedures in the FIH.
++ 6.4.8.4. Radio Failure. In case of radio failure, you are responsible for minimum altitude selection. <strong><em>Comply with published radio failure procedures in the FIH.</em></strong>
 
 ----
 
@@ -122,7 +123,7 @@ Preparation for flying an instrument approach begins with a study of the approac
 
 6.5.1. Aircraft Categories and Instrument Approach Procedures Selection.
 
-+ 6.5.1.1. Category. Aircraft approach category is based on 1.3 times the stalling speed in the landing configuration at maximum certificated gross landing weight. An aircraft can fly an IAP only for its own category or higher, unless otherwise authorized by AF Instruction or MAJCOM directives. If it is necessary to maneuver at speeds in excess of the upper limit of a speed range for a category, the minimums for the next higher category should be used. The categories are as follows:
++ 6.5.1.1. Category. Aircraft approach category is based on 1.3 times the stalling speed in the landing configuration at maximum certificated gross landing weight. <strong><em>An aircraft can fly an IAP only for its own category or higher, unless otherwise authorized by AF Instruction or MAJCOM directives.</em></strong> If it is necessary to maneuver at speeds in excess of the upper limit of a speed range for a category, the minimums for the next higher category should be used. The categories are as follows:
 
 	+ 6.5.1.1.1. Category A - Speed less than 91 knots.
 
@@ -136,11 +137,11 @@ Preparation for flying an instrument approach begins with a study of the approac
 
 		+ 6.5.1.1.5.1. NOTE: If MAJCOMs allow aircraft to fly an IAP using a lower category, the MAJCOM must publish procedures to ensure that aircraft do not exceed TERPS airspace for the IAP being flown to include circling and missed approach.
 
-+ 6.5.1.2. IAP chart. A current copy of the appropriate IAP chart must be available in the aircraft for the departure base, destination, and all planned alternates.
++ 6.5.1.2. IAP chart. <strong><em>A current copy of the appropriate IAP chart must be available in the aircraft for the departure base, destination, and all planned alternates.</em></strong>
 
 	+ 6.5.1.2.1. Approved sources for IAP charts used in aircraft include printed FLIP distributed by NGA, National Aeronautical Charting Office (NACO), or other source authorized by your MAJCOM (for example, Jeppesen).
 
-		+ 6.5.1.2.1.1. Do not print an IAP from DAFIF and then fly that digital version. Until the DAFIF is certified for terminal IFR use in your weapon system, always use the IAP distributed electronically or via printed FLIP.
+		+ 6.5.1.2.1.1. <strong><em>Do not print an IAP from DAFIF and then fly that digital version.</em></strong> Until the DAFIF is certified for terminal IFR use in your weapon system, always use the IAP distributed electronically or via printed FLIP.
 
 		+ 6.5.1.2.1.2. IAPs downloaded from the NGA website in PDF format are identical to those in the printed NGA approach books. Effective dates are printed on the bottom of each downloaded page. The responsibility for ensuring the current version of an IAP is onboard lies with the pilot.
 
@@ -148,7 +149,7 @@ Preparation for flying an instrument approach begins with a study of the approac
 
 		+ 6.5.1.2.1.3. If you print an IAP from the JEPPVIEW CD distributed by Jeppesen (or another equivalent commercial product), ensure the CD is current and you are a licensed user of that CD. If you do not know the license arrangement with Jeppesen (or other commercial vendor), do not use the IAP. The vendors and USAF take copyright violations very seriously. It is the responsibility of each pilot to ensure not only currency of IAPs prior to use, but also compliance with copyright and licensing agreements. These agreements may vary from Wing to Wing.
 
-		+ 6.5.1.2.1.4. Do not fly non-US Government IAPs unless properly trained and the procedure(s) are approved by your MAJCOM TERPS. (TERPS will not provide a review on non-US government instrument procedures if a DoD (NGA) or FAA (NACO) product for the same procedure exists.)
+		+ 6.5.1.2.1.4. <strong><em>Do not fly non-US Government IAPs unless properly trained and the procedure(s) are approved by your MAJCOM TERPS.</em></strong> (TERPS will not provide a review on non-US government instrument procedures if a DoD (NGA) or FAA (NACO) product for the same procedure exists.)
 
 	+ 6.5.1.2.2. Low altitude IAP charts normally depict instrument approaches for categories A, B, C, and D aircraft. High altitude IAP charts depict instrument approaches for category C, D, and E aircraft. When an operational requirement exists, the low altitude IAP charts may depict category E procedures.
 
@@ -156,9 +157,9 @@ Preparation for flying an instrument approach begins with a study of the approac
 
 		+ 6.5.1.2.2.2. NOTE: Consult the Terminal Change Notice (TCN) to ensure the approach selected is current.
 
-+ 6.5.1.3. Navigation Equipment Compatibility. Ensure the approach you select is compatible with the navigation equipment installed and operating on your aircraft, including the missed approach instructions.
++ 6.5.1.3. Navigation Equipment Compatibility. <strong><em>Ensure the approach you select is compatible with the navigation equipment installed and operating on your aircraft, including the missed approach instructions.</em></strong>
 
-	+ 6.5.1.3.1. Exception: If there is a requirement to execute an approach procedure with incompatible missed approach instructions, ATC may be able to issue alternate missed approach instructions. Request alternate missed approach instructions prior to accepting approach clearance.
+	+ 6.5.1.3.1. <strong><em>Exception: If there is a requirement to execute an approach procedure with incompatible missed approach instructions, ATC may be able to issue alternate missed approach instructions. Request alternate missed approach instructions prior to accepting approach clearance.</em></strong>
 
 		+ 6.5.1.3.1.1. NOTE: This requirement for alternate missed approach instructions does not preclude practice approaches if the field is VFR according to AFI 11202V3.
 
@@ -194,7 +195,7 @@ Preparation for flying an instrument approach begins with a study of the approac
 
 		+ 6.5.2.1.1.1. NOTE: At airfields with true or grid approaches, the runway direction number will also be based on reference to true or grid, as appropriate.
 
-	+ 6.5.2.1.2. USAF aircrews are authorized to fly true or grid approaches in accordance with their aircraft flight manuals and MAJCOM directives.
+	+ 6.5.2.1.2. <strong><em>USAF aircrews are authorized to fly true or grid approaches in accordance with their aircraft flight manuals and MAJCOM directives.</em></strong>
 
 	+ 6.5.2.1.3. Except as noted below, aircraft must possess a true or grid heading source, and be able to display true or grid heading on appropriate navigation displays in order to fly terminal area true or grid instrument procedures in night or IMC.
 
@@ -214,15 +215,15 @@ Preparation for flying an instrument approach begins with a study of the approac
 
 		+ 6.5.2.1.5.5. Select the published true final approach course as appropriate for the type of approach and aircraft equipment. For aircraft capable of displaying true heading, no further corrections to headings, courses or bearings are required.
 
-	+ 6.5.2.1.6. For aircraft not capable of displaying true north, instrument approaches in night or IMC are not authorized. If your aircraft does not allow selection of true north as a heading reference, use the following procedures when flying a true approach (Day, VMC Only):
+	+ 6.5.2.1.6. <strong><em>For aircraft not capable of displaying true north, instrument approaches in night or IMC are not authorized.</em></strong> If your aircraft does not allow selection of true north as a heading reference, use the following procedures when flying a true approach (Day, VMC Only):
 
 		+ 6.5.2.1.6.1. WARNING: In certain areas, magnetic heading indications may be unreliable or erratic. If magnetic heading indications are suspect, do not commence the approach. If already established on the approach and magnetic heading indications are suspect, execute a missed approach.
 
 		+ 6.5.2.1.6.2. WARNING: Flight director commands and CDI deflection may be grossly inaccurate on aircraft without a true heading source even with proper setup of courses, bearings, and headings.
 
-		+ 6.5.2.1.6.3. VOR and TACAN approaches. VOR and TACAN final approach courses do not require correction for magnetic variation. Dial in the true final approach course as depicted on the IAP. Although the CDI will be centered when on course, the bearing pointer will point to the true bearing to the station. When selecting a heading to fly to intercept/maintain the course, corrections for magnetic variation are required. Use the magnetic variation at the NAVAID the approach is based upon.
+		+ 6.5.2.1.6.3. VOR and TACAN approaches. VOR and TACAN final approach courses do not require correction for magnetic variation. <strong><em>Dial in the true final approach course as depicted on the IAP.</em></strong> Although the CDI will be centered when on course, the bearing pointer will point to the true bearing to the station. <strong><em>When selecting a heading to fly to intercept/maintain the course, corrections for magnetic variation are required. Use the magnetic variation at the NAVAID the approach is based upon.</em></strong>
 
-		+ 6.5.2.1.6.4. NDB Approaches. NDBs cannot be oriented to true north. ADF needles always display relative bearing to the station. Corrections for magnetic variation must be applied to the published bearing(s). When selecting a heading to fly to intercept/maintain the published bearing, corrections for magnetic variation are also required. Use the magnetic variation at the NAVAID the approach is based upon.
+		+ 6.5.2.1.6.4. NDB Approaches. NDBs cannot be oriented to true north. ADF needles always display relative bearing to the station. <strong><em>Corrections for magnetic variation must be applied to the published bearing(s).</em></strong> When selecting a heading to fly to intercept/maintain the published bearing, corrections for magnetic variation are also required. Use the magnetic variation at the NAVAID the approach is based upon.
 
 		+ 6.5.2.1.6.5. ILS and Localizer Approaches (includes LDA, SDF, and LOC BC). Localizer signals emanate along a fixed path along the final approach course and cannot be oriented on true north. CDIs always indicate position relative to the final approach course regardless of what is dialed into the CSW. However, selection of the correct final approach course is critical to insuring consistent cockpit indications of position relative to the final approach course. When selecting a course to dial in, corrections for magnetic variation must be applied to the published front course to insure consistent cockpit indications while on final approach. When selecting a heading to fly to intercept/maintain the published final approach course, corrections for magnetic variation are also required. Use the magnetic variation at the airport.
 
@@ -236,13 +237,13 @@ Preparation for flying an instrument approach begins with a study of the approac
 
 6.5.3. Grid Approach Procedures. (Figures 6.10 and 6.11) In some cases a NAVAID may be oriented on grid north, or a grid final approach course may be published alongside a magnetic or true final approach course. Use the following general procedures to fly a grid approach. Consult your aircraft flight manual and MAJCOM directives for specific equipment, procedures, and crew complement to fly grid.
 
-+ 6.5.3.1. The heading reference of the primary means of navigation on final approach, the heading reference of the NAVAID the approach is based on, and the orientation of the runway direction number should all be the same.
++ 6.5.3.1. <strong><em>The heading reference of the primary means of navigation on final approach, the heading reference of the NAVAID the approach is based on, and the orientation of the runway direction number should all be the same.</em></strong>
 
 	+ 6.5.3.1.1. NOTE: The NAVAID the approach is based on and the runway direction number normally will use the same heading reference.
 
-	+ 6.5.3.1.2. When a final approach course using another heading reference is published on the IAP in parenthesis, this is provided for situational awareness, and is not to be used as the primary means of navigation on final approach. Use the grid course IAW with the aircraft flight manual and MAJCOM directives.
+	+ 6.5.3.1.2. <strong><em>When a final approach course using another heading reference is published on the IAP in parenthesis, this is provided for situational awareness, and is not to be used as the primary means of navigation on final approach.</em></strong> Use the grid course IAW with the aircraft flight manual and MAJCOM directives.
 
-	+ 6.5.3.1.3. If the NAVAID and runway direction number are oriented on grid north, then grid is the primary means of navigation along final approach. Use aircraft flight manual procedures and MAJCOM directives to fly a grid approach. If a magnetic or true final approach course is published alongside the grid course it should only be used as a situational awareness tool, not the primary means of navigation.
+	+ 6.5.3.1.3. If the NAVAID and runway direction number are oriented on grid north, then grid is the primary means of navigation along final approach. Use aircraft flight manual procedures and MAJCOM directives to fly a grid approach. <strong><em>If a magnetic or true final approach course is published alongside the grid course it should only be used as a situational awareness tool, not the primary means of navigation.</em></strong>
 
 ##### Figure 6.10. Magnetic Heading Reference With Grid Course.
 ![fig6_10](figs/fig6_10.png)
@@ -283,7 +284,7 @@ Preparation for flying an instrument approach begins with a study of the approac
 
 	+ 6.5.4.3.1. NOTE: The minimums published in FLIP must be the lowest possible minimums in accordance with TERPS criteria; however, MAJCOMs may establish higher minimums for their pilots. The visibility values determine whether a straightin approach may be flown. These values are based on all approach lighting being operational. When approach lighting is inoperative, the visibility minimums will normally be one-half mile higher or as listed in the airfield NOTAMS. If a circling approach is to be flown, the weather must be at or above both the published ceiling and visibility.
 
-	+ 6.5.4.3.2. NOTE: There may be situations when you are required to fly a circling approach which does not have a ceiling requirement published. In this case, the required ceiling will be the HAA plus 100 feet rounded up to the next one hundred foot value. For example, if the HAA is 757 feet, add 100 feet to get 857 feet and then round up to the nearest one hundred foot value, which would be 900 feet. Your ceiling for the approach must be at or above 900 feet.
+	+ 6.5.4.3.2. NOTE: There may be situations when you are required to fly a circling approach which does not have a ceiling requirement published. In this case, <strong><em>the required ceiling will be the HAA plus 100 feet rounded up to the next one hundred foot value.</em></strong> For example, if the HAA is 757 feet, add 100 feet to get 857 feet and then round up to the nearest one hundred foot value, which would be 900 feet. Your ceiling for the approach must be at or above 900 feet.
 
 + 6.5.4.4. Aerodrome Sketch.
 
@@ -303,7 +304,7 @@ Preparation for flying an instrument approach begins with a study of the approac
 
 + 6.5.4.5. Additional Information. Look carefully for notes on the IAP. Notes are used to identify either nonstandard IAP criteria or to emphasize areas essential for the safe completion of the approach.
 
-+ 6.5.4.6. Alternate minimums. Some civil and foreign approaches may have ![fig6_a](figs/fig6_a.png) or ![fig6_a](figs/fig6_a.png) NA in the remarks. The ![fig6_a](figs/fig6_a.png) tells civilian pilots that the alternate minimums for the approach are non-standard and they must look in the front of the IAP book for new alternate minimums. Since Air Force alternate minimums are published in AFI 11-202V3, Air Force pilots may disregard the weather minimums listed under the ![fig6_a](figs/fig6_a.png). The ![fig6_a](figs/fig6_a.png) NA does apply to USAF aircrews and has very serious implications. The ![fig6_a](figs/fig6_a.png) NA tells civilian and military pilots that the specific approach cannot be used to qualify the field as an alternate either because of lack of weather reporting facilities and/or the lack of capability to monitor the NAVAID. Without weather reporting facilities at the airport a pilot will not be able to get a specific forecast for that airport as required by AFI 11202V3. The lack of monitoring capability of the navigation facilities is a bigger problem. Without a monitoring capability the pilot won't get any advance warning if the NAVAID is not operating. This means if the NAVAID goes off the air, there is no one to issue a NOTAM to inform the pilot of the situation before an attempt is made to identify and use the NAVAID.
++ 6.5.4.6. Alternate minimums. Some civil and foreign approaches may have ![fig6_a](figs/fig6_a.png) or ![fig6_a](figs/fig6_a.png) NA in the remarks. The ![fig6_a](figs/fig6_a.png) tells civilian pilots that the alternate minimums for the approach are non-standard and they must look in the front of the IAP book for new alternate minimums. Since Air Force alternate minimums are published in AFI 11-202V3, Air Force pilots may disregard the weather minimums listed under the ![fig6_a](figs/fig6_a.png). The ![fig6_a](figs/fig6_a.png) NA does apply to USAF aircrews and has very serious implications. <strong><em>The</em></strong> ![fig6_a](figs/fig6_a.png) <strong><em>NA tells civilian and military pilots that the specific approach cannot be used to qualify the field as an alternate</em></strong> either because of lack of weather reporting facilities and/or the lack of capability to monitor the NAVAID. Without weather reporting facilities at the airport a pilot will not be able to get a specific forecast for that airport as required by AFI 11202V3. The lack of monitoring capability of the navigation facilities is a bigger problem. Without a monitoring capability the pilot won't get any advance warning if the NAVAID is not operating. This means if the NAVAID goes off the air, there is no one to issue a NOTAM to inform the pilot of the situation before an attempt is made to identify and use the NAVAID.
 
 + 6.5.4.7. Declared Distances. Declared distances are normally associated with airports affected by close-in development, or encroachment. In order to maintain standard "safety zones" around runways, the airport manager may implement declared distances to artificially reduce the size of the runway for the purpose of increasing the distance from the runway to close-in encroachment. Runways outside of the NAS and ICAO airports may also have declared distances. These may not be indicated on the IAP or airfield diagram, and additional pre-flight planning may be required to determine what the distances are. During mission planning, you will know if the airport you intent to transit has declared distances assigned if you see a black square with a white D ( D ) on the aerodrome sketch portion of the approach plate and the Airport Diagram. Since this symbol is in negative writing, it is referred to as the "Negative D". The distances referred to by the "Negative D" symbol are found in the NACO produced Airport/Facility Directory (A/FD) or region supplement, and in the NGA-produced IFR Supplement. If checking the IFR Supplement, they are listed in the "RMKS" section under the "RSTD" title. Declared distances do not affect the actual runway dimensions as published in the airport sketch. Declared distances for takeoff and landing are not provided on airport diagrams. Stored runway data in the FMS NAV database does not include declared distances.
 
@@ -317,23 +318,23 @@ Preparation for flying an instrument approach begins with a study of the approac
 
 		+ 6.5.4.7.1.4. LDA. LANDING DISTANCE AVAILABLE-The length of runway which is declared available and suitable for the ground run of an airplane landing.
 
-	+ 6.5.4.7.2. Declared distances are in place to meet certain FAA airport design criteria. The Runway Safety Area, Runway Obstacle Free Area, and Runway Protection Zone affect the declared distance lengths at certain airfields. Declared distances are a means of obtaining a standard safety area by reducing the usable runway length. A mathematical method is used to determine runway length available. For more information on declared distance standards, see FAA AC 150/5300-13. It may not be possible for transiting aircrews to know specifically why declared distances are published as they are. USAF aircrews must adhere to Declared Distances to meet the FAA's intent of providing the best possible safety areas around the runway.
+	+ 6.5.4.7.2. Declared distances are in place to meet certain FAA airport design criteria. The Runway Safety Area, Runway Obstacle Free Area, and Runway Protection Zone affect the declared distance lengths at certain airfields. Declared distances are a means of obtaining a standard safety area by reducing the usable runway length. A mathematical method is used to determine runway length available. For more information on declared distance standards, see FAA AC 150/5300-13. It may not be possible for transiting aircrews to know specifically why declared distances are published as they are. U<strong><em>SAF aircrews must adhere to Declared Distances to meet the FAA's intent of providing the best possible safety areas around the runway.</em></strong>
 
 		+ 6.5.4.7.2.1. Some runway elements associated with declared distances may be identifiable through runway markings or lighting (displaced threshold or a designated overrun or stopway), but the individual declared distance limits are not marked or otherwise identified on the runway. Further, aircrews are reminded that climb gradient restrictions are generated from the physical departure end of the runway, not necessarily any specific declared distance.
 
-		+ 6.5.4.7.2.2. Takeoff and Landing Data (TOLD) correctly computed from the aircraft performance manual gives the aircrew the distance requirements for takeoff and landing. PICs will ensure TOLD computations for the aircraft's takeoff ground run, or landing distance, falls within the published declared distances before the pilot accepts that runway for takeoff or landing.
+		+ 6.5.4.7.2.2. Takeoff and Landing Data (TOLD) correctly computed from the aircraft performance manual gives the aircrew the distance requirements for takeoff and landing. <strong><em>PICs will ensure TOLD computations for the aircraft's takeoff ground run, or landing distance, falls within the published declared distances before the pilot accepts that runway for takeoff or landing.</em></strong>
 
 			+ 6.5.4.7.2.2.1. NOTE: As long as TOLD calculations fall within the Declared Distance limitations, a USAF aircrew may operate beyond a declared distance limit during any takeoff, landing or taxi operation, provided the runway surface is appropriately marked as usable runway. Therefore, when aircraft weight, configuration, and environmental factors allow the aircraft TOLD to meet Declared Distance limits, USAF pilots may operate normally on the runway.
 
 	+ 6.5.4.7.3. USAF Aircrews should apply declared distance information in the following manner:
 
-		+ 6.5.4.7.3.1. TORA: PICs must operate their aircraft at a weight that makes it POSSIBLE to be airborne at or before the TORA distance and then meet or exceed the published climb gradient. Normally, the published climb gradient starts at the end of the published physical runway length, at the appropriate screen height.
+		+ 6.5.4.7.3.1. TORA: <strong><em>PICs must operate their aircraft at a weight that makes it POSSIBLE to be airborne at or before the TORA distance and then meet or exceed the published climb gradient.</em></strong> Normally, the published climb gradient starts at the end of the published physical runway length, at the appropriate screen height.
 
-		+ 6.5.4.7.3.2. TODA: PICs will not incorporate TODA into planning, but will instead be limited by TORA. If TODA is longer than the depicted physical runway length, it has taken a clearway into account. Certain non-USAF turbine powered aircraft use it in their TOLD. Clearways are NOT paved nor are they weight-bearing surfaces.
+		+ 6.5.4.7.3.2. TODA: <strong><em>PICs will not incorporate TODA into planning, but will instead be limited by TORA.</em></strong> If TODA is longer than the depicted physical runway length, it has taken a clearway into account. Certain non-USAF turbine powered aircraft use it in their TOLD. Clearways are NOT paved nor are they weight-bearing surfaces.
 
-		+ 6.5.4.7.3.3. ASDA: PICs will use ASDA when computing a refusal speed (if applicable), as it provides information on stressed pavement available for stopping. If using the balanced field concept for takeoff, ASDA must be compared to TORA, and the shorter of the two used when computing TOLD.
+		+ 6.5.4.7.3.3. ASDA: <strong><em>PICs will use ASDA when computing a refusal speed</em></strong> (if applicable), as it provides information on stressed pavement available for stopping. If using the balanced field concept for takeoff, ASDA must be compared to TORA, and the shorter of the two used when computing TOLD.
 
-		+ 6.5.4.7.3.4. LDA: PICs will land at a weight and configuration that makes it POSSIBLE to touchdown and stop within the LDA. LDA starts at the approach end threshold or displaced threshold. However, the full length of the runway, if appropriately marked and available, may be used for roll-out and runway exit, given the aircraft is capable of complying with the published LDA.
+		+ 6.5.4.7.3.4. LDA: <strong><em>PICs will land at a weight and configuration that makes it POSSIBLE to touchdown and stop within the LDA.</em></strong> LDA starts at the approach end threshold or displaced threshold. However, the full length of the runway, if appropriately marked and available, may be used for roll-out and runway exit, given the aircraft is capable of complying with the published LDA.
 
 	+ 6.5.4.7.4. Touch and go operations at airfields with declared distances:
 
@@ -361,7 +362,7 @@ Preparation for flying an instrument approach begins with a study of the approac
 
 + 6.5.6.1. Equipment requirements. The "TERMS/LANDING MINIMUMS DATA" (Section A) of the U.S. Government Terminal Procedures books provide a description of the aircraft equipment requirements for RNAV (GPS) IAPs. More detailed information can be obtained via the AFFSA web page. Pilots are responsible for ensuring that the aircraft is suitably equipped for the level of minimums used. Be aware that very few RNAV (GPS) IAPs may be flown using DME/DME RNAV systems. Note that the "(GPS)" in the approach title does not indicate the approach may be flown in aircraft with any GPS equipment. GPS equipped aircraft must meet the equipment requirements described in AFI 11-202V3 and FAA AC 91-100A.
 
-	+ 6.5.6.1.1. Use of LNAV/VNAV DA requires certified VNAV functionality or WAAS on the aircraft. Use of LPV (see 6.5.6.3.3 below) minimums requires WAAS equipment on the aircraft.
+	+ 6.5.6.1.1. <strong><em>Use of LNAV/VNAV DA requires certified VNAV functionality or WAAS on the aircraft. Use of LPV (see 6.5.6.3.3 below) minimums requires WAAS equipment on the aircraft.</em></strong>
 
 + 6.5.6.2. Procedure name. Where multiple RNAV procedures exist to the same runway, subsequent RNAV procedure titles will be followed by the suffix X, Y, or Z (e.g.,"RNAV (GPS) Z RWY 22"). ATC clearance for the RNAV procedure will authorize the pilot to use any landing minimums for which the pilot and/or aircraft is capable and authorized.
 
@@ -369,7 +370,7 @@ Preparation for flying an instrument approach begins with a study of the approac
 
 	+ 6.5.6.3.1. Decision Altitude (DA). On some approaches, DA replaces the familiar term Decision Height (DH). DA conforms to the international convention where altitudes relate to MSL (i.e. referenced on a pressure altimeter) and heights relate to AGL. DA is the correct terminology for CAT I ILS, CAT II ILS with RA-NA published, LNAV/VNAV, LPV etc. The published descent profile is flown to the DA, where a missed approach will be initiated if visual references for landing are not established. Obstacle clearance criteria accounts for a momentary descent below DA while transitioning to the missed approach. Decision Height is a height above touchdown referenced by a RADAR altimeter and should only be referenced for CAT II/III ILS or those procedures using a RADAR altimeter to define minimums/decision points.
 
-	+ 6.5.6.3.2. Minimum Descent Altitude (MDA). MDA carries the same meaning as in conventional IAPs, and is associated with LNAV minimums. Obstacle clearance is based on no descent below MDA. Thus, if vertical guidance is used down to LNAV minimums, pilots must ensure that the descent is broken in time to level off at MDA if visual references for landing are not established.
+	+ 6.5.6.3.2. Minimum Descent Altitude (MDA). MDA carries the same meaning as in conventional IAPs, and is associated with LNAV minimums. Obstacle clearance is based on no descent below MDA. Thus, <strong><em>if vertical guidance is used down to LNAV minimums, pilots must ensure that the descent is broken in time to level off at MDA if visual references for landing are not established.</em></strong>
 
 	+ 6.5.6.3.3. LPV. Localizer Performance with Vertical Guidance (LPV) minimums are based on augmented GPS systems (WAAS) providing near ILS accuracy. LPV minima can be as low as a DA(H) of 250 feet above the ground, with visibility as low as 1/2 mile.
 
@@ -419,7 +420,7 @@ Preparation for flying an instrument approach begins with a study of the approac
 
 + 6.5.7.8. Pilot Briefing Area. The pilot briefing consolidates, in one location, pertinent information needed to conduct the approach. It includes final approach course, runway/airport data, procedure restrictions, approach light data, missed approach text, WAAS and BARO-VNAV information, and various NAVAID/ATC radio frequencies.
 
-	+ 6.5.7.8.1. Cold Temperature Limitations. The upper left hand area of the pilot briefing lists the airport temperature below which BARO-VNAV will not be authorized to LNAV/VNAV minimums. Cold weather corrections should still be applied to all barometrically derived approach minimums and step-down altitudes, whether Baro-VNAV is used or not. (Use of barometric VNAV DA is not authorized with a remote altimeter setting.)
+	+ 6.5.7.8.1. Cold Temperature Limitations. The upper left hand area of the pilot briefing lists the airport temperature below which BARO-VNAV will not be authorized to LNAV/VNAV minimums. <strong><em>Cold weather corrections should still be applied to all barometrically derived approach minimums and step-down altitudes, whether Baro-VNAV is used or not.</em></strong> (Use of barometric VNAV DA is not authorized with a remote altimeter setting.)
 
 + 6.5.7.9. Terminal Arrival Areas (TAA) (Figure 6.16). The standard TAA consists of three areas defined by the extension of the IAF legs and the intermediate segment course. These areas are called the straight-in, left-base, and right-base areas. TAA area lateral boundaries are identified by magnetic courses TO the IF (IAF). The straight-in area can be further divided into pie-shaped sectors with the boundaries identified by magnetic courses TO the IF (IAF), and may contain stepdown sections defined by arcs based on RNAV distances (DME or along track distance (ATD)) from the IF (IAF). The right/leftbase areas can only be subdivided using arcs based on RNAV distances from the IAFs for those areas. Minimum MSL altitudes are charted within each of these defined areas/subdivisions that provide at least 1,000 feet of obstacle clearance, or more as necessary in mountainous areas.
 
@@ -428,7 +429,7 @@ Preparation for flying an instrument approach begins with a study of the approac
 
 6.5.8. Reviewing GPS instrument approaches. AFI 11-202V3 lists specific equipment requirements for GPS stand-alone and overlay instrument approaches.
 
-+ 6.5.8.1. RNAV (GPS) Approaches (Figure 6.17). RNAV (GPS) stand-alone approaches are constructed specifically for use by RNAV and/or GPS equipped aircraft and are not based on ground based NAVAIDS. RNAV (GPS) stand-alone approaches are identified by the absence of other NAVAIDS in the approach title, for example GPS RWY 35 or RNAV (GPS) RWY 35. RNAV (GPS) approaches are authorized in IMC for appropriately equipped and certified USAF aircraft.
++ 6.5.8.1. RNAV (GPS) Approaches (Figure 6.17). RNAV (GPS) stand-alone approaches are constructed specifically for use by RNAV and/or GPS equipped aircraft and are not based on ground based NAVAIDS. RNAV (GPS) stand-alone approaches are identified by the absence of other NAVAIDS in the approach title, for example GPS RWY 35 or RNAV (GPS) RWY 35. <strong><em>RNAV (GPS) approaches are authorized in IMC for appropriately equipped and certified USAF aircraft.</em></strong>
 
 ##### Figure 6.17. Stand Alone GPS Approach.
 ![fig6_17](figs/fig6_17.png)
@@ -444,12 +445,12 @@ Preparation for flying an instrument approach begins with a study of the approac
 
 	+ 6.5.8.2.2. Procedures Without a Final Approach Fix. Procedures without a FAF and without a stepdown fix have a Sensor FAF waypoint coded in the database at least 4 NM Actual Track Distance (ATD) to the MAP waypoint. The MAP, in this case, is always located at the NAVAID facility. A Sensor FAF is a final approach waypoint created and added to the database sequence of waypoints to support GPS navigation of an FAA or DoD published, no-FAF, nonprecision instrument approach procedure. The coded name or Sensor FAF appears in the waypoint sequence. If a stepdown fix exists on the published procedure and it is greater than 2 NM to the MAP, the stepdown fix is coded in the database as the Sensor FAF waypoint for the waypoint sequence. If a stepdown fix distance is 2 NM or less to the MAP, a Sensor FAF waypoint is coded at least 4 NM to the MAP.
 
-+ 6.5.8.3. RNP SAAAR Approaches (Figure 6.19). USAF pilots shall not fly these procedures until completing MAJCOM-defined training and certification. SAAAR procedures are to be conducted by aircrews meeting special training requirements in aircraft that meet the specified performance and functional requirements. RNP SAAAR approaches are clearly marked with (RNP) in the instrument procedure name and SPECIAL AIRCRAFT AND AIRCREW AUTHORIZATION REQUIRED in the comment block.
++ 6.5.8.3. RNP SAAAR Approaches (Figure 6.19). <strong><em>USAF pilots shall not fly these procedures until completing MAJCOM-defined training and certification.</em></strong> SAAAR procedures are to be conducted by aircrews meeting special training requirements in aircraft that meet the specified performance and functional requirements. RNP SAAAR approaches are clearly marked with (RNP) in the instrument procedure name and SPECIAL AIRCRAFT AND AIRCREW AUTHORIZATION REQUIRED in the comment block.
 
 ##### Figure 6.19. RNP SAAAR.
 ![fig6_19](figs/fig6_19.png)
 
-+ 6.5.8.4. RNAV Substitution. IAW AFI 11-202V3, for procedures developed by a US TERPS authority (FAA/USAF/USN), MAJCOM-approved suitable RNAV systems may be used as a substitute means of navigation for a named fix, VOR, TACAN, NDB, DME or compass locator. In such terminal areas, following a successful predictive RAIM check, approved RNAV systems may be substituted for required NAVAIDS or named fixes on arrivals, departures, and non-localizer based instrument procedures. Any such substitution must be extracted from a current database. These operations are allowable even when a facility is explicitly identified as required on a procedure (e.g., "Note ADF required"), but not if the procedure is NOTAM'ed as NA. Pilots using approved RNAV systems as a substitute means of navigation guidance in lieu of an out of service NAVAID should advise ATC of this intent and capability. Pilots will tune, identify, monitor and display the appropriate ground-based NAVAIDs whenever practicable.
++ 6.5.8.4. RNAV Substitution. IAW AFI 11-202V3, for procedures developed by a US TERPS authority (FAA/USAF/USN), MAJCOM-approved suitable RNAV systems may be used as a substitute means of navigation for a named fix, VOR, TACAN, NDB, DME or compass locator. In such terminal areas, following a successful predictive RAIM check, approved RNAV systems may be substituted for required NAVAIDS or named fixes on arrivals, departures, and non-localizer based instrument procedures. Any such substitution must be extracted from a current database. These operations are allowable even when a facility is explicitly identified as required on a procedure (e.g., "Note ADF required"), but not if the procedure is NOTAM'ed as NA. Pilots using approved RNAV systems as a substitute means of navigation guidance in lieu of an out of service NAVAID should advise ATC of this intent and capability. <strong><em>Pilots will tune, identify, monitor and display the appropriate ground-based NAVAIDs whenever practicable.</em></strong>
 
 6.5.9. Relationship of Avionics Displayed Waypoints to Charted Data. The GPS Approach Overlay Program waypoints contained in the database represent the waypoints, fixes, NAVAIDs, and other points portrayed on a published approach procedure beginning at the initial approach fix. Certain unnamed points and fixes appearing on a chart are assigned a database identifier. Although there currently is no requirement to provide these database identifiers, most charting agencies are publishing them at their discretion. Database identifiers should not be used for pilot/controller communications or on flight plans.
 
@@ -463,7 +464,7 @@ Before flight, accomplish a thorough instrument cockpit check. You should check 
 
 + 6.6.1.1. If you are authorized to carry Jeppesen products, ensure you have Book 1 (summary, notices, legend information, etc.) and ALL the pages for the appropriate airport. Important information is contained on the back of the airfield diagram page. Radio out procedures are often contained on a different page from the IAP you are using. Without Book 1 and all the pages for the airport, you may miss crucial information.
 
-+ 6.6.1.2. Host nation FLIP documents, enroute charts, IAPs, etc, will not be used without MAJCOM approval IAW AFI 11-202V3.
++ 6.6.1.2. <strong><em>Host nation FLIP documents, enroute charts, IAPs, etc, will not be used without MAJCOM approval IAW AFI 11-202V3.</em></strong>
 
 6.6.2. Pitot Heat. Check for proper operation.
 
@@ -593,7 +594,7 @@ Before flight, accomplish a thorough instrument cockpit check. You should check 
 
 #### 6.8.{#6_8} Instrument Approaches to Uncontrolled Airports.
 
-6.8.1. Instrument approaches to uncontrolled airports are authorized for USAF aircrews unless otherwise restricted by MAJCOM. For VFR procedures at uncontrolled airports, see AFMAN 11-217 Volume 2, Visual Flight Procedures.
+6.8.1. <strong><em>Instrument approaches to uncontrolled airports are authorized for USAF aircrews unless otherwise restricted by MAJCOM.</em></strong> For VFR procedures at uncontrolled airports, see AFMAN 11-217 Volume 2, Visual Flight Procedures.
 
 6.8.2. All operations at uncontrolled airports require additional vigilance on the part of the aircrew. Conducting instrument approaches at uncontrolled airports are especially challenging as the ground track of the instrument approach may not coincide with the ground tracks of the VFR traffic pattern, the instrument approach may not terminate at the active runway, altitudes may not coincide with the prevailing traffic patterns, and not all VFR pilots are familiar with the instrument approach procedures at the airport. Aircrews must thoroughly brief reporting procedures and crew coordination procedures prior to accomplishing an instrument approach at an uncontrolled airport.
 
@@ -661,7 +662,7 @@ Before flight, accomplish a thorough instrument cockpit check. You should check 
 
 #### 6.9.{#6_9} Flyability Checks.
 
-6.9.1. Instrument procedure flyability checks are flown to ensure procedures are safe, practical, and consistent with good operating procedures before general use. They may be accomplished in lieu of or in addition to an official flight check. Whenever possible, flyability checks should be conducted by instructor/evaluator pilots. Flyability checks are NOT official flight inspections ("flight checks"), but shall include the entire procedure including the missed approach segment and all holding patterns. Prior to accomplishing a flyability check, pilots will review applicable portions of AFI 11-230, Instrument Procedures.
+6.9.1. Instrument procedure flyability checks are flown to ensure procedures are safe, practical, and consistent with good operating procedures before general use. They may be accomplished in lieu of or in addition to an official flight check. Whenever possible, flyability checks should be conducted by instructor/evaluator pilots. Flyability checks are NOT official flight inspections ("flight checks"), but shall include the entire procedure including the missed approach segment and all holding patterns. <strong><em>Prior to accomplishing a flyability check, pilots will review applicable portions of AFI 11-230, Instrument Procedures.</em></strong>
 
 ----
 

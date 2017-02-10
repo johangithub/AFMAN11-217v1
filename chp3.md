@@ -86,6 +86,7 @@ The flight director provides the pilot with displays of pitch and bank attitudes
 ##### Figure 3.4. ADI and HSI.
 ![fig3_4](figs/fig3_4.png)
 
++ 
 	+ 3.3.1.1.2. Command Bars. The command bars display steering information to intercept or maintain a desired flight path. To utilize the steering function, simply "fly" the ADI's aircraft symbol by adjusting the aircraft attitude until it is snugly aligned beneath the command bars. The bars will command the proper pitch and bank to turn, intercept, and maintain a course and altitude.
 
 		+ 3.3.1.1.2.1. NOTE: Warning flags are incorporated in the ADI to indicate failure or unreliability of presentations. Check the aircraft flight manual for specific warning flags applicable to your aircraft. In some ADIs, if power fails to the pitch and bank steering bars, no warning flags will appear, and the pitch and bank steering bars will center. Monitor the identifier to ensure that the signal is reliable. In most aircraft a warning flag appears when the signal strength is insufficient.
@@ -134,7 +135,7 @@ Many newer aircraft are equipped with an FMS consisting of a Flight Management C
 
 #### 3.5.{#3_5} Single Medium Displays.
 
-A single medium display is a Head-Up Display (HUD), HeadDown Display (HDD), or Helmet-Mounted Display (HMD) (Figure 3.7). These systems can display control, performance, and navigation data in the pilot's outside field of view, enabling him to clear and monitor instruments simultaneously. Information received from HUD equipment that is not certified for sole-reference instrument flight by HQ USAF/A3O must be verified with other cockpit indications.
+A single medium display is a Head-Up Display (HUD), HeadDown Display (HDD), or Helmet-Mounted Display (HMD) (Figure 3.7). These systems can display control, performance, and navigation data in the pilot's outside field of view, enabling him to clear and monitor instruments simultaneously. <strong><em>Information received from HUD equipment that is not certified for sole-reference instrument flight by HQ USAF/A3O must be verified with other cockpit indications.</em></strong>
 
 ##### Figure 3.7. Helmet Mounted Display.
 ![fig3_7](figs/fig3_7.png)

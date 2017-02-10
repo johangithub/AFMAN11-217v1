@@ -22,7 +22,7 @@ A Category II ILS approach provides the capability of flying to minima as low as
 
 16.1.5. From 100 feet above the DH to the Category II DH, the PM will concentrate primarily on outside references to determine if visual cues are sufficient to complete the landing visually.
 
-16.1.6. Continue the approach at DH only if the following conditions are met:
+16.1.6. <strong><em>Continue the approach at DH only if the following conditions are met:</em></strong>
 
 + 16.1.6.1. Runway environment (as defined in para 12.1.2.2.) is in sight.
 
@@ -36,7 +36,7 @@ A Category II ILS approach provides the capability of flying to minima as low as
 
 16.1.7. Go around at DH if the runway environment is not in sight or if any of the above tolerances are exceeded.
 
-+ 16.1.7.1. NOTE: These procedures are intended for use by Category II ILS certified aircrews only. Individual MAJCOM directives and aircraft manuals have established minimum equipment requirements and restrictions that must be complied with prior to initiating a Category II ILS approach.
++ 16.1.7.1. NOTE: These procedures are intended for use by Category II ILS certified aircrews only. <strong><em>Individual MAJCOM directives and aircraft manuals have established minimum equipment requirements and restrictions that must be complied with prior to initiating a Category II ILS approach.</em></strong>
 
 ##### Figure 16.1. Category II ILS.
 ![fig16_1](figs/fig16_1.png)
