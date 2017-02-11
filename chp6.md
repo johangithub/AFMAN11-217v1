@@ -318,7 +318,7 @@ Preparation for flying an instrument approach begins with a study of the approac
 
 		+ 6.5.4.7.1.4. LDA. LANDING DISTANCE AVAILABLE-The length of runway which is declared available and suitable for the ground run of an airplane landing.
 
-	+ 6.5.4.7.2. Declared distances are in place to meet certain FAA airport design criteria. The Runway Safety Area, Runway Obstacle Free Area, and Runway Protection Zone affect the declared distance lengths at certain airfields. Declared distances are a means of obtaining a standard safety area by reducing the usable runway length. A mathematical method is used to determine runway length available. For more information on declared distance standards, see FAA AC 150/5300-13. It may not be possible for transiting aircrews to know specifically why declared distances are published as they are. U<strong><em>SAF aircrews must adhere to Declared Distances to meet the FAA's intent of providing the best possible safety areas around the runway.</em></strong>
+	+ 6.5.4.7.2. Declared distances are in place to meet certain FAA airport design criteria. The Runway Safety Area, Runway Obstacle Free Area, and Runway Protection Zone affect the declared distance lengths at certain airfields. Declared distances are a means of obtaining a standard safety area by reducing the usable runway length. A mathematical method is used to determine runway length available. For more information on declared distance standards, see FAA AC 150/5300-13. It may not be possible for transiting aircrews to know specifically why declared distances are published as they are. <strong><em>USAF aircrews must adhere to Declared Distances to meet the FAA's intent of providing the best possible safety areas around the runway.</em></strong>
 
 		+ 6.5.4.7.2.1. Some runway elements associated with declared distances may be identifiable through runway markings or lighting (displaced threshold or a designated overrun or stopway), but the individual declared distance limits are not marked or otherwise identified on the runway. Further, aircrews are reminded that climb gradient restrictions are generated from the physical departure end of the runway, not necessarily any specific declared distance.
 
@@ -378,6 +378,10 @@ Preparation for flying an instrument approach begins with a study of the approac
 
 ##### Figure 6.14. RNAV (GPS) Approach Minimums.
 ![fig6_14](figs/fig6_14.png)
+
++ 
+
+	+ 
 
 		+ 6.5.6.3.4.1. LNAV. These minimums are for LNAV (lateral) –only guidance. Because vertical guidance is not provided, the procedure minimum altitude will be published as a MDA. With an approved VNAV system, VNAV guidance may be used if provided by the RNAV system as long as the aircraft is level prior to MDA.
 

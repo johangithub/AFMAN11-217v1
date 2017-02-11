@@ -2,13 +2,19 @@ Disclaimer: Original document on at http://static.e-publishing.af.mil/production
 
 Disclaimer #2: Typo possible, because I formatted these texts mostly using [regex](https://docs.python.org/2/library/re.html).
 
-Read the AFMAN11-217v1 [here](https://johangithub.gitbooks.io/afman11-217v1)
+----
 
-Download the PDF [here](https://www.gitbook.com/download/pdf/book/johangithub/afman11-217v1)
+Read the AFMAN11-217v1 as:
 
-Download the Kindle Version [here](https://www.gitbook.com/download/mobi/book/johangithub/afman11-217v1) 
+Web version [here](https://johangithub.gitbooks.io/afman11-217v1)
+
+PDF [here](https://www.gitbook.com/download/pdf/book/johangithub/afman11-217v1)
+
+Kindle Version [here](https://www.gitbook.com/download/mobi/book/johangithub/afman11-217v1) 
 
 Download ePub [here](https://www.gitbook.com/download/epub/book/johangithub/afman11-217v1)
+
+----
 
 See typos or Issues? Create Issues [here](https://github.com/johangithub/AFMAN11-217v1/issues) or send me an email at **joe** dot **han0212**  at **gmail**
 
@@ -16,15 +22,23 @@ See typos or Issues? Create Issues [here](https://github.com/johangithub/AFMAN11
 
 TODO: 
 
-- [ ] Add crosslink to figures, sections, paragraphs
+- [ ] Add crosslink to figures, sections, paragraphs. Then fix table of contents
 
-- [X] Add bold/italics that match the document
+- [ ] Fix Sectioning in eBook in SUMMARY.md
 
 - [ ] Fix Sidebar navigation and pagination. (Gitbook devs are investigating [this](https://github.com/GitbookIO/feedback/issues/187))
 
-- [ ] Test pdf, ePub and mobi
+- [ ] PDF: Looks good, but needs intro page. (18.6MB)
+
+- [ ] ePub: Looks best, but need to fix floating figure label. Also it's 42MB
+
+- [ ] mobi: Not tested yet
 
 - [ ] Fix search function. It crashes
+
+- [X] Add bold/italics that match the document
+
+- [X] Test pdf, ePub and mobi
 
 - [X] Fix equations using LaTex
 

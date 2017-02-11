@@ -404,7 +404,7 @@ The ICAO has adopted "Global Navigation Satellite System (GNSS)" as an umbrella 
 
 	+ 5.10.6.1.2. <strong><em>All waypoints, fixes, and facility locations must be retrieved from a current aircraft database.</em></strong> Users may not alter terminal procedures retrieved from the equipment database.
 
-	+ 5.10.6.1.3. P<strong><em>ilots must verify all waypoint names, sequence, course, distance, and altitude information from the database against information listed on the paper copy of the terminal procedure (to include the missed approach)</em></strong> as discussed in the section 5.12 of this AFMAN, and as directed by the MAJCOM. <strong><em>Aircrew operating aircraft equipped with an Electronic Flight Bag (EFB) are also required to verify FMS against EFB data.</em></strong>
+	+ 5.10.6.1.3. <strong><em>Pilots must verify all waypoint names, sequence, course, distance, and altitude information from the database against information listed on the paper copy of the terminal procedure (to include the missed approach)</em></strong> as discussed in the section 5.12 of this AFMAN, and as directed by the MAJCOM. <strong><em>Aircrew operating aircraft equipped with an Electronic Flight Bag (EFB) are also required to verify FMS against EFB data.</em></strong>
 
 	+ 5.10.6.1.4. <strong><em>CDI must be set (either manually or automatically) to terminal sensitivity (+- 1 nm).</em></strong>
 

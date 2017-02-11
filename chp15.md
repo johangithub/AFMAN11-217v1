@@ -210,7 +210,7 @@ Here are a few ICAO definitions that differ from those commonly used in the Unit
 		+ 15.4.2.2.7.6. <strong><em>Apply drift corrections to track the published ground track.</em></strong>
 
 + 
-	+ 15.4.2.2.8. A<strong><em>irspeed Restrictions. Before reaching the IAF, reduce to maneuvering airspeed. Use holding speed if maneuvering speed is not specified for your aircraft.</em></strong>
+	+ 15.4.2.2.8. <strong><em>Airspeed Restrictions. Before reaching the IAF, reduce to maneuvering airspeed. Use holding speed if maneuvering speed is not specified for your aircraft.</em></strong>
 
 ##### Table 15.2. Maximum Approach Speeds.
 
